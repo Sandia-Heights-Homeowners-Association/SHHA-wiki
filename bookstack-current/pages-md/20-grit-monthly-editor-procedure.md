@@ -1,104 +1,111 @@
 # GRIT Monthly Editor Procedure
 
-**For Larry and any designated GRIT editor.** Use this checklist to turn submissions into an edited issue, give the layout assistant a complete package, and get the finished issue through approval. Start by confirming the issue month in the submissions app.
+**For the GRIT editor and anyone covering the role.** Start by selecting the correct issue in the [submissions app](https://sandiaheightsgrit.app/), then follow the steps below through layout, approval, and archiving.
 
-You can manage the editorial work without learning Adobe InDesign. The layout assistant prepares the page layout; use the [GRIT Layout Monthly Guide](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/grit-layout-monthly-guide) if you are doing that work yourself. For publication rules, use the [approved content rules and submission guide](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/grit-content-rules-and-submission-guide).
+**Editor contact:** <griteditor@sandiahomeowners.org>. This address also signs in to the office's **OneDrive** for collecting ads and archiving the finished layout package. The Google account `shhagrit@gmail.com` is for Google Drive/file-sharing convenience only; **do not email that Gmail address**.
 
-## The route from submission to finished issue
+## The route from content to archive
 
-Submissions app → issue plan → copied Google Docs editing template → reviewed Markdown file and image/ad files in Google Drive → layout assistant → PDF review and approval → office distribution.
+<p class="callout info">**Google Drive is the working issue folder; OneDrive is the long-term archive.** Ads, text, and images come together in Google Drive. The layout assistant reads that package and uploads the layout and PDF there. After approval, preserve the complete source package in OneDrive.</p>
 
-**Markdown** is a plain-text file with simple formatting markers, such as `#` before an article title. You will use the template to turn it into a readable Google document for editing, then provide a checked `.md` file to the layout assistant. Image references in the text do not contain the actual images.
+[![Complete GRIT workflow: collect ads from OneDrive, text from the submissions app, and images from the app and email in the Google Drive issue folder under shhagrit@gmail.com, which is for file sharing only. Contact the editor at griteditor@sandiahomeowners.org. The layout assistant reads the package from Google Drive, communicates through Upwork, and returns the layout and draft PDF there. Reviewers comment on the draft. The assistant incorporates edits and creates a new final PDF, shared as Viewer with the Board, printer, Secretary, and Office. The Secretary approves content, the printer prepares a proof, and the Office approves the final proof. Finally, sign in to OneDrive with griteditor@sandiahomeowners.org and archive the full editable layout package, assets, text, approved PDF, and proof for the long term.](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-10/embedded-image-vgnsaadr.png)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-10/embedded-image-vgnsaadr.png)
 
-## 1. Have your access and issue folder ready
+[Open the flowchart at full size](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-10/embedded-image-vgnsaadr.png).
 
-1. Use the approved GRIT browser profile and accounts supplied during editor onboarding. Confirm that you can open the [GRIT submissions app](https://sandiaheightsgrit.app) and its editor area, the GRIT Google Drive, the office's OneDrive workspace, and the existing layout contract/messages in Upwork.
-2. Ask the SHHA office or current editor to arrange missing access. Google Drive and Microsoft OneDrive are separate services and may use different accounts. Do not assume your personal account has access. Keep passwords and account recovery details out of issue documents and messages.
-3. In Google Drive, choose **My Drive**, then open **Monthly Issues → \[year\] → \[issue folder\]**. Recent files can be convenient, but My Drive makes it easier to confirm where a file belongs.
-4. Create or confirm the current issue folder, with **Ads** and **Images** subfolders. Name the issue clearly, including both months for a combined issue. Keep the editing document, current Markdown file, and layout/proof versions together in this issue folder.
+## 1. Open the workspaces and issue folder
 
-For help with sign-in or unfamiliar permission prompts, use [Quick Links &amp; Directory](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/quick-links-directory) to find IT help. Access to this public procedure does not grant access to the working files.
+1. Confirm access to the submissions app's editor area, **Google Drive under shhagrit@gmail.com**, the office's **OneDrive using griteditor@sandiahomeowners.org**, and the existing layout contract in **Upwork → Messages**. Ask the Office to arrange missing access.
+2. In Google Drive, open **My Drive → Monthly Issues → \[year\] → \[issue folder\]**. Create the issue folder if needed, including **Ads** and **Images** subfolders. Clearly name combined issues.
+3. Keep this issue's text, assets, layout files, and PDF versions together. Google Drive and OneDrive are separate services; copying between them is a manual step.
 
-## 2. Plan the correct issue
+For sign-in help, use [Quick Links &amp; Directory](/books/shha-it-help-guide/page/quick-links-directory). Keep passwords and account-recovery details out of issue documents.
 
-1. Open the editor area of the submissions app and choose **Issue Planning**. Check the selected issue month before making changes. The default advances at the start of a month; use the issue selector when you are still finishing an earlier issue. Confirm which plan represents a combined issue.
-2. Review new submissions and the backlog. Use the **Inbox** to read a full submission when needed. Use **Plan** to bring an item into the selected issue.
-3. In **Content Flow**, put the selected items in the intended reading order. Review dates, titles, author bylines, relevance, and available space. A submission's private contact information is not automatically part of its published byline.
-4. Use placeholders to track expected material, such as a President's note or Board report. Follow up on missing material, then replace or remove the placeholders before sending the issue to layout.
-5. Agree the space budget with the layout assistant. Shorten, defer, or request revisions where needed, following the approved editorial rules and contributor-review requirements. Review deferred items again for a later issue.
+## 2. Plan the issue
 
-The normal submission deadline is around the 20th for the following month's issue; confirm the current production dates and any combined-issue arrangements with the office and layout assistant. See the [production schedule and responsibilities](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/grit-internal-production-reference).
+1. In the app's **Issue Planning** area, check the selected month, especially when finishing an earlier or combined issue.
+2. Review new submissions and the backlog. Use **Plan** to select items, then **Content Flow** to arrange the reading order.
+3. Check dates, titles, bylines, relevance, and space. Follow up on expected material and resolve placeholders before layout. A contributor's private contact details are not automatically a published byline.
+4. Agree the word/page budget and turnaround with the layout assistant. The final printed booklet must have a page count divisible by four. Follow the [approved content and editing rules](/books/shha-it-help-guide/page/grit-content-rules-and-submission-guide) when shortening or revising contributions.
 
-**Planning figures need confirmation:** the walkthrough mentioned approximately 3,500 words for a 16-page plan and 4,700 for an 18-page plan. These are working estimates, not submission limits or approved print specifications. Ads and images change the available space. The layout guide requires a final booklet page count divisible by four; clarify how planning pages and covers are counted before using the 18-page figure.
+The normal deadline is around the 20th for the following month's issue. Confirm the dates with the Office and layout assistant; see the [production schedule and responsibilities](/books/shha-it-help-guide/page/grit-internal-production-reference).
 
-## 3. Collect the actual ads, photographs, and recurring material
+## 3. Collect ads and images
 
-The working layout package is in **Google Drive**. The office supplies current advertisements through **OneDrive**; copying files between them is a manual step in this workflow.
+1. Sign in to the office's **OneDrive with griteditor@sandiahomeowners.org**. Office staff supply current ads by the issue deadline. Use **GRIT Editor Workspace → Monthly Issues → \[year\] → \[issue\] → Ads**, or the workspace the Office provides.
+2. Download the current ads, extract the ZIP if necessary, and upload the actual files to the Google Drive issue's **Ads** folder.
+3. Collect photographs and graphics from the **submissions app and email**, then upload them to **Images**. Copy carried-over or reusable artwork into this issue without disturbing earlier archives or master files.
 
-1. Check with the office for the current ads, normally provided by the 20th. In OneDrive, open **My files → GRIT Editor Workspace → Monthly Issues → \[year\] → \[issue\] → Ads**, or the equivalent shared committee workspace supplied by the office.
-2. Download the current Ads folder. A folder download may arrive as a ZIP file in your computer's Downloads folder. Extract it and upload the actual ad files into the current Google Drive issue's **Ads** folder. Confirm the files open and belong to the current issue.
-3. Download the actual photographs and graphics supplied with selected submissions or by email, and upload them into **Images**. Copying submission text alone does not bring its attachments with it.
-4. For an article carried over from a previous issue, locate its matching artwork and copy it into the current issue. Preserve the earlier issue's archive.
-5. For recurring material such as Kids Corner, find the correct file for this issue or combined period. A list view can make full filenames easier to read. Use **Make a copy** and move the copy into the issue folder, leaving the reusable source intact. The **GRIT Design Assets** folder is another source of reusable artwork.
+<p class="callout info">**Text references do not contain image files.** Supply the actual images, with filenames and captions that match the text. Check that important details remain readable in black and white.</p>
 
-Check that every image works in black and white and has enough detail for print. Optional AI-generated illustrations need the same editorial review: check the subject, local details, odd objects or anatomy, contrast, and background before including them. An illustration does not establish that an article's claims are correct.
+## 4. Download the issue's Markdown
 
-## 4. Copy the planned text into the Google Docs editing template
+**Markdown** is plain text with formatting markers, such as `#` before a heading. A `.md` file gives the layout assistant the issue text and image-filename notes.
 
-1. In the submissions app, open **Newsletter Preview**. Check the article order and word count, then choose **Copy Text**. This copies the issue as simplified Markdown.
-2. In the GRIT Google Drive, find **Master Template Content Editing**. Make a copy, rename it for the issue, and move the copy into the current issue folder. Work in the copy so the master stays ready for the next issue.
-3. Open the copied Google document and wait for the custom **GRIT** menu to appear. Choose **GRIT → Open Markdown Sidebar**.
-4. On first use, the template may request Google authorization for **GRIT Markdown Applier**. Use only the approved template and intended account. If the script, requested access, or warning is unfamiliar, ask the current template maintainer or IT help to review it before continuing.
-5. Paste the copied text into the sidebar. Put the cursor in the blank working document and select **Insert at cursor**. You should see readable article text with styled headings.
+1. In the submissions app, open **Newsletter Preview** and confirm the issue month and reading order.
+2. Choose **Download Markdown** to download all the planned issue's Markdown in one file. It normally appears in your computer's **Downloads** folder.
 
-The sidebar may clear if the page refreshes; text already inserted into the Google document remains saved. Check the document before inserting again, so you do not accidentally duplicate the whole issue.
+<p class="callout info">**The Google Docs/Markdown-sidebar workflow is optional.** You can use the app's direct download without going through Google Docs.</p>
 
-## 5. Edit the document and identify images clearly
+### Optional: edit in the Google Docs template
 
-1. Read the issue from beginning to end. Correct spelling, clarity, dates, links, titles, and bylines. Replace any “Untitled submission” heading with an appropriate title.
-2. Keep article titles as **Heading 1**, bylines as **Heading 2**, and ordinary text as normal paragraphs. This is an editing document; the layout assistant will handle the final page design.
-3. Remove unresolved placeholders. Where substantial revisions need the contributor's review, follow the [approved editing and contributor-review rules](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/grit-content-rules-and-submission-guide).
-4. Identify each intended image with its exact filename in the text, plus any caption and placement note. For example: `[PHOTO: fence-illustration.png]`, followed by “Place with the fence article; caption: …”. Confirm that the named file exists in the issue's Images folder.
-5. Keep the actual image files separate for layout. A vague note such as “put a picture here,” or a picture pasted only into the editing document, is not a complete image handoff. If you rename a file, update its text reference too.
+1. If you prefer editing in Google Docs, copy **Master Template Content Editing** into the issue folder. Paste the issue's Markdown into **GRIT → Open Markdown Sidebar** and choose **Insert at cursor**. Work in the copy.
+2. Keep titles as **Heading 1**, bylines as **Heading 2**, and body text as ordinary paragraphs. Ask the template maintainer about unfamiliar authorization prompts.
+3. Export the edited document to Markdown using the approved template method. Compare the result with the document: the sidebar's download may contain its earlier input rather than later document edits. Resolve any mismatch before layout.
 
-## 6. Export and check the Markdown file
+## 5. Review the text and image notes
 
-1. Use **Download Markdown** in the GRIT sidebar to obtain a `.md` file. The download goes to your computer, usually **Downloads**; it does not automatically appear in Google Drive.
-2. Open that file in a plain-text editor and compare it with the reviewed Google document. Check a recent correction, the article order, titles, bylines, and image filenames. **Confirm that your final edits are actually included.**
-3. If the file contains the earlier, unedited text, ask the template maintainer for the approved way to export the edited document. The walkthrough did not establish whether the sidebar exports subsequent document edits or its original input. Resolve a mismatch before handing off the file.
-4. In Google Drive, open the current issue folder and choose **New → File upload** to upload the checked Markdown file. Give it a clear issue/version name and identify which file is current. After later editorial changes, export, check, and upload again.
+1. Read the issue from start to finish. Correct spelling, dates, links, titles, and bylines; remove placeholders and replace any “Untitled submission” headings.
+2. Identify each intended image by its exact filename, caption, and any placement note; for example, `[PHOTO: fence-illustration.png]`. Confirm the file is in **Images**. Update the text reference if you rename a file.
+3. Follow the contributor-review requirements for substantive edits. Recheck any illustration for accuracy and print readability.
 
-## 7. Hand the complete package to the layout assistant
+## 6. Upload the checked text to Google Drive
 
-Before sending the handoff, confirm:
+1. Open the final `.md` file in a plain-text editor. Check the article order, recent corrections, titles, bylines, and image filenames.
+2. In the Google Drive issue folder, choose **New → File upload**. Give the text file a clear issue/version name and identify the current version.
 
-- The issue month or combined period is correct.
-- Selected articles are edited, ordered, and have usable titles and bylines; placeholders are resolved.
-- The word/page budget and requested return date are agreed.
-- Current ads and every referenced image are present, open correctly, and have clear filenames.
-- The uploaded Markdown matches the reviewed document, and the current version is unambiguous.
-- The designated layout assistant can open the assigned issue folder through the approved sharing arrangement.
+## 7. Hand the package to the layout assistant
 
-Use the existing contract's **Upwork → Messages** conversation. The walkthrough used Ashish as the layout assistant; confirm the current assignment. Give a new assistant access through the approved process, and agree the actual turnaround instead of assuming a previous issue's response time.
+The package is ready when the checked text, current ads, and all referenced images are present and open correctly.
 
-You can adapt this message:
-
-> Hello \[name\], I am the editor for the \[month/year or combined period\] GRIT. The layout package is ready at \[Google Drive issue-folder link\]. Please use \[exact Markdown filename/version\]. Current ads are in Ads and article images are in Images; the text identifies image filenames and captions. Please note \[placement notes or explicitly identified outstanding items\]. Can you return the first PDF by \[agreed date/time and time zone\]? Please let me know if any file or access is missing.
-
-Keep editorial changes after handoff coordinated: tell the assistant exactly which file or passage has changed, so an older draft is not laid out by mistake.
+1. Use the existing **Upwork → Messages** conversation. Send the Google Drive issue-folder link, exact text filename/version, placement notes, outstanding items, and the agreed first-PDF deadline.
+2. Confirm the layout assistant can open the folder. The assistant reads the package from **Google Drive** and uploads the editable layout files and draft PDF back there.
+3. Coordinate later corrections through the same conversation, identifying exactly what changed.
 
 ## 8. Review the PDF and complete approval
 
-The walkthrough focused on preparing and handing off the editorial package. The approval sequence below follows the existing [GRIT Internal Production Reference](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/grit-internal-production-reference).
+### Share the draft for comments
 
-1. Review the returned PDF against the approved text and assets: article completeness, bylines, dates, links, captions, matching images, current ads, and readable black-and-white output. Send clear corrections to the layout assistant and check the revised PDF.
-2. Send the current Google Drive final-PDF link to the Board/Secretary for content review, copying the printer so the printer can prepare a proof in parallel. Ensure recipients can open the linked file.
-3. Obtain the Secretary's content approval. The office reviews and approves the printer proof **after** this content approval.
-4. If content changes during review, hold office proof approval. Have the PDF corrected and the printer prepare a new proof; only approve the proof of the corrected content version.
-5. Coordinate print distribution, email distribution, and online posting with the office. Keep the approved PDF and final source package clearly identified. Confirm the office's required OneDrive archive destination and copy the completed package there; do not assume the Google Drive working folder synchronizes automatically.
+1. Check the returned PDF against the text and assets: article completeness, bylines, dates, links, captions, images, ads, and black-and-white readability.
+2. Create **Draft review** inside the monthly Google Drive folder and put the draft PDF there. Keep working documents and source assets in the other issue folders.
+3. **Right-click Draft review → Share → General access → Anyone with the link → Commenter.** Choose **Copy link**, then **Done**. Send reviewers the folder link, current PDF filename, and a comment deadline with date, time, and time zone.
+4. Review the comments and send agreed corrections to the layout assistant through Upwork. Check that the revised layout incorporates them.
+
+### Share the new final PDF as view only
+
+<p class="callout info">**The final version is a new PDF with the edits incorporated.** Keep the original commented draft as a separate file.</p>
+
+1. Have the layout assistant upload the **new final PDF** to a **Final** folder alongside **Draft review**.
+2. **Right-click the new PDF itself → Share → General access → Anyone with the link → Viewer.** Choose **Copy link**, then **Done**. Check that the link opens in a private browser window.
+3. Send that PDF link to the **Board for an early preview**, the **printer**, the **Secretary**, and the **Office**. Identify the issue/version and response deadline.
+
+### Approve the content and printer proof
+
+1. Obtain the **Secretary's content approval**. The printer can prepare a proof in parallel from the linked PDF.
+2. The **Office approves the final printer proof after Secretary content approval**, checking that it matches the approved PDF.
+3. If changes are required, hold proof approval. Have the layout assistant upload a new revised PDF, send its view-only link to the same recipients, and repeat content approval and printer-proof approval.
+4. Coordinate print distribution, email distribution, and online posting with the Office.
+
+## 9. Archive the full source package in OneDrive
+
+1. Ask the layout assistant for the complete editable layout package, including the **InDesign source files and all linked images, artwork, and ads**. Include any supplied templates and an IDML exchange-format copy if available, so a future layout assistant can reopen the issue.
+2. Add the final edited text/Markdown, any Google Docs editing export used, the **approved PDF**, and the **approved printer proof**. Preserve the folder structure and filenames used by the layout.
+3. Sign in to **OneDrive using griteditor@sandiahomeowners.org**. Open the Office's **GRIT Editor Workspace → Monthly Issues → \[year\] → \[issue\]**, or the archive location confirmed by the Office, and upload the full package.
+4. Open the archived source files, linked assets, and PDFs to confirm the upload is complete. Clearly identify the approved version and any combined issue.
+
+<p class="callout info">**Keep completed issue folders for long-term archiving.** Preserve earlier issues and the complete source package, so future editors can reuse or rebuild an issue. Google Drive's working folder does not automatically synchronize to OneDrive.</p>
 
 ## If something is missing or looks wrong
 
 <table id="bkmrk-what-you-seewhat-to-"><thead><tr><th>What you see</th><th>What to check next</th></tr></thead><tbody><tr><td>The planned articles seem to have disappeared.</td><td>Check the selected issue month; the default may have advanced.</td></tr><tr><td>A downloaded Markdown file is missing from Google Drive.</td><td>Look in your computer's Downloads folder, verify the file, then upload it to the issue folder.</td></tr><tr><td>A recent Google Docs correction is missing from the Markdown.</td><td>Compare the export with the document and ask the template maintainer to resolve the export method before layout.</td></tr><tr><td>The assistant cannot find an image.</td><td>Check that the actual file is uploaded and that its filename exactly matches the text reference.</td></tr><tr><td>The GRIT menu does not appear.</td><td>Wait for the copied template to load, then confirm you copied the script-enabled Master Template Content Editing document. Ask the maintainer if it still does not appear.</td></tr><tr><td>Sign-in, authorization, or file sharing fails.</td><td>Confirm the intended GRIT account and ask the office/current editor or IT help to check access. Do not change organization security settings to get around the prompt.</td></tr></tbody></table>
 
-*Prepared from the October 16, 2026 editor walkthrough. The word/page estimates and edited-document Markdown export behavior are verification checkpoints, not new publication policy.*
+For [Google Drive sharing and inherited access](https://support.google.com/drive/answer/7166529?hl=en), use Google's guide. For hands-on layout work, see the [GRIT Layout Monthly Guide](/books/shha-it-help-guide/page/grit-layout-monthly-guide); for schedules and roles, see the [GRIT Internal Production Reference](/books/shha-it-help-guide/page/grit-internal-production-reference).

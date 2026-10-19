@@ -2,7 +2,9 @@
 
 Internal reference for the Communications &amp; Publications Committee, GRIT editor, layout volunteers, and office staff. This page tracks the working rhythm and handoffs behind each issue.
 
-**Preparing an issue?** Follow the [GRIT Monthly Editor Procedure](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/grit-monthly-editor-procedure) for issue planning, the editing template, files, and handoff to the layout assistant. This page covers the production schedule, responsibilities, and approval sequence.
+**Editor contact:** <griteditor@sandiahomeowners.org>. Use this address for editorial correspondence. The `shhagrit@gmail.com` account is only a convenience for Google Drive and file sharing; **do not email that Gmail address**.
+
+**Preparing an issue?** Follow the [GRIT Monthly Editor Procedure](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/grit-monthly-editor-procedure) for issue planning, direct Markdown download, the optional Google Docs template, files, and layout handoff. This page covers the production schedule, responsibilities, and approval sequence.
 
 ## Purpose
 
@@ -52,11 +54,13 @@ The Editor and layout volunteers:
 - Prepare advertisements and classifieds
 - Generate proof PDFs
 
-Committee members review proofs and provide comments.
+Committee members review the PDF draft and provide comments. In the current Google Drive monthly issue folder under **shhagrit@gmail.com**, create a **Draft review** folder, put the draft PDF there, then right-click the folder and choose **Share → General access → Anyone with the link → Commenter**. Send reviewers the folder link with a comment deadline.
+
+After the comment period, the editor sends required changes to the layout assistant through Upwork. The layout assistant reads the layout package from Google Drive and uploads the revised layout and PDF back there. Check that the edits have been implemented. The layout assistant creates a **new final PDF with the edits incorporated**; retain the original draft PDF and its comments as a separate file. Follow the [draft review and final-PDF sharing steps](/books/shha-it-help-guide/page/grit-monthly-editor-procedure#bkmrk-8.-review-the-pdf-an).
 
 ### Final Board / Secretary Review And Printer Access
 
-When the final issue is ready for Board review, the GRIT editor will copy the printer on the message that sends the final issue to the Board for review.
+After comments and edits are complete, place the **new final PDF** in a separate **Final** folder in the monthly Google Drive issue folder, outside the draft-review folder. Share the **PDF itself** as **Anyone with the link → Viewer**. Send the new PDF's view-only link to the **Board for an early preview**, the **printer**, the **Secretary**, and **the Office**, identifying the current issue/version.
 
 This gives the printer direct access to the final PDF in Google Drive and avoids passing large PDF files around as email attachments. It also lets the printer prepare the proof in parallel while content review is finishing.
 
@@ -64,23 +68,23 @@ The Google Drive link should be treated as the authoritative file for the issue.
 
 ### Proof Approval
 
-Anna continues to review and approve the printer proof, but only after the Secretary has approved the issue content.
+The Office reviews and approves the printer proof after the Secretary has approved the issue content.
 
 Normal path:
 
-1. Editor sends the final issue to the Board / Secretary for review and copies the printer.
+1. Editor sends the view-only final-PDF link to the Board for an early preview, the printer, the Secretary, and the Office.
 2. Printer uses the Google Drive PDF to prepare the proof in parallel.
 3. Secretary approves the content.
-4. Anna reviews the printer proof.
-5. Anna approves the proof if it matches the approved content.
+4. The Office reviews the printer proof.
+5. The Office approves the proof if it matches the approved content.
 
 If the Secretary requests changes, which should be infrequent:
 
-1. Anna does not approve the proof.
+1. The Office does not approve the proof.
 2. The editor makes the requested content change.
-3. A revised final PDF is uploaded to Google Drive.
+3. A new revised final PDF is uploaded to Google Drive and its current view-only link is sent to the Board, printer, Secretary, and the Office.
 4. The printer prepares a revised proof.
-5. Anna reviews and approves only after the corrected content is approved.
+5. The Office reviews and approves only after the corrected content is approved.
 
 ### Printer Handoff
 
@@ -101,13 +105,17 @@ Office staff:
 - Send email distribution.
 - Post the digital version online.
 
+### Long-term source archive
+
+After approval, the editor obtains the complete editable source package from the layout assistant and preserves it in the Office's **OneDrive monthly issue folder**. Sign in with **griteditor@sandiahomeowners.org**, the same account used to collect the ads. Keep the InDesign source and linked assets, final edited text, approved PDF, and approved printer proof together for long-term archiving. See the [full archive checklist](/books/shha-it-help-guide/page/grit-monthly-editor-procedure#bkmrk-archive-full-package).
+
 ## Working Roles
 
 - **Communications &amp; Publications Committee:** owns the GRIT as a committee function and supports editorial direction.
 - **Editor:** reviews submissions, edits copy, selects content, resolves fit/placement, sends the final issue for review, and gives the printer direct Google Drive access.
 - **Secretary:** approves the content before the proof is approved.
 - **Printer:** uses the Google Drive PDF to prepare the proof in parallel with final content review.
-- **Anna / office staff:** reviews and approves the printer proof after Secretary approval, coordinates print/distribution handoff, and holds approval if content changes are requested.
+- **Office:** reviews and approves the printer proof after Secretary approval, coordinates print/distribution handoff, and holds approval if content changes are requested.
 - **Layout volunteers:** assemble the issue in InDesign and prepare proof PDFs as needed.
 
 ## Internal Checkpoints
@@ -119,7 +127,7 @@ Office staff:
 - Is the final Google Drive PDF link clearly identified as the authoritative version?
 - Has the printer been copied or otherwise given direct access to the Google Drive PDF?
 - Has the Secretary approved the content?
-- Is Anna approving the proof only after content approval?
+- Is the Office approving the proof only after content approval?
 - If changes are requested, has proof approval been held until the revised content is ready?
 
 ## Goal

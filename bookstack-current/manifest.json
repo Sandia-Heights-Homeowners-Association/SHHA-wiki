@@ -4,7 +4,7 @@
   "book_name": "SHHA IT Help Guide",
   "book_path": "/books/shha-it-help-guide",
   "visibility": "anonymous-public",
-  "content_sha256": "f9ecfb28ed01490b28361c0a1211519eaa83b5c3932b459bd43bd87c19311bd0",
+  "content_sha256": "623061dc503882b70c7a4b8ec8c2108dc3c6a1df6919f196964e0d4659b3aa1b",
   "chapters": 7,
   "pages": [
     {
@@ -278,5 +278,5 @@
       "html": "bookstack-current/pages-html/27-controls-security.html"
     }
   ],
-  "exported_at": "2026-10-16T21:30:59+00:00"
+  "exported_at": "2026-10-19T16:28:42+00:00"
 }

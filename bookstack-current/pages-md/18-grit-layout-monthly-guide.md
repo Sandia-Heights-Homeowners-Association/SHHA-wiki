@@ -39,15 +39,11 @@ month_name
 
 ### Ads
 
-Download prepared ads from OneDrive. Example path:
-
- ```
-Communication & Publication Committee > Documents > GRIT Editor Workspace > Monthly Issues > 2026 > March > Ads
-```
+Download the prepared ads from the current issue's **Ads folder in Google Drive**. The editor collects the Office's OneDrive ads and copies them into this layout package.
 
 ### Images
 
-Download all emailed images into the `Images` folder.
+Download the matching **Images folder from the Google Drive issue package**. The editor gathers the actual files from the submissions app and email; filenames must match the text references.
 
 ---
 
@@ -74,7 +70,11 @@ The image masters are created with an Object Style that fits the image you place
 
 ---
 
-<a id="bkmrk--11"></a>## GRIT Layout FAQ
+<a id="bkmrk--11"></a>## Preserve the editable layout package
+
+Upload the editable InDesign source and all linked assets back to the Google Drive issue folder, along with the PDFs. After final proof approval, supply the editor with the complete source package for [long-term archiving in OneDrive](/books/shha-it-help-guide/page/grit-monthly-editor-procedure#bkmrk-archive-full-package). Preserve the folder structure and filenames; a PDF alone does not contain the editable layout source.
+
+## GRIT Layout FAQ
 
 ### Do I need to use exact folder names?
 
