@@ -25,6 +25,48 @@ on the retired repository name.
 - [Azure deployment and migration history](docs/azure-deployment.md)
 - `AGENTS.md`: instructions for future work
 
+## Wiki homepage and permanent Quick Links address
+
+Send staff and volunteers to **https://wiki.sandiahomeowners.org/**. The homepage
+shows the existing **Quick Links & Directory** page, with committee SharePoint
+sites first, immediately after the short introduction. Reading the directory is
+public; following a SharePoint link still requires Microsoft sign-in and that
+committee's existing access permissions. External volunteers should use the
+account invited by SHHA. Editing remains behind Microsoft login.
+
+The direct, ID-based permalink is **https://wiki.sandiahomeowners.org/link/3**.
+Page ID **3** identifies the maintained Quick Links page. This permalink continues
+to resolve if the page or its parent book is renamed or the page is moved. Keep
+the wiki domain and the existing page; deleting/recreating the page or importing
+it into a fresh installation can assign a different ID. The long book/page URL
+continues to work, but use the homepage or ID permalink in onboarding messages
+and bookmarks.
+
+To maintain this:
+
+1. Edit the existing page in BookStack's WYSIWYG editor, or through an authorized
+   API edit using fresh live HTML. Keep the SharePoint directory as the first
+   section. Preserve the known-good site URLs rather than deriving them from
+   committee names; some site paths differ from their committee abbreviations.
+2. Do not create another copy of the directory or replace page 3. Update the
+   existing page so bookmarks and the homepage stay connected to the same content.
+3. An administrator can restore the homepage selection under **Settings →
+   Customization → Application Homepage → Specific Page**. Select **#3, Quick
+   Links & Directory**, then **Save Settings**. Only select public content:
+   BookStack ignores page permissions when displaying the selected homepage.
+4. After changes, check `/`, `/link/3`, and a SharePoint link in a signed-out
+   browser. The directory should open without login; SharePoint should use the
+   intended invited account. Confirm guest access with a designated guest when
+   changing site destinations or permissions.
+5. Let the daily sync below capture page edits, or run it immediately. The public
+   Markdown/HTML mirror captures page content, not application settings. After a
+   restore, verify the page ID and homepage selection separately; this README
+   records the setting, not a complete database/configuration recovery backup.
+
+Configured and checked anonymously on October 31, 2026: the homepage, permalink
+and existing long URL show the same SharePoint-first directory, with all ten
+SharePoint destinations preserved.
+
 ## What is maintained here
 
 | Location | Purpose |

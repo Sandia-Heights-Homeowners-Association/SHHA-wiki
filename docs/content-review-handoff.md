@@ -234,3 +234,34 @@ manual refresh and GitHub's public-repository schedule inactivity limit.
 This retirement concerns the repository name and old static website. It does
 not retire DigitalOcean workloads or complete Azure platform CI/CD/full recovery
 backups. Those retain their separate scope and verification requirements.
+
+## Quick Links homepage and stable permalink — October 31, 2026
+
+The existing Quick Links & Directory page (ID 3) is now BookStack's application
+homepage. Settings → Customization → Application Homepage is Specific Page,
+with #3, Quick Links & Directory selected. Both https://wiki.sandiahomeowners.org/
+and https://wiki.sandiahomeowners.org/link/3 open the maintained directory.
+The existing long book/page URL also remains valid. Keep this page rather than
+deleting/recreating it; the ID permalink depends on preserving its identity.
+
+Moved the complete committee SharePoint section directly after the introductory
+paragraphs, before Login Links, public utilities, mailing lists and role inboxes.
+All ten SharePoint hrefs, including ESComm, GovComm and PNMSTG, were preserved in
+the same order. All six tables remain. Added the homepage/permalink bookmark
+addresses, corrected the relocated section's above/below wording, and pointed
+invitation troubleshooting to the existing guest sign-in guide. Anonymous GETs
+of all three entry URLs verified the SharePoint-first content and unchanged site
+URLs. This verifies public reading and the stored destinations, not an end-to-end
+Microsoft guest session inside SharePoint.
+
+Used the existing HeidiBot Microsoft browser sign-in and BookStack settings/editor.
+The saved migration API credential is expired (the API returned HTTP 403); no
+credential, role, sharing permission, authentication configuration, Azure resource
+or DNS record was changed. Obtain a current authorized API credential before
+future API publishing; anonymous scheduled backup does not need one.
+
+README.md now documents the addresses, homepage setting, page ID preservation,
+editing/sync procedure and recovery boundary. Public content exports capture the
+page but do not restore the application homepage setting; verify that separately
+after recovery. BookStack's selected homepage ignores page permissions, so this
+selection must remain public content. Existing unpublished drafts were preserved.
