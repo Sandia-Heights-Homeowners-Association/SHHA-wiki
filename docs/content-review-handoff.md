@@ -293,3 +293,21 @@ Anonymous reading, both embedded images and full-size originals, and the Staff
 link were checked. The new page and embedded images are included by the public content sync. Keep
 real resident records out of this public wiki; future example screenshots must
 use test information like the supplied form. Existing local drafts were preserved.
+
+## Front office calendar — November 1, 2026
+
+Published [Front Office Calendar (DAKboard)](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/front-office-calendar-dakboard)
+in Technical Reference. Kept the page to approximately 236 words: Raspberry Pi 3,
+September 2026 SD-card replacement, the user-confirmed sandiahomeowners@gmail.com
+sign-in account, SHHA Flickr source, basic troubleshooting and a short SD-card
+recovery checklist. Linked Raspberry Pi Imager and DAKboard's official DAKOS
+installation instructions; the current official guide lists Pi 3 support.
+
+Added a link near the top of Staff and a DAKboard row in the existing IT
+Infrastructure and Handover service-account directory, preserving surrounding
+content. The hardware/account facts came from SHHA; provider links and anonymous
+wiki access were checked. No DAKboard account settings, calendar sources, photos,
+hardware, SD cards, cloud resources or access permissions were changed. This was
+documentation only, not a device recovery or successful DAKboard sign-in test.
+Existing unpublished local drafts remain preserved. The configured public sync
+captures the new page and the two cross-reference updates.
