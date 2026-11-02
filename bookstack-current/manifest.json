@@ -4,7 +4,7 @@
   "book_name": "SHHA IT Help Guide",
   "book_path": "/books/shha-it-help-guide",
   "visibility": "anonymous-public",
-  "content_sha256": "ecf1f28bbd02af063726f26e7899d6283857092c30e0d6a11cbb8fe6ec9db4f9",
+  "content_sha256": "bd2c5c9fb24e535357668f51796ab834ca73ea3b58de08eaae57c4863a3a5ad7",
   "chapters": 7,
   "pages": [
     {
@@ -268,14 +268,24 @@
       "html": "bookstack-current/pages-html/26-it-infrastructure-and-handover.html"
     },
     {
+      "id": 38,
+      "name": "Front Office Calendar (DAKboard)",
+      "slug": "front-office-calendar-dakboard",
+      "chapter": "Technical Reference",
+      "priority": 6,
+      "url": "https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/front-office-calendar-dakboard",
+      "markdown": "bookstack-current/pages-md/27-front-office-calendar-dakboard.md",
+      "html": "bookstack-current/pages-html/27-front-office-calendar-dakboard.html"
+    },
+    {
       "id": 30,
       "name": "Systems Inventory",
       "slug": "systems-inventory",
       "chapter": "Operations & Administration",
       "priority": 1,
       "url": "https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/systems-inventory",
-      "markdown": "bookstack-current/pages-md/27-systems-inventory.md",
-      "html": "bookstack-current/pages-html/27-systems-inventory.html"
+      "markdown": "bookstack-current/pages-md/28-systems-inventory.md",
+      "html": "bookstack-current/pages-html/28-systems-inventory.html"
     },
     {
       "id": 31,
@@ -284,9 +294,9 @@
       "chapter": "Operations & Administration",
       "priority": 2,
       "url": "https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/controls-security",
-      "markdown": "bookstack-current/pages-md/28-controls-security.md",
-      "html": "bookstack-current/pages-html/28-controls-security.html"
+      "markdown": "bookstack-current/pages-md/29-controls-security.md",
+      "html": "bookstack-current/pages-html/29-controls-security.html"
     }
   ],
-  "exported_at": "2026-11-02T04:26:05+00:00"
+  "exported_at": "2026-11-02T04:56:32+00:00"
 }

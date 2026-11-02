@@ -2,6 +2,8 @@
 
 *This page is for office staff and operations support volunteers.*
 
+For the lobby display, see [Front Office Calendar (DAKboard)](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/front-office-calendar-dakboard) for sign-in, photos and SD-card recovery.
+
 ## New occupancy and welcome visits
 
 For an incoming household, follow [Record a New Occupancy — Office Guide](https://wiki.sandiahomeowners.org/link/37). It shows the website form, printed GRIT and mailing-list setup, directory consent, and the connection to Welcome Visits.
