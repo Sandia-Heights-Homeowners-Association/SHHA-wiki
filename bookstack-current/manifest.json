@@ -4,7 +4,7 @@
   "book_name": "SHHA IT Help Guide",
   "book_path": "/books/shha-it-help-guide",
   "visibility": "anonymous-public",
-  "content_sha256": "3fd6e623f0084840ea305a8ca451a388acf0d412809f19c8cc72e1b38e05ecf6",
+  "content_sha256": "ecf1f28bbd02af063726f26e7899d6283857092c30e0d6a11cbb8fe6ec9db4f9",
   "chapters": 7,
   "pages": [
     {
@@ -148,14 +148,24 @@
       "html": "bookstack-current/pages-html/14-new-board-member-guide.html"
     },
     {
+      "id": 37,
+      "name": "Record a New Occupancy — Office Guide",
+      "slug": "record-a-new-occupancy-office-guide",
+      "chapter": "Role Guides",
+      "priority": 6,
+      "url": "https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/record-a-new-occupancy-office-guide",
+      "markdown": "bookstack-current/pages-md/15-record-a-new-occupancy-office-guide.md",
+      "html": "bookstack-current/pages-html/15-record-a-new-occupancy-office-guide.html"
+    },
+    {
       "id": 19,
       "name": "FAQ",
       "slug": "faq",
       "chapter": "Frequently Asked Questions",
       "priority": 1,
       "url": "https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/faq",
-      "markdown": "bookstack-current/pages-md/15-faq.md",
-      "html": "bookstack-current/pages-html/15-faq.html"
+      "markdown": "bookstack-current/pages-md/16-faq.md",
+      "html": "bookstack-current/pages-html/16-faq.html"
     },
     {
       "id": 21,
@@ -164,8 +174,8 @@
       "chapter": "Specialty Topics",
       "priority": 1,
       "url": "https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/grit-contributor-guide",
-      "markdown": "bookstack-current/pages-md/16-grit-contributor-guide.md",
-      "html": "bookstack-current/pages-html/16-grit-contributor-guide.html"
+      "markdown": "bookstack-current/pages-md/17-grit-contributor-guide.md",
+      "html": "bookstack-current/pages-html/17-grit-contributor-guide.html"
     },
     {
       "id": 22,
@@ -174,8 +184,8 @@
       "chapter": "Specialty Topics",
       "priority": 2,
       "url": "https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/grit-internal-production-reference",
-      "markdown": "bookstack-current/pages-md/17-grit-internal-production-reference.md",
-      "html": "bookstack-current/pages-html/17-grit-internal-production-reference.html"
+      "markdown": "bookstack-current/pages-md/18-grit-internal-production-reference.md",
+      "html": "bookstack-current/pages-html/18-grit-internal-production-reference.html"
     },
     {
       "id": 23,
@@ -184,8 +194,8 @@
       "chapter": "Specialty Topics",
       "priority": 3,
       "url": "https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/grit-layout-monthly-guide",
-      "markdown": "bookstack-current/pages-md/18-grit-layout-monthly-guide.md",
-      "html": "bookstack-current/pages-html/18-grit-layout-monthly-guide.html"
+      "markdown": "bookstack-current/pages-md/19-grit-layout-monthly-guide.md",
+      "html": "bookstack-current/pages-html/19-grit-layout-monthly-guide.html"
     },
     {
       "id": 33,
@@ -194,8 +204,8 @@
       "chapter": "Specialty Topics",
       "priority": 4,
       "url": "https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/grit-content-rules-and-submission-guide",
-      "markdown": "bookstack-current/pages-md/19-grit-content-rules-and-submission-guide.md",
-      "html": "bookstack-current/pages-html/19-grit-content-rules-and-submission-guide.html"
+      "markdown": "bookstack-current/pages-md/20-grit-content-rules-and-submission-guide.md",
+      "html": "bookstack-current/pages-html/20-grit-content-rules-and-submission-guide.html"
     },
     {
       "id": 36,
@@ -204,8 +214,8 @@
       "chapter": "Specialty Topics",
       "priority": 5,
       "url": "https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/grit-monthly-editor-procedure",
-      "markdown": "bookstack-current/pages-md/20-grit-monthly-editor-procedure.md",
-      "html": "bookstack-current/pages-html/20-grit-monthly-editor-procedure.html"
+      "markdown": "bookstack-current/pages-md/21-grit-monthly-editor-procedure.md",
+      "html": "bookstack-current/pages-html/21-grit-monthly-editor-procedure.html"
     },
     {
       "id": 25,
@@ -214,8 +224,8 @@
       "chapter": "Technical Reference",
       "priority": 1,
       "url": "https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/m365-email-groups-role-inboxes-responsibilities",
-      "markdown": "bookstack-current/pages-md/21-m365-email-groups-role-inboxes-responsibilities.md",
-      "html": "bookstack-current/pages-html/21-m365-email-groups-role-inboxes-responsibilities.html"
+      "markdown": "bookstack-current/pages-md/22-m365-email-groups-role-inboxes-responsibilities.md",
+      "html": "bookstack-current/pages-html/22-m365-email-groups-role-inboxes-responsibilities.html"
     },
     {
       "id": 26,
@@ -224,8 +234,8 @@
       "chapter": "Technical Reference",
       "priority": 2,
       "url": "https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/m365-email-building-blocks",
-      "markdown": "bookstack-current/pages-md/22-m365-email-building-blocks.md",
-      "html": "bookstack-current/pages-html/22-m365-email-building-blocks.html"
+      "markdown": "bookstack-current/pages-md/23-m365-email-building-blocks.md",
+      "html": "bookstack-current/pages-html/23-m365-email-building-blocks.html"
     },
     {
       "id": 27,
@@ -234,8 +244,8 @@
       "chapter": "Technical Reference",
       "priority": 3,
       "url": "https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/sop-new-users-mailboxes-groups",
-      "markdown": "bookstack-current/pages-md/23-sop-new-users-mailboxes-groups.md",
-      "html": "bookstack-current/pages-html/23-sop-new-users-mailboxes-groups.html"
+      "markdown": "bookstack-current/pages-md/24-sop-new-users-mailboxes-groups.md",
+      "html": "bookstack-current/pages-html/24-sop-new-users-mailboxes-groups.html"
     },
     {
       "id": 28,
@@ -244,8 +254,8 @@
       "chapter": "Technical Reference",
       "priority": 4,
       "url": "https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/sop-create-a-committee-sharepoint-site",
-      "markdown": "bookstack-current/pages-md/24-sop-create-a-committee-sharepoint-site.md",
-      "html": "bookstack-current/pages-html/24-sop-create-a-committee-sharepoint-site.html"
+      "markdown": "bookstack-current/pages-md/25-sop-create-a-committee-sharepoint-site.md",
+      "html": "bookstack-current/pages-html/25-sop-create-a-committee-sharepoint-site.html"
     },
     {
       "id": 35,
@@ -254,8 +264,8 @@
       "chapter": "Technical Reference",
       "priority": 5,
       "url": "https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/it-infrastructure-and-handover",
-      "markdown": "bookstack-current/pages-md/25-it-infrastructure-and-handover.md",
-      "html": "bookstack-current/pages-html/25-it-infrastructure-and-handover.html"
+      "markdown": "bookstack-current/pages-md/26-it-infrastructure-and-handover.md",
+      "html": "bookstack-current/pages-html/26-it-infrastructure-and-handover.html"
     },
     {
       "id": 30,
@@ -264,8 +274,8 @@
       "chapter": "Operations & Administration",
       "priority": 1,
       "url": "https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/systems-inventory",
-      "markdown": "bookstack-current/pages-md/26-systems-inventory.md",
-      "html": "bookstack-current/pages-html/26-systems-inventory.html"
+      "markdown": "bookstack-current/pages-md/27-systems-inventory.md",
+      "html": "bookstack-current/pages-html/27-systems-inventory.html"
     },
     {
       "id": 31,
@@ -274,9 +284,9 @@
       "chapter": "Operations & Administration",
       "priority": 2,
       "url": "https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/controls-security",
-      "markdown": "bookstack-current/pages-md/27-controls-security.md",
-      "html": "bookstack-current/pages-html/27-controls-security.html"
+      "markdown": "bookstack-current/pages-md/28-controls-security.md",
+      "html": "bookstack-current/pages-html/28-controls-security.html"
     }
   ],
-  "exported_at": "2026-10-31T18:47:11+00:00"
+  "exported_at": "2026-11-02T04:26:05+00:00"
 }
