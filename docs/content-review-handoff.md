@@ -265,3 +265,31 @@ editing/sync procedure and recovery boundary. Public content exports capture the
 page but do not restore the application homepage setting; verify that separately
 after recovery. BookStack's selected homepage ignores page permissions, so this
 selection must remain public content. Existing unpublished drafts were preserved.
+
+## New Occupancy office guide — November 1, 2026
+
+Published [Record a New Occupancy — Office Guide](https://wiki.sandiahomeowners.org/link/37)
+in Role Guides and added a route from the Staff page. Both supplied screenshots
+are uploaded to BookStack and embedded with descriptive alt text and links to
+the full-size originals. The form screenshot is labelled as an example, with
+membership/date/resident details checked for the actual household.
+
+The user's office procedure is explicit: Mail Printed GRIT on; all three form
+mailing lists checked (GRIT e-Delivery, Frequent Updates, Essential Updates Only);
+Directory List Name and Directory List Phone unchecked unless the corresponding
+resident permission exists. Residents can change preferences after website
+sign-in. These mailing-list options are not committee/Microsoft group grants.
+
+The guide links to the protected Welcome Visits tool and explains the recorded
+occupancy start as its primary source. Address-association dates, with account
+creation as a fallback when a link date is missing, are estimates when a household
+has no recorded occupancy. The source explanation was checked against current
+main's Welcome Visits model/service/view; no live resident data was queried or
+saved. No form was submitted, resident record changed, subscription applied,
+directory permission granted, visit created or message sent as part of writing
+this guide. Website/Toolbox access controls and the wiki homepage are unchanged.
+
+Anonymous reading, both embedded images and full-size originals, and the Staff
+link were checked. The new page and embedded images are included by the public content sync. Keep
+real resident records out of this public wiki; future example screenshots must
+use test information like the supplied form. Existing local drafts were preserved.
