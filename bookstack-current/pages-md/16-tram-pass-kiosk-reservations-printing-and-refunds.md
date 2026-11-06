@@ -8,6 +8,10 @@ This guide is for homeowners making a tram pass reservation at the office kiosk 
 
 Click the link in the kiosk's bookmark bar. It automatically signs in the kiosk's authorized user.
 
+The link is https://www.sandiahomeowners.org/tram-pass-reservations/USERHASH\_TOKEN
+
+The USERHASH\_TOKEN is set in the .env file. Please refer to the password document for its current value.
+
 ## Make a tram pass reservation
 
 1. Enter your address and last name in the kiosk web form.
