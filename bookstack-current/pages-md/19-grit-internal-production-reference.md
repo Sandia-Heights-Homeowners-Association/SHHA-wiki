@@ -22,15 +22,15 @@ Because most readers receive the printed edition, publication schedules and cont
 
 ## Monthly Schedule
 
-### 1st-15th: Content Collection
+### Before the submission deadline: Content collection
 
 Committee chairs, Board members, residents, and staff submit articles, announcements, photographs, classifieds, and other content.
 
 Submissions should be entered through [sandiaheightsgrit.app](https://sandiaheightsgrit.app).
 
-### 20th: Submission Deadline
+### 1st of the preceding month: Submission deadline
 
-Content should be submitted by the 20th of the month preceding publication. Late submissions may be held for a future issue.
+Submit content by the **1st of the month preceding publication**. For example, submissions for the December issue are due November 1. Late submissions may be held for a future issue.
 
 ### 20th-25th: Editorial Review
 
@@ -56,7 +56,7 @@ The Editor and layout volunteers:
 
 Committee members review the PDF draft and provide comments. In the current Google Drive monthly issue folder under **shhagrit@gmail.com**, create a **Draft review** folder, put the draft PDF there, then right-click the folder and choose **Share → General access → Anyone with the link → Commenter**. Send reviewers the folder link with a comment deadline.
 
-After the comment period, the editor sends required changes to the layout assistant through Upwork. The layout assistant reads the layout package from Google Drive and uploads the revised layout and PDF back there. Check that the edits have been implemented. The layout assistant creates a **new final PDF with the edits incorporated**; retain the original draft PDF and its comments as a separate file. Follow the [draft review and final-PDF sharing steps](/books/shha-it-help-guide/page/grit-monthly-editor-procedure#bkmrk-8.-review-the-pdf-an).
+After the comment period, the editor sends required changes to the layout assistant through Upwork. The layout assistant reads the layout package from Google Drive and uploads the revised layout and PDF back there. Check that the edits have been implemented. The layout assistant creates a **new final PDF with the edits incorporated**; retain the original draft PDF and its comments as a separate file. Follow the [draft review and final-PDF sharing steps](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/grit-monthly-editor-procedure#bkmrk-8.-review-the-pdf-an).
 
 ### Final Board / Secretary Review And Printer Access
 
@@ -107,7 +107,7 @@ Office staff:
 
 ### Long-term source archive
 
-After approval, the editor obtains the complete editable source package from the layout assistant and preserves it in the Office's **OneDrive monthly issue folder**. Sign in with **griteditor@sandiahomeowners.org**, the same account used to collect the ads. Keep the InDesign source and linked assets, final edited text, approved PDF, and approved printer proof together for long-term archiving. See the [full archive checklist](/books/shha-it-help-guide/page/grit-monthly-editor-procedure#bkmrk-archive-full-package).
+After approval, the editor obtains the complete editable source package from the layout assistant and preserves it in the Office's **OneDrive monthly issue folder**. Sign in with **griteditor@sandiahomeowners.org**, the same account used to collect the ads. Keep the InDesign source and linked assets, final edited text, approved PDF, and approved printer proof together for long-term archiving. See the [full archive checklist](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/grit-monthly-editor-procedure#bkmrk-archive-full-package).
 
 ## Working Roles
 

@@ -12,7 +12,7 @@
 
 **Need help or unable to use the portal?** Email your submission or questions to the GRIT editor at <griteditor@sandiahomeowners.org>.
 
-<p class="callout info">**Plan for the next issue.** The [SHHA GRIT issues page](https://www.sandiahomeowners.org/grit-newsletter) asks for submissions **before the 20th of the month** for the following month's issue, which appears on or about the 1st. This timing is additional information from the website; the June 22 rules do not specify a deadline. Publication in a particular issue is not guaranteed.</p>
+<p class="callout info">**Plan for the next issue.** The GRIT submission deadline is the **1st of the month preceding publication**. For example, submissions for the December issue are due November 1. Submit through the [GRIT Submission Portal](https://sandiaheightsgrit.app/). Publication in a particular issue is not guaranteed.</p>
 
 ## Keep it informative, constructive, and neighborly
 
@@ -73,11 +73,11 @@ Photos and graphics are encouraged and can bring a story to life. The GRIT appea
 3. **Use enough contrast.** Text and important details should stand out from the background.
 4. **Do not rely on color alone.** A label or highlight that works in color may disappear when printed.
 
-![The same plant graphic in color on the left and black and white on the right. The yellow taproot label and outline become difficult to see in the black-and-white version.](/uploads/images/gallery/2026-10/embedded-image-gjtfc1k4.jpeg)
+![The same plant graphic in color on the left and black and white on the right. The yellow taproot label and outline become difficult to see in the black-and-white version.](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-10/embedded-image-gjtfc1k4.jpeg)
 
 *Example from the approved guide: the yellow callout works in color but is hard to see in black and white. A different color choice for the callout box and text can make the printed version readable.*
 
-For more practical writing and photo advice, see the [GRIT Contributor Guide](/books/shha-it-help-guide/page/grit-contributor-guide).
+For more practical writing and photo advice, see the [GRIT Contributor Guide](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/grit-contributor-guide).
 
 ## Send your submission
 

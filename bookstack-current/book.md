@@ -1974,15 +1974,15 @@ Because most readers receive the printed edition, publication schedules and cont
 
 ## Monthly Schedule
 
-### 1st-15th: Content Collection
+### Before the submission deadline: Content collection
 
 Committee chairs, Board members, residents, and staff submit articles, announcements, photographs, classifieds, and other content.
 
 Submissions should be entered through [sandiaheightsgrit.app](https://sandiaheightsgrit.app).
 
-### 20th: Submission Deadline
+### 1st of the preceding month: Submission deadline
 
-Content should be submitted by the 20th of the month preceding publication. Late submissions may be held for a future issue.
+Submit content by the **1st of the month preceding publication**. For example, submissions for the December issue are due November 1. Late submissions may be held for a future issue.
 
 ### 20th-25th: Editorial Review
 
@@ -2008,7 +2008,7 @@ The Editor and layout volunteers:
 
 Committee members review the PDF draft and provide comments. In the current Google Drive monthly issue folder under **shhagrit@gmail.com**, create a **Draft review** folder, put the draft PDF there, then right-click the folder and choose **Share → General access → Anyone with the link → Commenter**. Send reviewers the folder link with a comment deadline.
 
-After the comment period, the editor sends required changes to the layout assistant through Upwork. The layout assistant reads the layout package from Google Drive and uploads the revised layout and PDF back there. Check that the edits have been implemented. The layout assistant creates a **new final PDF with the edits incorporated**; retain the original draft PDF and its comments as a separate file. Follow the [draft review and final-PDF sharing steps](/books/shha-it-help-guide/page/grit-monthly-editor-procedure#bkmrk-8.-review-the-pdf-an).
+After the comment period, the editor sends required changes to the layout assistant through Upwork. The layout assistant reads the layout package from Google Drive and uploads the revised layout and PDF back there. Check that the edits have been implemented. The layout assistant creates a **new final PDF with the edits incorporated**; retain the original draft PDF and its comments as a separate file. Follow the [draft review and final-PDF sharing steps](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/grit-monthly-editor-procedure#bkmrk-8.-review-the-pdf-an).
 
 ### Final Board / Secretary Review And Printer Access
 
@@ -2059,7 +2059,7 @@ Office staff:
 
 ### Long-term source archive
 
-After approval, the editor obtains the complete editable source package from the layout assistant and preserves it in the Office's **OneDrive monthly issue folder**. Sign in with **griteditor@sandiahomeowners.org**, the same account used to collect the ads. Keep the InDesign source and linked assets, final edited text, approved PDF, and approved printer proof together for long-term archiving. See the [full archive checklist](/books/shha-it-help-guide/page/grit-monthly-editor-procedure#bkmrk-archive-full-package).
+After approval, the editor obtains the complete editable source package from the layout assistant and preserves it in the Office's **OneDrive monthly issue folder**. Sign in with **griteditor@sandiahomeowners.org**, the same account used to collect the ads. Keep the InDesign source and linked assets, final edited text, approved PDF, and approved printer proof together for long-term archiving. See the [full archive checklist](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/grit-monthly-editor-procedure#bkmrk-archive-full-package).
 
 ## Working Roles
 
@@ -2203,7 +2203,7 @@ Insert pages until the total is divisible by 4. Print layout and booklet flow de
 
 **Need help or unable to use the portal?** Email your submission or questions to the GRIT editor at <griteditor@sandiahomeowners.org>.
 
-<p class="callout info">**Plan for the next issue.** The [SHHA GRIT issues page](https://www.sandiahomeowners.org/grit-newsletter) asks for submissions **before the 20th of the month** for the following month's issue, which appears on or about the 1st. This timing is additional information from the website; the June 22 rules do not specify a deadline. Publication in a particular issue is not guaranteed.</p>
+<p class="callout info">**Plan for the next issue.** The GRIT submission deadline is the **1st of the month preceding publication**. For example, submissions for the December issue are due November 1. Submit through the [GRIT Submission Portal](https://sandiaheightsgrit.app/). Publication in a particular issue is not guaranteed.</p>
 
 ## Keep it informative, constructive, and neighborly
 
@@ -2264,11 +2264,11 @@ Photos and graphics are encouraged and can bring a story to life. The GRIT appea
 3. **Use enough contrast.** Text and important details should stand out from the background.
 4. **Do not rely on color alone.** A label or highlight that works in color may disappear when printed.
 
-![The same plant graphic in color on the left and black and white on the right. The yellow taproot label and outline become difficult to see in the black-and-white version.](/uploads/images/gallery/2026-10/embedded-image-gjtfc1k4.jpeg)
+![The same plant graphic in color on the left and black and white on the right. The yellow taproot label and outline become difficult to see in the black-and-white version.](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-10/embedded-image-gjtfc1k4.jpeg)
 
 *Example from the approved guide: the yellow callout works in color but is hard to see in black and white. A different color choice for the callout box and text can make the printed version readable.*
 
-For more practical writing and photo advice, see the [GRIT Contributor Guide](/books/shha-it-help-guide/page/grit-contributor-guide).
+For more practical writing and photo advice, see the [GRIT Contributor Guide](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/grit-contributor-guide).
 
 ## Send your submission
 
@@ -2309,16 +2309,16 @@ For complete details about publication, editing, and contributor rights, read th
 2. In Google Drive, open **My Drive → Monthly Issues → \[year\] → \[issue folder\]**. Create the issue folder if needed, including **Ads** and **Images** subfolders. Clearly name combined issues.
 3. Keep this issue's text, assets, layout files, and PDF versions together. Google Drive and OneDrive are separate services; copying between them is a manual step.
 
-For sign-in help, use [Quick Links &amp; Directory](/books/shha-it-help-guide/page/quick-links-directory). Keep passwords and account-recovery details out of issue documents.
+For sign-in help, use [Quick Links &amp; Directory](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/quick-links-directory). Keep passwords and account-recovery details out of issue documents.
 
 ## 2. Plan the issue
 
 1. In the app's **Issue Planning** area, check the selected month, especially when finishing an earlier or combined issue.
 2. Review new submissions and the backlog. Use **Plan** to select items, then **Content Flow** to arrange the reading order.
 3. Check dates, titles, bylines, relevance, and space. Follow up on expected material and resolve placeholders before layout. A contributor's private contact details are not automatically a published byline.
-4. Agree the word/page budget and turnaround with the layout assistant. The final printed booklet must have a page count divisible by four. Follow the [approved content and editing rules](/books/shha-it-help-guide/page/grit-content-rules-and-submission-guide) when shortening or revising contributions.
+4. Agree the word/page budget and turnaround with the layout assistant. The final printed booklet must have a page count divisible by four. Follow the [approved content and editing rules](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/grit-content-rules-and-submission-guide) when shortening or revising contributions.
 
-The normal deadline is around the 20th for the following month's issue. Confirm the dates with the Office and layout assistant; see the [production schedule and responsibilities](/books/shha-it-help-guide/page/grit-internal-production-reference).
+The GRIT submission deadline is the **1st of the month preceding publication**. For example, submissions for the December issue are due November 1. Confirm layout and proofing dates with the Office and layout assistant; see the [production schedule and responsibilities](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/grit-internal-production-reference).
 
 ## 3. Collect ads and images
 
@@ -2399,7 +2399,7 @@ The package is ready when the checked text, current ads, and all referenced imag
 
 <table id="bkmrk-what-you-seewhat-to-"><thead><tr><th>What you see</th><th>What to check next</th></tr></thead><tbody><tr><td>The planned articles seem to have disappeared.</td><td>Check the selected issue month; the default may have advanced.</td></tr><tr><td>A downloaded Markdown file is missing from Google Drive.</td><td>Look in your computer's Downloads folder, verify the file, then upload it to the issue folder.</td></tr><tr><td>A recent Google Docs correction is missing from the Markdown.</td><td>Compare the export with the document and ask the template maintainer to resolve the export method before layout.</td></tr><tr><td>The assistant cannot find an image.</td><td>Check that the actual file is uploaded and that its filename exactly matches the text reference.</td></tr><tr><td>The GRIT menu does not appear.</td><td>Wait for the copied template to load, then confirm you copied the script-enabled Master Template Content Editing document. Ask the maintainer if it still does not appear.</td></tr><tr><td>Sign-in, authorization, or file sharing fails.</td><td>Confirm the intended GRIT account and ask the office/current editor or IT help to check access. Do not change organization security settings to get around the prompt.</td></tr></tbody></table>
 
-For [Google Drive sharing and inherited access](https://support.google.com/drive/answer/7166529?hl=en), use Google's guide. For hands-on layout work, see the [GRIT Layout Monthly Guide](/books/shha-it-help-guide/page/grit-layout-monthly-guide); for schedules and roles, see the [GRIT Internal Production Reference](/books/shha-it-help-guide/page/grit-internal-production-reference).
+For [Google Drive sharing and inherited access](https://support.google.com/drive/answer/7166529?hl=en), use Google's guide. For hands-on layout work, see the [GRIT Layout Monthly Guide](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/grit-layout-monthly-guide); for schedules and roles, see the [GRIT Internal Production Reference](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/grit-internal-production-reference).
 
 # Technical Reference
 
