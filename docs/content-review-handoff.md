@@ -311,3 +311,14 @@ hardware, SD cards, cloud resources or access permissions were changed. This was
 documentation only, not a device recovery or successful DAKboard sign-in test.
 Existing unpublished local drafts remain preserved. The configured public sync
 captures the new page and the two cross-reference updates.
+
+## Finance Committee IT audit placeholder — November 8, 2026
+
+Added [Finance Committee IT Audit](https://wiki.sandiahomeowners.org/link/40)
+under Operations & Administration. The page is explicitly a placeholder, with
+unconfirmed overview/contact/dates, scope, findings/recommendations and follow-up
+actions, plus links to the inventory, IT handover and controls guides. No audit
+findings, completion, approval or assigned responsibilities were invented.
+It contains only a public outline; confidential working papers belong in
+approved restricted storage. Anonymous reading and both tables were verified.
+Existing pages, access settings and unpublished local drafts were preserved.
