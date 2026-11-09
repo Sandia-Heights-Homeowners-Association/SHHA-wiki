@@ -355,6 +355,15 @@
           "name": "Controls & Security",
           "priority": 2,
           "tags": []
+        },
+        {
+          "attachments": [],
+          "html": "<p id=\"bkmrk-placeholder-%E2%80%94-detail\"><strong>Placeholder — details to be added.</strong> This page will hold the Finance Committee IT audit overview and follow-up information for committee members and IT staff.</p>\n<h2 id=\"bkmrk-audit-overview\">Audit overview</h2>\n<table id=\"bkmrk-item-details-audit-s\">\n<thead>\n<tr>\n<th>Item</th>\n<th>Details</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Audit status</td>\n<td>To be confirmed</td>\n</tr>\n<tr>\n<td>Committee contact / audit lead</td>\n<td>To be added</td>\n</tr>\n<tr>\n<td>Review period and target date</td>\n<td>To be confirmed</td>\n</tr>\n</tbody>\n</table>\n<h2 id=\"bkmrk-scope\">Scope</h2>\n<p id=\"bkmrk-to-be-added%3A-the-agr\">To be added: the agreed systems, services and processes to review, the review criteria, and any exclusions.</p>\n<h2 id=\"bkmrk-findings-and-recomme\">Findings and recommendations</h2>\n<p id=\"bkmrk-to-be-added%3A-an-appr\">To be added: an approved summary of findings and recommendations once available.</p>\n<h2 id=\"bkmrk-follow-up-actions\">Follow-up actions</h2>\n<table id=\"bkmrk-action-owner-target-\">\n<thead>\n<tr>\n<th>Action</th>\n<th>Owner</th>\n<th>Target date</th>\n<th>Status</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>To be added</td>\n<td>To be assigned</td>\n<td>To be confirmed</td>\n<td>To be confirmed</td>\n</tr>\n</tbody>\n</table>\n<p id=\"bkmrk-use-this-public-page\">Use this public page for the overview and approved summary. Keep confidential working papers, financial records and security details in approved restricted storage.</p>\n<h2 id=\"bkmrk-related-information\">Related information</h2>\n<ul id=\"bkmrk-systems-inventory-it\">\n<li><a href=\"[[bsexport:page:30]]\">Systems Inventory</a></li>\n<li><a href=\"[[bsexport:page:35]]\">IT Infrastructure and Handover</a></li>\n<li><a href=\"[[bsexport:page:31]]\">Controls &amp; Security</a></li>\n</ul>",
+          "id": 40,
+          "images": [],
+          "name": "Finance Committee IT Audit",
+          "priority": 3,
+          "tags": []
         }
       ],
       "priority": 8,

@@ -4,7 +4,7 @@
   "book_name": "SHHA IT Help Guide",
   "book_path": "/books/shha-it-help-guide",
   "visibility": "anonymous-public",
-  "content_sha256": "ec932341bc6c8175270687a6db8f974eaea26f4627b974aeefee587c873ac7ac",
+  "content_sha256": "64340ac8e10d92c5bb80b75c9f70ca79ecb5f8ef5c46ed0e039f0b77423410fd",
   "chapters": 7,
   "pages": [
     {
@@ -306,7 +306,17 @@
       "url": "https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/controls-security",
       "markdown": "bookstack-current/pages-md/30-controls-security.md",
       "html": "bookstack-current/pages-html/30-controls-security.html"
+    },
+    {
+      "id": 40,
+      "name": "Finance Committee IT Audit",
+      "slug": "finance-committee-it-audit",
+      "chapter": "Operations & Administration",
+      "priority": 3,
+      "url": "https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/finance-committee-it-audit",
+      "markdown": "bookstack-current/pages-md/31-finance-committee-it-audit.md",
+      "html": "bookstack-current/pages-html/31-finance-committee-it-audit.html"
     }
   ],
-  "exported_at": "2026-11-08T15:58:49+00:00"
+  "exported_at": "2026-11-09T02:43:04+00:00"
 }
