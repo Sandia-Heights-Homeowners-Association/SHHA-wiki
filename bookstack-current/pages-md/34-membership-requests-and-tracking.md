@@ -57,3 +57,8 @@ Resident names, request details, billing evidence and follow-up notes belong in 
 For instructions residents can follow, use [Update your resident information and preferences](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/update-your-resident-information-and-preferences).
 
 Need help? Contact <office@sandiahomeowners.org> for resident records and membership, or [IT Help](mailto:ithelp@sandiahomeowners.org) for technical access. Return to [the Staff guide](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/staff).
+
+## Continue with membership and outreach
+
+- [Understand inherited memberships](https://wiki.sandiahomeowners.org/link/46) before interpreting multi-property groups or choosing an outreach audience.
+- [Use Welcome Visits for household outreach](https://wiki.sandiahomeowners.org/link/47) to assign volunteers and record packet preparation and delivery.

@@ -73,6 +73,8 @@ Need to explain how to use a temporary task-group address? Share this page: [Com
 
 Office staff: use the [Staff task guide](/link/13) for ownership, manual residents and website volunteers.
 
+Office and welcoming teams: start in [Membership and outreach](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/chapter/membership-and-outreach) for request handling, inherited membership definitions and Welcome Visits.
+
 # Committee and Group Email Guide
 
 This page explains what a committee/group email address is and how to use it.
@@ -489,7 +491,7 @@ Website administration, committee SharePoint and GRIT editorial access are separ
 
 ## Choose the task
 
-<table id="bkmrk-tooluse-it-forfirst-"><thead><tr><th>Tool</th><th>Use it for</th><th>First action and expected result</th></tr></thead><tbody><tr><td>Reminders</td><td>Review and activate scheduled messages tied to calendar events.</td><td>Follow [the Reminders procedure](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/shha-reminders). Save a draft, review the exact emails and dates, then activate future delivery.</td></tr><tr><td>Invite volunteers</td><td>Invite a new external Microsoft guest using personal email.</td><td>Confirm the requested address and approved memberships. Review the invitation before sending; it is a real email. This guest workflow does not create a paid SHHA mailbox. Use [the account SOP](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/sop-new-users-mailboxes-groups) for a requested mailbox.</td></tr><tr><td>Automatic emailer</td><td>Send Microsoft group membership updates and optional one-time rosters.</td><td>Check service status and Recent emails. Change membership in Microsoft 365, not here. Instant, Daily digest and Off control group notices; a first baseline sends no introduction.</td></tr><tr><td>Welcome Visits</td><td>Coordinate incoming-household welcomes and committee work.</td><td>Review the household and whether the date is recorded or estimated, then record assignment, Packet created, Delivered and notes as appropriate. These are separate actions. See [the ownership-change and manual-resident guide](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/record-a-property-ownership-change-office-guide) for the source record.</td></tr><tr><td>Addresses &amp; people</td><td>Look up website records and review address, contact and GRIT questions.</td><td>Start with Simple search. Advanced and Quick checks require their own permissions. Inspect evidence before acting; a membership flag is not proof of payment, and a missing GRIT association is not proof of opting out. Corrections belong on the website.</td></tr><tr><td>Printed Directory</td><td>Generate consent-aware directory sections and covers.</td><td>Load records, check layout with a one-page PDF preview, then generate the required sections. Refresh and regenerate after website corrections. Keep resident downloads private.</td></tr><tr><td>Membership reconciliation</td><td>Compare SHS billing information with website records.</td><td>A comparison tool is available, but SHHA does not currently have a routine audit procedure against SHS records. Suggestions are review leads, not proof of billing; the tool does not correct website records. See [current membership handling](/link/44).</td></tr><tr><td>Bulk emailer</td><td>Prepare personalized messages and paced campaigns.</td><td>Import recipients, write, and review the actual messages and recipients. Confirm sender readiness and the intended schedule before approving delivery. Preparing a draft does not establish that sending is configured.</td></tr></tbody></table>
+<table id="bkmrk-tooluse-it-forfirst-"><thead><tr><th>Tool</th><th>Use it for</th><th>First action and expected result</th></tr></thead><tbody><tr><td>Reminders</td><td>Review and activate scheduled messages tied to calendar events.</td><td>Follow [the Reminders procedure](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/shha-reminders). Save a draft, review the exact emails and dates, then activate future delivery.</td></tr><tr><td>Invite volunteers</td><td>Invite a new external Microsoft guest using personal email.</td><td>Confirm the requested address and approved memberships. Review the invitation before sending; it is a real email. This guest workflow does not create a paid SHHA mailbox. Use [the account SOP](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/sop-new-users-mailboxes-groups) for a requested mailbox.</td></tr><tr><td>Automatic emailer</td><td>Send Microsoft group membership updates and optional one-time rosters.</td><td>Check service status and Recent emails. Change membership in Microsoft 365, not here. Instant, Daily digest and Off control group notices; a first baseline sends no introduction.</td></tr><tr><td>Welcome Visits</td><td>Coordinate incoming-household welcomes and committee work. Follow the [Welcome Visits guide](https://wiki.sandiahomeowners.org/link/47).</td><td>Review the household and whether the date is recorded or estimated, then record assignment, Packet created, Delivered and notes as appropriate. These are separate actions. See [the ownership-change and manual-resident guide](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/record-a-property-ownership-change-office-guide) for the source record.</td></tr><tr><td>Addresses &amp; people</td><td>Look up website records and review address, contact and GRIT questions.</td><td>Start with Simple search. Advanced and Quick checks require their own permissions. Inspect evidence before acting; a membership flag is not proof of payment, and a missing GRIT association is not proof of opting out. Corrections belong on the website. For the multi-property comparison, see [inherited membership definitions](https://wiki.sandiahomeowners.org/link/46).</td></tr><tr><td>Printed Directory</td><td>Generate consent-aware directory sections and covers.</td><td>Load records, check layout with a one-page PDF preview, then generate the required sections. Refresh and regenerate after website corrections. Keep resident downloads private.</td></tr><tr><td>Membership reconciliation</td><td>Compare SHS billing information with website records.</td><td>A comparison tool is available, but SHHA does not currently have a routine audit procedure against SHS records. Suggestions are review leads, not proof of billing; the tool does not correct website records. See [current membership handling](/link/44).</td></tr><tr><td>Bulk emailer</td><td>Prepare personalized messages and paced campaigns.</td><td>Import recipients, write, and review the actual messages and recipients. Confirm sender readiness and the intended schedule before approving delivery. Preparing a draft does not establish that sending is configured.</td></tr></tbody></table>
 
 ## Understand automatic group notices
 
@@ -755,6 +757,8 @@ For a property ownership change, follow [Record a property ownership change — 
 - [Membership requests and tracking](/link/44) — intake routes, SHS billing and the flowchart.
 
 **Membership request queue:** check **Users → User Queue** in the website backend manually from time to time. Member Area membership requests appear as **Pending**. Open the request to see **MEMBERSHIP REQUESTED** and the **Approved / Denied** decision. Staff are instructed to coordinate with SHS and update the address; changing Is Member directly does not show that this review occurred. Email notification has not been confirmed; do not rely on an email alert. See [membership requests and tracking](/link/44) for the current handling and billing limitations.
+
+For multi-property membership questions and welcoming work, use the [Membership and outreach chapter](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/chapter/membership-and-outreach): [inherited membership definitions](https://wiki.sandiahomeowners.org/link/46) and [Welcome Visits](https://wiki.sandiahomeowners.org/link/47).
 
 ---
 
@@ -3076,6 +3080,14 @@ The public wiki export is a readable content copy. Restoring BookStack also requ
 - [Staff and IT access responsibilities](/books/shha-it-help-guide/page/m365-email-groups-role-inboxes-responsibilities)
 - [IT Infrastructure and Handover](/books/shha-it-help-guide/page/it-infrastructure-and-handover)
 
+# Membership and outreach
+
+**For office staff, membership volunteers and welcoming teams.** Start with [Membership requests and tracking](https://wiki.sandiahomeowners.org/link/44) for intake, Pending requests, decisions and SHS coordination.
+
+Then use [inherited membership definitions](https://wiki.sandiahomeowners.org/link/46) for multi-property questions, and [Welcome Visits](https://wiki.sandiahomeowners.org/link/47) for household welcome work. These guides distinguish website records, billing and completed outreach.
+
+For help, contact [office staff](mailto:office@sandiahomeowners.org).
+
 # Membership requests and tracking
 
 **For residents asking to join and office staff handling membership requests.** Residents: use one of the request routes below or contact the office. Staff: check the person's request and correct property/unit. Website account access, a membership request, the website's Is Member flag and SHS billing are distinct.
@@ -3135,3 +3147,80 @@ Resident names, request details, billing evidence and follow-up notes belong in 
 For instructions residents can follow, use [Update your resident information and preferences](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/update-your-resident-information-and-preferences).
 
 Need help? Contact <office@sandiahomeowners.org> for resident records and membership, or [IT Help](mailto:ithelp@sandiahomeowners.org) for technical access. Return to [the Staff guide](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/staff).
+
+## Continue with membership and outreach
+
+- [Understand inherited memberships](https://wiki.sandiahomeowners.org/link/46) before interpreting multi-property groups or choosing an outreach audience.
+- [Use Welcome Visits for household outreach](https://wiki.sandiahomeowners.org/link/47) to assign volunteers and record packet preparation and delivery.
+
+# Understand inherited memberships
+
+**For office staff, membership volunteers and administrators reviewing owners with more than one property.** Start in [Addresses &amp; people](https://toolbox.sandiahomeowners.org/addresses) → **Advanced** → **Quick checks** → **Owners &amp; accounts** → **Ownership &amp; membership**.
+
+An **inherited membership** in this analysis means treating an additional property as covered by one membership under the selected ownership definition. The tool compares definitions; a displayed group or count does not itself approve coverage, verify payment or change a website record. Confirm the applicable membership rule with the office before making an enrollment, billing or outreach decision.
+
+## Three ways to group properties
+
+<table id="bkmrk-definitionwhat-it-gr"><thead><tr><th>Definition</th><th>What it groups</th><th>Fictional example</th></tr></thead><tbody><tr><td>Individual properties</td><td>Each property is a separate membership unit.</td><td>A, B and C require three membership units.</td></tr><tr><td>Identical ownership</td><td>Properties group only when their complete lists of linked owners match.</td><td>Alice owns A and B. Alice and Bob own C. A and B group together; C stays separate: two units.</td></tr><tr><td>Shared ownership</td><td>Properties group through a common linked owner, including connected chains of co-owners.</td><td>The same A, B and C group together through Alice: one unit.</td></tr></tbody></table>
+
+The practical difference is often an extra co-owner: “Alice” and “Alice + Bob” are different complete owner lists for Identical ownership, but share Alice for Shared ownership.
+
+Shared ownership can also join a chain: Alice owns A, Alice and Bob own B, and Bob owns C. All three group together although neither person owns all three. This illustrates the definition’s reach; do not treat a chain alone as an approved membership entitlement.
+
+## Read the two inherited counts carefully
+
+- **Inherited memberships** is the selected scenario’s count of properties beyond one per group. It can include groups with no property currently marked Member. It is not a count of newly enrolled or paying members.
+- **Possible inherited properties / count** identifies properties not marked Member in a group that also contains a property marked Member. These are review candidates; a current Member flag is not billing evidence.
+
+## Review a group before outreach or changes
+
+1. Select the ownership definition you intend to compare. Read **Details** for the definition and example.
+2. Review **Owners**, **All properties &amp; membership**, **Already marked Member**, **Possible inherited properties** and **Possible inherited count**.
+3. With **Identical ownership** or **Shared ownership** selected, use **Only possible inherited memberships** to narrow to groups with a recorded Member property and another property not marked Member. Leave it unchecked to see all multi-property groups, including groups whose properties are all marked Member or none are. This checkbox is hidden for Individual properties, which has no inheritance grouping.
+4. Check the actual linked owner accounts and address/unit. Matching names do not establish that two accounts are the same person.
+5. Ask the office to confirm how the applicable membership rule and SHS billing apply to the household. Use the [membership request and review process](/link/44) for a real enrollment request.
+
+Choosing a definition changes the comparison, not dues, property flags, resident links or GRIT delivery. A property whose previous household’s Member flag remains on is a separate record-review issue; it can hide the new resident’s join prompt. See [membership requests and tracking](/link/44).
+
+For welcoming a household, continue to [Welcome Visits](https://wiki.sandiahomeowners.org/link/47). For a confusing ownership or billing case, contact [office staff](mailto:office@sandiahomeowners.org). For tool access, contact [IT Help](mailto:ithelp@sandiahomeowners.org).
+
+# Use Welcome Visits for household outreach
+
+**For office staff and welcoming volunteers with approved Welcome Visits access.** Open [Welcome Visits](https://toolbox.sandiahomeowners.org/welcome-visits) from SHHA Toolbox. If access is restricted, ask [office staff](mailto:office@sandiahomeowners.org) or [IT Help](mailto:ithelp@sandiahomeowners.org). The tool tracks household welcome work separately from membership enrollment and SHS billing.
+
+## Find the right household
+
+1. Wait for the list to load. Use **Refresh list** when you need current website information.
+2. Choose **Show**. **All visits &amp; history** includes delivered entries; **To visit** hides delivered entries. Use **Needs a volunteer** or **Assigned visits** for assignment work.
+3. Search by address, name or volunteer. Check the unit and incoming household, not just the street number.
+4. Choose the **Arrival period** and date order. The default period is the past 12 months; use **Choose dates…** for a specific range.
+5. Use **Display &amp; more options** for resident type, date details and fields. New tenants can appear in the main visit list even while the owner remains linked. Unconfirmed owner additions are under **Person added / co-owners**.
+
+## Understand the arrival date and membership label
+
+- **Recorded occupancy** comes from the website’s recorded ownership/occupancy start.
+- **Estimated arrival** uses resident/address association dates. Account creation is a fallback when a link date is missing. Neither proves a move-in date.
+- **Person added / move-in unconfirmed** calls for review; a new account or added co-owner does not by itself establish a new household.
+- A committee-entered move-in date takes priority. Review **Move-in dates** when saved and website dates differ.
+
+Membership colors and **Other properties** show website records. They do not confirm payment or automatically determine visit eligibility. For multi-property questions, use [inherited membership definitions](https://wiki.sandiahomeowners.org/link/46); for enrollment, use [membership requests and tracking](/link/44).
+
+## Record the welcome work
+
+1. Set the **Volunteer** and add useful **Notes**. Use **Save edit** when the tool shows an unsaved edit; confirm it saved for the committee.
+2. Mark **Packet created** only when the welcome packet is prepared.
+3. Mark **Delivered** only after delivery. Packet creation and delivery are independent; one does not establish the other.
+4. If a visit is not needed, use the rightmost **No visit needed** checkbox. The entry moves to **Show → No visit needed**; assignments, checks and notes are retained.
+5. To restore that entry, use **Undo** in the notice or uncheck it under **No visit needed**. This decision applies to the entry, not every later household at the address.
+
+Checkbox changes save shared committee work. Read the save confirmation or error; do not assume a failed save reached other volunteers. Ask the committee lead or office if the household, visit need or packet type is uncertain.
+
+## Use the meeting and packet views
+
+**Meeting view** collapses resident details and history for discussion. Confirm the household’s homeowner/tenant bag label. Use **Bag PDF** or **Cover PDF** for one household and check the address and HOA Unit before preparing the packet.
+
+**Copy view**, **Print list** and CSV can include contact details and notes even when those fields are collapsed on screen. Keep these outputs in approved private committee storage and communication channels.
+
+**Finished?** Check the volunteer, preparation/delivery state and notes for the correct household. A delivered welcome packet does not complete membership enrollment. Send membership intent to the office through the [membership request process](/link/44).
+
+For source record corrections, use [property ownership changes](/link/37) or [manual resident and tenant additions](/link/41). Do not create another ownership change just to give a tenant an arrival date. For help, contact [office staff](mailto:office@sandiahomeowners.org) or [IT Help](mailto:ithelp@sandiahomeowners.org).

@@ -21,6 +21,8 @@ For a property ownership change, follow [Record a property ownership change — 
 
 **Membership request queue:** check **Users → User Queue** in the website backend manually from time to time. Member Area membership requests appear as **Pending**. Open the request to see **MEMBERSHIP REQUESTED** and the **Approved / Denied** decision. Staff are instructed to coordinate with SHS and update the address; changing Is Member directly does not show that this review occurred. Email notification has not been confirmed; do not rely on an email alert. See [membership requests and tracking](/link/44) for the current handling and billing limitations.
 
+For multi-property membership questions and welcoming work, use the [Membership and outreach chapter](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/chapter/membership-and-outreach): [inherited membership definitions](https://wiki.sandiahomeowners.org/link/46) and [Welcome Visits](https://wiki.sandiahomeowners.org/link/47).
+
 ---
 
 <a id="bkmrk--2"></a>

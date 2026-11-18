@@ -64,3 +64,5 @@ Need to explain how to use a temporary task-group address? Share this page: [Com
 - [Membership requests and tracking](/link/44) — current office handling and the limits of billing confirmation.
 
 Office staff: use the [Staff task guide](/link/13) for ownership, manual residents and website volunteers.
+
+Office and welcoming teams: start in [Membership and outreach](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/chapter/membership-and-outreach) for request handling, inherited membership definitions and Welcome Visits.
