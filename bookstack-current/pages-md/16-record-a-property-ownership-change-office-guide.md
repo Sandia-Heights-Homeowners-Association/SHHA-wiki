@@ -9,7 +9,7 @@
 1. Open New Ownership from the Addresses page. New Address is a different task.
 2. Select the correct existing address. Check the street number, street and unit.
 3. Enter the actual known **Occupancy Starts At** date. The form initially displays a date; do not assume it is the household's actual start date.
-4. Set **Is Member** from confirmed membership information. A previous household's status or a screenshot does not establish a new person's billing enrollment.
+4. Set **Is Member** to reflect the resident’s expressed membership intent, as handled by the office. Do not copy a previous household’s flag. This checkbox does not confirm SHS billing; see [current membership handling](/link/44).
 5. Enable **Has Secondary Mailing Address** only when a separate mailing address applies, then check its details.
 
 [![Blank New Ownership form showing the address, start date and resident fields](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/3onnT459264TTOH5-new-ownership-2026-11.png)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/3onnT459264TTOH5-new-ownership-2026-11.png)
@@ -32,9 +32,9 @@ Use the placeholder name **Resident Resident** and an address-based placeholder 
 
 1. For the standard new-ownership setup, enable printed GRIT and select all three lists shown: GRIT e-Delivery, Frequent Updates and Essential Updates Only.
 2. Check name and phone listing consent separately for each person. Email subscription and printed delivery do not imply directory permission.
-3. Check any secondary mailing address and the household's confirmed membership status.
+3. Check any secondary mailing address and the household’s expressed membership intent.
 
-[![New Ownership resident roles, directory consent, mailing lists and Create Ownership button](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/3onnT459264TTOH5-new-ownership-2026-11.png-lower)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/3onnT459264TTOH5-new-ownership-2026-11.png-lower)
+[![New Ownership resident roles, directory consent, mailing lists and Create Ownership button](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/vyr7yFSdbkrsUcs0-new-ownership-lower-2026-11.png)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/vyr7yFSdbkrsUcs0-new-ownership-lower-2026-11.png)
 
 *Blank form showing all three mailing lists selected and directory name/phone unchecked. No ownership record was submitted for this capture.*
 

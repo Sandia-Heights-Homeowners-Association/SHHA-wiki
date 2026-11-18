@@ -69,7 +69,7 @@ Need to explain how to use a temporary task-group address? Share this page: [Com
 ## Resident accounts and membership
 
 - [Update your information and preferences](/link/43) — when to use Member Area sign-in or the Account Request form; GRIT, email and directory choices.
-- [Membership requests and tracking](/link/44) — how the office receives requests and passes them to SHS for billing.
+- [Membership requests and tracking](/link/44) — current office handling and the limits of billing confirmation.
 
 Office staff: use the [Staff task guide](/link/13) for ownership, manual residents and website volunteers.
 
@@ -489,7 +489,7 @@ Website administration, committee SharePoint and GRIT editorial access are separ
 
 ## Choose the task
 
-<table id="bkmrk-tooluse-it-forfirst-"><thead><tr><th>Tool</th><th>Use it for</th><th>First action and expected result</th></tr></thead><tbody><tr><td>Reminders</td><td>Review and activate scheduled messages tied to calendar events.</td><td>Follow [the Reminders procedure](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/shha-reminders). Save a draft, review the exact emails and dates, then activate future delivery.</td></tr><tr><td>Invite volunteers</td><td>Invite a new external Microsoft guest using personal email.</td><td>Confirm the requested address and approved memberships. Review the invitation before sending; it is a real email. This guest workflow does not create a paid SHHA mailbox. Use [the account SOP](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/sop-new-users-mailboxes-groups) for a requested mailbox.</td></tr><tr><td>Automatic emailer</td><td>Send Microsoft group membership updates and optional one-time rosters.</td><td>Check service status and Recent emails. Change membership in Microsoft 365, not here. Instant, Daily digest and Off control group notices; a first baseline sends no introduction.</td></tr><tr><td>Welcome Visits</td><td>Coordinate incoming-household welcomes and committee work.</td><td>Review the household and whether the date is recorded or estimated, then record assignment, Packet created, Delivered and notes as appropriate. These are separate actions. See [the ownership-change and manual-resident guide](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/record-a-property-ownership-change-office-guide) for the source record.</td></tr><tr><td>Addresses &amp; people</td><td>Look up website records and review address, contact and GRIT questions.</td><td>Start with Simple search. Advanced and Quick checks require their own permissions. Inspect evidence before acting; a membership flag is not proof of payment, and a missing GRIT association is not proof of opting out. Corrections belong on the website.</td></tr><tr><td>Printed Directory</td><td>Generate consent-aware directory sections and covers.</td><td>Load records, check layout with a one-page PDF preview, then generate the required sections. Refresh and regenerate after website corrections. Keep resident downloads private.</td></tr><tr><td>Membership reconciliation</td><td>Compare SHS billing information with website records.</td><td>Open or create the appropriate comparison, check source dates and address matches, then review differences. Suggestions remain unconfirmed until reviewed; the tool does not correct website records.</td></tr><tr><td>Bulk emailer</td><td>Prepare personalized messages and paced campaigns.</td><td>Import recipients, write, and review the actual messages and recipients. Confirm sender readiness and the intended schedule before approving delivery. Preparing a draft does not establish that sending is configured.</td></tr></tbody></table>
+<table id="bkmrk-tooluse-it-forfirst-"><thead><tr><th>Tool</th><th>Use it for</th><th>First action and expected result</th></tr></thead><tbody><tr><td>Reminders</td><td>Review and activate scheduled messages tied to calendar events.</td><td>Follow [the Reminders procedure](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/shha-reminders). Save a draft, review the exact emails and dates, then activate future delivery.</td></tr><tr><td>Invite volunteers</td><td>Invite a new external Microsoft guest using personal email.</td><td>Confirm the requested address and approved memberships. Review the invitation before sending; it is a real email. This guest workflow does not create a paid SHHA mailbox. Use [the account SOP](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/sop-new-users-mailboxes-groups) for a requested mailbox.</td></tr><tr><td>Automatic emailer</td><td>Send Microsoft group membership updates and optional one-time rosters.</td><td>Check service status and Recent emails. Change membership in Microsoft 365, not here. Instant, Daily digest and Off control group notices; a first baseline sends no introduction.</td></tr><tr><td>Welcome Visits</td><td>Coordinate incoming-household welcomes and committee work.</td><td>Review the household and whether the date is recorded or estimated, then record assignment, Packet created, Delivered and notes as appropriate. These are separate actions. See [the ownership-change and manual-resident guide](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/record-a-property-ownership-change-office-guide) for the source record.</td></tr><tr><td>Addresses &amp; people</td><td>Look up website records and review address, contact and GRIT questions.</td><td>Start with Simple search. Advanced and Quick checks require their own permissions. Inspect evidence before acting; a membership flag is not proof of payment, and a missing GRIT association is not proof of opting out. Corrections belong on the website.</td></tr><tr><td>Printed Directory</td><td>Generate consent-aware directory sections and covers.</td><td>Load records, check layout with a one-page PDF preview, then generate the required sections. Refresh and regenerate after website corrections. Keep resident downloads private.</td></tr><tr><td>Membership reconciliation</td><td>Compare SHS billing information with website records.</td><td>A comparison tool is available, but SHHA does not currently have a routine audit procedure against SHS records. Suggestions are review leads, not proof of billing; the tool does not correct website records. See [current membership handling](/link/44).</td></tr><tr><td>Bulk emailer</td><td>Prepare personalized messages and paced campaigns.</td><td>Import recipients, write, and review the actual messages and recipients. Confirm sender readiness and the intended schedule before approving delivery. Preparing a draft does not establish that sending is configured.</td></tr></tbody></table>
 
 ## Understand automatic group notices
 
@@ -1235,7 +1235,7 @@ A helpful agenda request includes:
 1. Open New Ownership from the Addresses page. New Address is a different task.
 2. Select the correct existing address. Check the street number, street and unit.
 3. Enter the actual known **Occupancy Starts At** date. The form initially displays a date; do not assume it is the household's actual start date.
-4. Set **Is Member** from confirmed membership information. A previous household's status or a screenshot does not establish a new person's billing enrollment.
+4. Set **Is Member** to reflect the resident’s expressed membership intent, as handled by the office. Do not copy a previous household’s flag. This checkbox does not confirm SHS billing; see [current membership handling](/link/44).
 5. Enable **Has Secondary Mailing Address** only when a separate mailing address applies, then check its details.
 
 [![Blank New Ownership form showing the address, start date and resident fields](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/3onnT459264TTOH5-new-ownership-2026-11.png)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/3onnT459264TTOH5-new-ownership-2026-11.png)
@@ -1258,9 +1258,9 @@ Use the placeholder name **Resident Resident** and an address-based placeholder 
 
 1. For the standard new-ownership setup, enable printed GRIT and select all three lists shown: GRIT e-Delivery, Frequent Updates and Essential Updates Only.
 2. Check name and phone listing consent separately for each person. Email subscription and printed delivery do not imply directory permission.
-3. Check any secondary mailing address and the household's confirmed membership status.
+3. Check any secondary mailing address and the household’s expressed membership intent.
 
-[![New Ownership resident roles, directory consent, mailing lists and Create Ownership button](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/3onnT459264TTOH5-new-ownership-2026-11.png-lower)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/3onnT459264TTOH5-new-ownership-2026-11.png-lower)
+[![New Ownership resident roles, directory consent, mailing lists and Create Ownership button](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/vyr7yFSdbkrsUcs0-new-ownership-lower-2026-11.png)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/vyr7yFSdbkrsUcs0-new-ownership-lower-2026-11.png)
 
 *Blank form showing all three mailing lists selected and directory name/phone unchecked. No ownership record was submitted for this capture.*
 
@@ -3076,7 +3076,7 @@ The public wiki export is a readable content copy. Restoring BookStack also requ
 
 # Membership requests and tracking
 
-**For residents asking to join and office staff following up membership requests.** Start by recording the person's membership intent and correct property/unit. Website account access, a membership request, the website's Is Member flag and SHS billing are distinct.
+**For residents asking to join and office staff handling membership requests.** Residents: use one of the request routes below or contact the office. Staff: check the person's request and correct property/unit. Website account access, a membership request, the website's Is Member flag and SHS billing are distinct.
 
 ## How membership requests reach the office
 
@@ -3086,20 +3086,24 @@ The public wiki export is a readable content copy. Restoring BookStack also requ
 
 **Important exception:** a new person may move to an address while its old membership is still marked active. The new person will not get the usual join prompt. Ask them to contact the office explicitly about joining; do not treat the old flag as their consent or billing enrollment.
 
-[![Membership intent arrives through a website request, Member Area or office contact; office emails SHS; SHS initiates billing; website status and billing are checked separately](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/4cI2lb6a2UKdUMI6-membership-flow-2026-11.png)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/4cI2lb6a2UKdUMI6-membership-flow-2026-11.png)
+[![Membership intent reaches SHHA; the office checks Is Member and may email SHS; billing is expected but unconfirmed; no recorded follow-up or routine reconciliation exists](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/6z5RJAQCFSzcYUWl-membership-current-process-2026-11.png)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/6z5RJAQCFSzcYUWl-membership-current-process-2026-11.png)
 
-*Current request-to-billing route. An existing Member flag can hide a new resident’s join prompt.*
+*Current practice, including the informal SHS email step and the absence of billing confirmation or routine reconciliation. An existing Member flag can hide a new resident’s join prompt.*
 
-## Office follow-up
+## Current office handling
 
-1. Review the incoming membership intent, person's identity and exact property/unit. Resolve unclear address associations or a previous household's status.
-2. The office emails the membership request to **Sandia Heights Services (SHS)**.
-3. SHS initiates billing. Follow up through the office when enrollment or billing is uncertain.
-4. Check the website's recorded status and SHS billing evidence separately. Do not use a website account request, account creation date or Member flag alone as proof that a new billing enrollment is complete.
+1. The resident says they want to join.
+2. The SHHA office checks the website’s **Is Member** checkbox for that intent.
+3. The office may email **Sandia Heights Services (SHS)** to request billing. This is an informal step; it is not consistently recorded as completed.
+4. SHS is expected to start billing, but the office does not receive confirmation that billing has started.
+
+## What is not currently tracked
+
+There is no specific recorded follow-up after someone asks to join, and no routine audit or reconciliation against SHS records. The website’s Is Member flag records the office’s membership setting; it does not establish that SHS received a request or started billing.
 
 ## Finding information about a new member
 
-Use the office's approved private request/enrollment records to confirm the person's details and progress with SHS. The website's Users/User Queue and property records support account/address review; a website account request should not be assumed to be the complete membership-enrollment record. Use Toolbox comparisons as review leads, not automatic corrections or proof of payment.
+Evidence of requests and communications with SHS is in the office inbox. Search the relevant correspondence for the person and property/unit. The website’s Users/User Queue and property records support account/address review, but there is no separate recorded follow-up establishing that billing began. A sent request or the Is Member flag alone is not confirmation of SHS billing.
 
 Resident names, request details, billing evidence and follow-up notes belong in approved private systems, not in this public wiki.
 

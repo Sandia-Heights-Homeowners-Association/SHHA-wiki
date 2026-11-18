@@ -61,6 +61,6 @@ Need to explain how to use a temporary task-group address? Share this page: [Com
 ## Resident accounts and membership
 
 - [Update your information and preferences](/link/43) — when to use Member Area sign-in or the Account Request form; GRIT, email and directory choices.
-- [Membership requests and tracking](/link/44) — how the office receives requests and passes them to SHS for billing.
+- [Membership requests and tracking](/link/44) — current office handling and the limits of billing confirmation.
 
 Office staff: use the [Staff task guide](/link/13) for ownership, manual residents and website volunteers.

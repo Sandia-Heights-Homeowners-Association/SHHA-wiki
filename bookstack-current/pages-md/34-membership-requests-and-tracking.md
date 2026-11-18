@@ -1,6 +1,6 @@
 # Membership requests and tracking
 
-**For residents asking to join and office staff following up membership requests.** Start by recording the person's membership intent and correct property/unit. Website account access, a membership request, the website's Is Member flag and SHS billing are distinct.
+**For residents asking to join and office staff handling membership requests.** Residents: use one of the request routes below or contact the office. Staff: check the person's request and correct property/unit. Website account access, a membership request, the website's Is Member flag and SHS billing are distinct.
 
 ## How membership requests reach the office
 
@@ -10,20 +10,24 @@
 
 **Important exception:** a new person may move to an address while its old membership is still marked active. The new person will not get the usual join prompt. Ask them to contact the office explicitly about joining; do not treat the old flag as their consent or billing enrollment.
 
-[![Membership intent arrives through a website request, Member Area or office contact; office emails SHS; SHS initiates billing; website status and billing are checked separately](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/4cI2lb6a2UKdUMI6-membership-flow-2026-11.png)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/4cI2lb6a2UKdUMI6-membership-flow-2026-11.png)
+[![Membership intent reaches SHHA; the office checks Is Member and may email SHS; billing is expected but unconfirmed; no recorded follow-up or routine reconciliation exists](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/6z5RJAQCFSzcYUWl-membership-current-process-2026-11.png)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/6z5RJAQCFSzcYUWl-membership-current-process-2026-11.png)
 
-*Current request-to-billing route. An existing Member flag can hide a new resident’s join prompt.*
+*Current practice, including the informal SHS email step and the absence of billing confirmation or routine reconciliation. An existing Member flag can hide a new resident’s join prompt.*
 
-## Office follow-up
+## Current office handling
 
-1. Review the incoming membership intent, person's identity and exact property/unit. Resolve unclear address associations or a previous household's status.
-2. The office emails the membership request to **Sandia Heights Services (SHS)**.
-3. SHS initiates billing. Follow up through the office when enrollment or billing is uncertain.
-4. Check the website's recorded status and SHS billing evidence separately. Do not use a website account request, account creation date or Member flag alone as proof that a new billing enrollment is complete.
+1. The resident says they want to join.
+2. The SHHA office checks the website’s **Is Member** checkbox for that intent.
+3. The office may email **Sandia Heights Services (SHS)** to request billing. This is an informal step; it is not consistently recorded as completed.
+4. SHS is expected to start billing, but the office does not receive confirmation that billing has started.
+
+## What is not currently tracked
+
+There is no specific recorded follow-up after someone asks to join, and no routine audit or reconciliation against SHS records. The website’s Is Member flag records the office’s membership setting; it does not establish that SHS received a request or started billing.
 
 ## Finding information about a new member
 
-Use the office's approved private request/enrollment records to confirm the person's details and progress with SHS. The website's Users/User Queue and property records support account/address review; a website account request should not be assumed to be the complete membership-enrollment record. Use Toolbox comparisons as review leads, not automatic corrections or proof of payment.
+Evidence of requests and communications with SHS is in the office inbox. Search the relevant correspondence for the person and property/unit. The website’s Users/User Queue and property records support account/address review, but there is no separate recorded follow-up establishing that billing began. A sent request or the Is Member flag alone is not confirmation of SHS billing.
 
 Resident names, request details, billing evidence and follow-up notes belong in approved private systems, not in this public wiki.
 
