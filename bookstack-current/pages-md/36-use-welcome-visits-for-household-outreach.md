@@ -17,7 +17,7 @@
 - **Person added / move-in unconfirmed** calls for review; a new account or added co-owner does not by itself establish a new household.
 - A committee-entered move-in date takes priority. Review **Move-in dates** when saved and website dates differ.
 
-Membership colors and **Other properties** show website records. They do not confirm payment or automatically determine visit eligibility. For multi-property questions, use [inherited membership definitions](https://wiki.sandiahomeowners.org/link/46); for enrollment, use [membership requests and tracking](/link/44).
+Membership colors and **Other properties** show website records. They do not confirm payment or automatically determine visit eligibility. Before treating a household as uncovered, check whether membership extends from a dues-paying property through shared ownership. The website’s property flag does not currently capture that extension. Use [SHHA’s inherited membership rule](https://wiki.sandiahomeowners.org/link/46) for multi-property questions and [membership requests and tracking](/link/44) for enrollment.
 
 ## Record the welcome work
 

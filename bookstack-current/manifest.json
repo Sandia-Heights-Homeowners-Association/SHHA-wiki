@@ -4,7 +4,7 @@
   "book_name": "SHHA IT Help Guide",
   "book_path": "/books/shha-it-help-guide",
   "visibility": "anonymous-public",
-  "content_sha256": "2cef670474fc097fdc0106eaa28b10118564de0df49739cad9fd3f259c5b519f",
+  "content_sha256": "932b2462a28548bb8f2a5f2cb149f3c08aaffdf64ec8b24f3bb1171bb7259e87",
   "chapters": 8,
   "pages": [
     {
@@ -368,5 +368,5 @@
       "html": "bookstack-current/pages-html/36-use-welcome-visits-for-household-outreach.html"
     }
   ],
-  "exported_at": "2026-11-18T05:46:48+00:00"
+  "exported_at": "2026-11-18T14:27:29+00:00"
 }

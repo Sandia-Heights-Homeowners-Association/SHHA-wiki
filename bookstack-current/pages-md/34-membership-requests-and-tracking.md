@@ -2,6 +2,8 @@
 
 **For residents asking to join and office staff handling membership requests.** Residents: use one of the request routes below or contact the office. Staff: check the person's request and correct property/unit. Website account access, a membership request, the website's Is Member flag and SHS billing are distinct.
 
+**Check existing shared-ownership coverage before treating a household as needing a new membership.** Membership from a dues-paying property extends to other properties owned or co-owned by people on that property. The website’s Is Member flags do not currently capture this extension. See [inherited membership and the members-only export limitation](/link/46).
+
 ## How membership requests reach the office
 
 - A resident submits the [Account Request form](https://sandiahomeowners.org/account/request).
