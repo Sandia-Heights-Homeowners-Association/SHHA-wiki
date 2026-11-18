@@ -3092,7 +3092,7 @@ For help, contact [office staff](mailto:office@sandiahomeowners.org).
 
 **For residents asking to join and office staff handling membership requests.** Residents: use one of the request routes below or contact the office. Staff: check the person's request and correct property/unit. Website account access, a membership request, the website's Is Member flag and SHS billing are distinct.
 
-**Check existing shared-ownership coverage before treating a household as needing a new membership.** Membership from a dues-paying property extends to other properties owned or co-owned by people on that property. The website’s Is Member flags do not currently capture this extension. See [inherited membership and the members-only export limitation](/link/46).
+**Check existing shared-ownership coverage before treating a household as needing a new membership.** Membership from an actual dues-paying property extends to other properties owned or co-owned by people on that property. It does not pass onward through a person connected only to an inherited property. The website’s Is Member flags do not currently capture this extension. See [inherited membership and the members-only export limitation](/link/46).
 
 ## How membership requests reach the office
 
@@ -3161,9 +3161,13 @@ Need help? Contact <office@sandiahomeowners.org> for resident records and member
 
 ## SHHA’s shared ownership membership rule
 
-**SHHA uses shared ownership for membership coverage.** Anyone on a dues-paying property extends membership to other properties they own or co-own. Those additional properties have **inherited membership**; their complete co-owner lists do not have to be identical.
+**SHHA uses shared ownership for membership coverage.** Anyone on a dues-paying property extends membership to other properties they own or co-own. Those additional properties have **inherited membership**; their complete co-owner lists do not have to be identical. Coverage must come from an actual dues-paying property; it does not pass onward through a co-owner whose connection is only to an inherited property.
 
-For example, Alice is on dues-paying property A, owns property B and co-owns property C with Bob. The rule extends coverage from A to B and C.
+### Which property pays dues matters
+
+Alice owns A. Alice and Bob co-own B. Bob owns C.
+
+<table id="bkmrk-actual-dues-paying-p"><thead><tr><th>Actual dues-paying property</th><th>Coverage</th><th>Reason</th></tr></thead><tbody><tr><td>A, owned by Alice</td><td>A pays; B inherits; C is not covered by A’s payment.</td><td>Alice’s payment extends to B. Bob’s connection to inherited B does not extend that coverage to C.</td></tr><tr><td>B, co-owned by Alice and Bob</td><td>B pays; A and C both inherit.</td><td>Both Alice and Bob are on the dues-paying property, so coverage extends to the other properties each owns or co-owns.</td></tr></tbody></table>
 
 ## Why a website members-only export is incomplete
 
@@ -3173,17 +3177,17 @@ The website does not currently apply shared-ownership coverage. It records each 
 
 ## Toolbox comparison definitions
 
-Select **Shared ownership** when reviewing SHHA’s coverage rule. The tool retains Individual properties and Identical ownership as alternative comparisons. A comparison result does not update website records or verify SHS billing.
+Use **Shared ownership** as the starting comparison, then check the actual dues-paying source within each group. The tool can group a chain more broadly than SHHA’s coverage rule. It retains Individual properties and Identical ownership as alternative comparisons; no comparison result updates website records or verifies SHS billing.
 
-<table id="bkmrk-definitionwhat-it-gr"><thead><tr><th>Definition</th><th>What it groups</th><th>Fictional example</th></tr></thead><tbody><tr><td>Individual properties</td><td>Each property is a separate membership unit.</td><td>Counts A, B and C as three separate units.</td></tr><tr><td>Identical ownership</td><td>Properties group only when their complete lists of linked owners match.</td><td>Alice owns A and B. Alice and Bob own C. A and B group together; C stays separate: two units.</td></tr><tr><td>Shared ownership</td><td>Properties group through a common linked owner, including connected chains of co-owners.</td><td>The same A, B and C group together through Alice: one unit.</td></tr></tbody></table>
+<table id="bkmrk-definitionwhat-it-gr"><thead><tr><th>Definition</th><th>What it groups</th><th>Separate comparison example</th></tr></thead><tbody><tr><td>Individual properties</td><td>Each property is a separate membership unit.</td><td>Counts X, Y and Z as three separate units.</td></tr><tr><td>Identical ownership</td><td>Properties group only when their complete lists of linked owners match.</td><td>Alice owns X and Y. Alice and Bob own Z. X and Y group together; Z stays separate: two units.</td></tr><tr><td>Shared ownership</td><td>Properties group through a common linked owner, including connected chains of co-owners.</td><td>The same X, Y and Z group together through Alice: one unit.</td></tr></tbody></table>
 
 The practical difference is often an extra co-owner: “Alice” and “Alice + Bob” are different complete owner lists for Identical ownership, but share Alice for Shared ownership.
 
-The tool’s Shared ownership comparison can also join a chain: Alice owns A, Alice and Bob own B, and Bob owns C. All three group together although neither person owns all three. For a case like this, verify the connection to an actual dues-paying property with the office; the grouping alone does not establish billing or settle how coverage applies through a chain.
+The tool’s Shared ownership comparison can join the whole A–B–C chain above. Apply SHHA’s actual coverage rule within that group: C does not inherit when only A pays dues; C does inherit when jointly owned B is the dues-paying property. A connected group alone is not a coverage or billing decision.
 
 ## Read the two inherited counts carefully
 
-- **Inherited memberships** is the selected scenario’s count of properties beyond one per group. It can include groups with no property currently marked Member. It is not a count of newly enrolled or paying members.
+- **Inherited memberships** is the selected scenario’s count of properties beyond one per group. It can include groups with no property currently marked Member. It is not a count of newly enrolled or paying members. Apply the dues-paying-source check before treating a grouped property as covered.
 - **Possible inherited properties / count** identifies properties not marked Member in a group that also contains a property marked Member. These are review candidates; a current Member flag is not billing evidence.
 
 ## Review a group before outreach or changes
@@ -3192,7 +3196,7 @@ The tool’s Shared ownership comparison can also join a chain: Alice owns A, Al
 2. Review **Owners**, **All properties &amp; membership**, **Already marked Member**, **Possible inherited properties** and **Possible inherited count**.
 3. With **Identical ownership** or **Shared ownership** selected, use **Only possible inherited memberships** to narrow to groups with a recorded Member property and another property not marked Member. Leave it unchecked to see all multi-property groups, including groups whose properties are all marked Member or none are. This checkbox is hidden for Individual properties, which has no inheritance grouping.
 4. Check the actual linked owner accounts and address/unit. Matching names do not establish that two accounts are the same person.
-5. Identify the dues-paying property and the person’s connection to it, then check their ownership or co-ownership of each additional property. Resolve uncertain ownership or billing with the office. Use the [membership request and review process](/link/44) for a real enrollment request.
+5. Identify the actual dues-paying property and the person’s connection to it, then check their ownership or co-ownership of each additional property. Do not extend coverage through someone whose only connection is to an inherited property. Resolve uncertain ownership or billing with the office. Use the [membership request and review process](/link/44) for a real enrollment request.
 
 Choosing a definition changes the comparison, not dues, property flags, resident links or GRIT delivery. A property whose previous household’s Member flag remains on is a separate record-review issue; it can hide the new resident’s join prompt. See [membership requests and tracking](/link/44).
 
@@ -3217,7 +3221,7 @@ For welcoming a household, continue to [Welcome Visits](https://wiki.sandiahomeo
 - **Person added / move-in unconfirmed** calls for review; a new account or added co-owner does not by itself establish a new household.
 - A committee-entered move-in date takes priority. Review **Move-in dates** when saved and website dates differ.
 
-Membership colors and **Other properties** show website records. They do not confirm payment or automatically determine visit eligibility. Before treating a household as uncovered, check whether membership extends from a dues-paying property through shared ownership. The website’s property flag does not currently capture that extension. Use [SHHA’s inherited membership rule](https://wiki.sandiahomeowners.org/link/46) for multi-property questions and [membership requests and tracking](/link/44) for enrollment.
+Membership colors and **Other properties** show website records. They do not confirm payment or automatically determine visit eligibility. Before treating a household as uncovered, check whether membership extends from an actual dues-paying property through shared ownership. A connection only to an inherited property does not extend coverage onward to another co-owner’s properties. The website’s property flag does not currently capture that extension. Use [SHHA’s inherited membership rule](https://wiki.sandiahomeowners.org/link/46) for multi-property questions and [membership requests and tracking](/link/44) for enrollment.
 
 ## Record the welcome work
 
