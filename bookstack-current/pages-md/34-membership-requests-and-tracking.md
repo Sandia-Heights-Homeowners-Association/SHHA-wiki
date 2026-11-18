@@ -5,14 +5,24 @@
 ## How membership requests reach the office
 
 - A resident submits the [Account Request form](https://sandiahomeowners.org/account/request).
-- A resident signs in with a magic link and uses the membership toggle when their address is not marked Member.
+- A resident signs in with a magic link and uses the membership toggle when their address is not marked Member. The form shows **Pending**, and the request appears under **Users → Queue**.
 - A resident contacts the office by phone, email or an in-person visit.
 
 **Important exception:** a new person may move to an address while its old membership is still marked active. The new person will not get the usual join prompt. Ask them to contact the office explicitly about joining; do not treat the old flag as their consent or billing enrollment.
 
-[![Membership intent reaches SHHA; the office checks Is Member and may email SHS; billing is expected but unconfirmed; no recorded follow-up or routine reconciliation exists](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/v4ftCntFtOiPpLCJ-membership-current-process-2026-11.png)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/v4ftCntFtOiPpLCJ-membership-current-process-2026-11.png)
+[![Member Area requests show Pending and enter Users Queue for manual checking; office handling and an informal SHS email do not confirm billing; no routine reconciliation exists](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/lQf3LNsIf6Kfzvtf-membership-queue-process-2026-11.png)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/lQf3LNsIf6Kfzvtf-membership-queue-process-2026-11.png)
 
 *Current practice, including the informal SHS email step and the absence of billing confirmation or routine reconciliation. An existing Member flag can hide a new resident’s join prompt.*
+
+## Check the membership request queue
+
+When a resident requests membership through the Member Area toggle, the form shows **Pending** and the request appears under **Users → Queue** in the website backend.
+
+1. Sign in to the [website backend](https://sandiahomeowners.org/private) with your approved staff account.
+2. Open **Users → Queue** and review pending requests.
+3. Check the resident and property/unit, then follow the current office handling below.
+
+**Check this queue manually from time to time.** Email notification has not been confirmed, so do not rely on an email to alert you. Pending means the request is waiting for review; it does not confirm SHS billing.
 
 ## Current office handling
 
@@ -27,7 +37,7 @@ There is no specific recorded follow-up after someone asks to join, and no routi
 
 ## Finding information about a new member
 
-Evidence of requests and communications with SHS is in the office inbox. Search the relevant correspondence for the person and property/unit. The website’s Users/User Queue and property records support account/address review, but there is no separate recorded follow-up establishing that billing began. A sent request or the Is Member flag alone is not confirmation of SHS billing.
+Evidence of requests and communications with SHS is in the office inbox. Search the relevant correspondence for the person and property/unit. The website’s Users → Queue and property records support account/address review, but there is no separate recorded follow-up establishing that billing began. A sent request or the Is Member flag alone is not confirmation of SHS billing.
 
 Resident names, request details, billing evidence and follow-up notes belong in approved private systems, not in this public wiki.
 

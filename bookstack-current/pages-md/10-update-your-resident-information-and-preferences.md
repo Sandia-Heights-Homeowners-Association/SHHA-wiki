@@ -27,7 +27,7 @@
 
 [![Demonstration office address showing Member status and directory and printed-GRIT switches](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/I8mHRYTljMvH4lQY-test-member-preferences-2026-11.png)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/I8mHRYTljMvH4lQY-test-member-preferences-2026-11.png)
 
-*Demonstration only: Test User at the SHHA office, 12700-3 San Rafael. These are example settings, not recommended defaults for your household.*
+*Demonstration only: Test User at the SHHA office, 12700-3 San Rafael. These are example settings, not recommended defaults for your household. The Member label in this earlier screenshot does not describe the office’s current membership status.*
 
 [![Test User information and Manage Email Preferences link](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/BBNCuRIooa2lA6u7-test-member-information-2026-11.png)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/BBNCuRIooa2lA6u7-test-member-information-2026-11.png)
 
@@ -58,6 +58,6 @@ Under **My Email Subscription Preferences**, select **Manage Email Preferences**
 
 ## Want to become a member?
 
-If the address is not marked Member, a membership toggle appears in the Member Area. If an old household's membership flag is still on, a new resident may see Member status and no join prompt. **Contact the office to express your own membership intent**; the displayed flag alone does not confirm billing for you. See [membership requests and tracking](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/membership-requests-and-tracking).
+If the address is not marked Member, a membership toggle appears in the Member Area. When you request membership there, the form shows **Pending** and the request enters the office’s queue for manual review. Pending does not confirm that SHS billing has started. If an old household's membership flag is still on, a new resident may see Member status and no join prompt. **Contact the office to express your own membership intent**; the displayed flag alone does not confirm billing for you. See [membership requests and tracking](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/membership-requests-and-tracking).
 
 Need help? Contact <office@sandiahomeowners.org> for resident records and membership, or [IT Help](mailto:ithelp@sandiahomeowners.org) for technical access. Return to [the Staff guide](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/staff).
