@@ -3086,7 +3086,7 @@ The public wiki export is a readable content copy. Restoring BookStack also requ
 
 **Important exception:** a new person may move to an address while its old membership is still marked active. The new person will not get the usual join prompt. Ask them to contact the office explicitly about joining; do not treat the old flag as their consent or billing enrollment.
 
-[![Membership intent reaches SHHA; the office checks Is Member and may email SHS; billing is expected but unconfirmed; no recorded follow-up or routine reconciliation exists](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/6z5RJAQCFSzcYUWl-membership-current-process-2026-11.png)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/6z5RJAQCFSzcYUWl-membership-current-process-2026-11.png)
+[![Membership intent reaches SHHA; the office checks Is Member and may email SHS; billing is expected but unconfirmed; no recorded follow-up or routine reconciliation exists](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/v4ftCntFtOiPpLCJ-membership-current-process-2026-11.png)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/v4ftCntFtOiPpLCJ-membership-current-process-2026-11.png)
 
 *Current practice, including the informal SHS email step and the absence of billing confirmation or routine reconciliation. An existing Member flag can hide a new resident’s join prompt.*
 
@@ -3094,7 +3094,7 @@ The public wiki export is a readable content copy. Restoring BookStack also requ
 
 1. The resident says they want to join.
 2. The SHHA office checks the website’s **Is Member** checkbox for that intent.
-3. The office may email **Sandia Heights Services (SHS)** to request billing. This is an informal step; it is not consistently recorded as completed.
+3. The office may email **Sandia Heights Services (SHS)** to request billing. Any evidence of this correspondence is in the office inbox; there is no separate recorded follow-up.
 4. SHS is expected to start billing, but the office does not receive confirmation that billing has started.
 
 ## What is not currently tracked
