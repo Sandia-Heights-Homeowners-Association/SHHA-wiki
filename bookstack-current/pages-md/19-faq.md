@@ -61,7 +61,7 @@ See [SharePoint Folder Organization](/books/shha-it-help-guide/page/sharepoint-f
 
 ---
 
-<a id="bkmrk--9"></a>## Why should I send links instead of attachments?
+<a id="bkmrk--9"></a>## How should I tell the committee where a document is?
 
 **First put the file in the correct SharePoint document library.** A link points people to the file; it does not replace group permissions or make a personal OneDrive file available to external members.
 
@@ -70,7 +70,7 @@ See [SharePoint Folder Organization](/books/shha-it-help-guide/page/sharepoint-f
 - **Centralized records.** The file stays in SharePoint, where future volunteers can find it.
 - **No file-size limits.** Email attachments can bounce if too large. SharePoint links have no such problem.
  
-<div id="bkmrk-rule-of-thumb%3A-if-a-">**Rule of thumb:** If a document is SHHA committee business, it goes in SharePoint, and you email the link. Only use attachments for quick, one-off items that do not need to be retained.</div><div id="bkmrk-microsoft-help%3A-exte">**Microsoft help:** [External or guest sharing in SharePoint](https://support.microsoft.com/en-us/office/external-or-guest-sharing-in-onedrive-sharepoint-and-lists-7aa070b8-d094-4921-9dd9-86392f2a79e7)</div>---
+<div id="bkmrk-rule-of-thumb%3A-if-a-">**Rule of thumb:** If a document is SHHA committee business, put it in the committee Documents library and email the committee site address, folder and file name. Do not use Share or Copy link as the external-member handoff; follow the [screenshot guide](/link/7). Only use attachments for quick, one-off items that do not need to be retained.</div><div id="bkmrk-microsoft-help%3A-exte">**Microsoft help:** [External or guest sharing in SharePoint](https://support.microsoft.com/en-us/office/external-or-guest-sharing-in-onedrive-sharepoint-and-lists-7aa070b8-d094-4921-9dd9-86392f2a79e7)</div>---
 
 <a id="bkmrk--11"></a>## I have a role mailbox (e.g., president@, treasurer@). Should I reply from my personal inbox?
 
@@ -131,7 +131,7 @@ If the shared mailbox does not appear automatically, try adding it manually:
 1. Open the Board SharePoint link in your web browser.
 2. Navigate to the appropriate folder (e.g., "Meeting Materials", "Agendas").
 3. Click **Upload → Files** and select the document.
-4. Once uploaded, copy the sharing link and email it to the Board mailing list if you need to notify members.
+4. Once uploaded, email the Board mailing list with the Board site address from [Quick Links](/link/3), folder and file name. Do not use Share or Copy link for the external-member handoff.
  
 Only deviate from this if office staff specifically requests materials a different way.
 
@@ -237,7 +237,7 @@ Each committee and the Board has a **mailing list address**. Sending to it deliv
 3. In the **To** field, type the group address (e.g., `csc@sandiahomeowners.org`).
 4. Write your message and click **Send**.
  
-<div id="bkmrk-tips%3A-you-do-not-nee">**Tips:** You do not need to know individual email addresses — the group address handles distribution. If sharing a document, paste a SharePoint link rather than attaching a file.</div>---
+<div id="bkmrk-tips%3A-you-do-not-nee">**Tips:** You do not need to know individual email addresses — the group address handles distribution. For a committee document, give the committee site address, folder and file name; see the [SharePoint guide](/link/7).</div>---
 
 <a id="bkmrk--32"></a>## How does the email transition work when someone enters or leaves a role? Who handles it?
 

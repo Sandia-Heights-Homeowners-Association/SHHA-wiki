@@ -29,7 +29,7 @@ When you email that address, your message goes to all current participants.
 - Sensitive information that should only go to staff or leadership
 - File attachments that belong in SharePoint long term
 
-For long-term files, upload to SharePoint first, then send the SharePoint link to the group.
+For long-term files, upload to the committee SharePoint Documents library first. Email the committee site address from [Quick Links](/link/3), folder and file name. Follow the [SharePoint screenshot guide](/link/7); do not use Share or Copy link for the external-member handoff.
 
 ## Which Email Address Should I Use To Send?
 
@@ -43,7 +43,7 @@ The group address is a distribution address, not a personal account.
 
 1. Need everyone in the committee/group to see this? Use the committee/group mailing-list address.
 2. Need only one person to see this? Email that person directly.
-3. Sharing a document people will keep working on? Put it in SharePoint and email the link to the committee/group address.
+3. Sharing a document people will keep working on? Put it in the committee SharePoint Documents library and email the committee site address, folder and file name to the committee/group address.
 
 ## FAQ
 

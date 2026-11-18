@@ -15,7 +15,7 @@ If there are office-only working documents, separate issues, drafts that do not 
 
 ## Sharing A File With The Board Or A Committee
 
-**Do not use the Share button to give a Board or committee group access to a file.** Instead, move the file into the SharePoint folder that belongs to that group. Access comes from membership in the group's SharePoint/Microsoft 365 group.
+**Do not use Share or Copy link as the file handoff for external Board or committee members.** Use the committee site address, folder and file name; see the [screenshot guide](/link/7). Instead, move the file into the SharePoint folder that belongs to that group. Access comes from membership in the group's SharePoint/Microsoft 365 group.
 
 This matters because many Board and committee members use personal email addresses, such as Gmail. Access depends on approved site and document permissions, not an email suffix. Copying a link points to a file; it does not by itself give its recipient permission. External members should access group files through the appropriate SharePoint site.
 

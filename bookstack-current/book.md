@@ -66,6 +66,13 @@ Need to explain how to use a temporary task-group address? Share this page: [Com
 
 **Need to understand where committee files belong?** See [SharePoint Folder Organization](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/sharepoint-folder-organization).
 
+## Resident accounts and membership
+
+- [Update your information and preferences](/link/43) — when to use Member Area sign-in or the Account Request form; GRIT, email and directory choices.
+- [Membership requests and tracking](/link/44) — how the office receives requests and passes them to SHS for billing.
+
+Office staff: use the [Staff task guide](/link/13) for ownership, manual residents and website volunteers.
+
 # Committee and Group Email Guide
 
 This page explains what a committee/group email address is and how to use it.
@@ -97,7 +104,7 @@ When you email that address, your message goes to all current participants.
 - Sensitive information that should only go to staff or leadership
 - File attachments that belong in SharePoint long term
 
-For long-term files, upload to SharePoint first, then send the SharePoint link to the group.
+For long-term files, upload to the committee SharePoint Documents library first. Email the committee site address from [Quick Links](/link/3), folder and file name. Follow the [SharePoint screenshot guide](/link/7); do not use Share or Copy link for the external-member handoff.
 
 ## Which Email Address Should I Use To Send?
 
@@ -111,7 +118,7 @@ The group address is a distribution address, not a personal account.
 
 1. Need everyone in the committee/group to see this? Use the committee/group mailing-list address.
 2. Need only one person to see this? Email that person directly.
-3. Sharing a document people will keep working on? Put it in SharePoint and email the link to the committee/group address.
+3. Sharing a document people will keep working on? Put it in the committee SharePoint Documents library and email the committee site address, folder and file name to the committee/group address.
 
 ## FAQ
 
@@ -152,7 +159,7 @@ If there are office-only working documents, separate issues, drafts that do not 
 
 ## Sharing A File With The Board Or A Committee
 
-**Do not use the Share button to give a Board or committee group access to a file.** Instead, move the file into the SharePoint folder that belongs to that group. Access comes from membership in the group's SharePoint/Microsoft 365 group.
+**Do not use Share or Copy link as the file handoff for external Board or committee members.** Use the committee site address, folder and file name; see the [screenshot guide](/link/7). Instead, move the file into the SharePoint folder that belongs to that group. Access comes from membership in the group's SharePoint/Microsoft 365 group.
 
 This matters because many Board and committee members use personal email addresses, such as Gmail. Access depends on approved site and document permissions, not an email suffix. Copying a link points to a file; it does not by itself give its recipient permission. External members should access group files through the appropriate SharePoint site.
 
@@ -357,6 +364,14 @@ Return to [the Toolbox guide](https://wiki.sandiahomeowners.org/books/shha-it-he
 
 **Audience:** SHHA committee and task-force members. Office staff handle site setup, membership, permissions, and changes to the SharePoint home page.
 
+**Start here:** open your committee site from [Quick Links &amp; Directory](/link/3). A document library is the shared file cabinet called **Documents**. If you have not accepted your Microsoft invitation, first follow [the invitation and sign-in guide](/books/shha-it-help-guide/page/volunteer-without-shha-email).
+
+## Send people to the site, folder and file
+
+**Do not use Share or Copy link to hand files to external committee or Board members.** Put the file in the correct group-owned SharePoint Documents library. In your email, give the committee site address from [Quick Links &amp; Directory](/link/3), then the folder and file name. Members open that site and find the document there.
+
+A file-sharing link is not the SHHA handoff method for external members: it can lead to a permission prompt even when the sender can open the file. Approved group membership supplies access; copying a link does not grant it. This is SHHA's supported workflow, not a rule that all personal-email accounts are technically unable to open Microsoft links.
+
 ## Email And Documents Are Two Different Tools
 
 <table id="bkmrk-tooluse-it-for-your-"><thead><tr><th>Tool</th><th>Use it for</th></tr></thead><tbody><tr><td>Your committee mailing list</td><td>Emailing everyone in the committee</td></tr><tr><td>Your committee SharePoint site</td><td>Storing and working on committee documents</td></tr></tbody></table>
@@ -404,17 +419,25 @@ The committee chair does not need an `@sandiahomeowners.org` account or site-own
 1. Open the committee's SharePoint link.
 2. Sign in using the same email address that received your SHHA Microsoft invitation.
 3. If Microsoft emails a one-time passcode, enter that code.
-4. Select **Documents**.
+4. Select **Documents**. Some sites show the Documents library directly on their home page.
 5. Open the folder you need.
+
+[![SharePoint Documents toolbar with Create or upload button](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/v4dDzlurDSp7rPSb-sharepoint-navigation-2026-11.png)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/v4dDzlurDSp7rPSb-sharepoint-navigation-2026-11.png)
+
+*Documents toolbar in Chrome, November 17, 2026. Open the correct folder before choosing Create or upload. Private files and names have been cropped out.*
 
 ## How To Add A File
 
 1. Open **Documents** and the correct folder.
-2. Select **Upload** → **Files**.
+2. Select **Create or upload** → **Files upload**. Some library layouts instead show **Upload** → **Files**.
 3. Choose the file from your computer.
 4. Wait for the upload to finish and confirm the file appears.
 
-To create a file directly in SharePoint, select **New** and choose Word, Excel, PowerPoint, or Folder.
+To create a file directly in SharePoint, select **Create or upload** and choose Word document, Excel workbook, PowerPoint presentation, or Folder. Some layouts label this menu **New**.
+
+[![Create or upload menu showing Files upload, Folder upload and document choices](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/7c1ARBHHYjjOG1qo-sharepoint-upload-menu-2026-11.png)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/7c1ARBHHYjjOG1qo-sharepoint-upload-menu-2026-11.png)
+
+*Choose Files upload for a file on your computer. Folder upload adds a whole folder; review its contents first. No file was uploaded for this demonstration.*
 
 ## How To Edit, Move, Or Delete A File
 
@@ -430,7 +453,7 @@ If future Board members may need it, do not let it disappear into an old email t
 
 ## How To Share A File With The Committee
 
-Put the file in the committee SharePoint Documents library, then email the committee mailing list with the file name and folder location.
+Put the file in the committee SharePoint Documents library, then email the committee mailing list with the committee site address, folder location and file name. For example: “Open the Board site from Quick Links, then Documents → Minutes → Draft meeting notes.docx.” The folder and filename in this example are illustrative.
 
 Do not use the Share button to grant the committee access. Group membership already provides document access, including for approved members using personal email addresses.
 
@@ -442,6 +465,8 @@ Contact office staff or <ITHelp@sandiahomeowners.org>. Include:
 - The SharePoint site or folder being opened
 - The exact error message
 - A screenshot, if possible
+
+**Finished?** Confirm the file appears in the intended Documents folder, then tell the committee its location. For folder placement, continue to [SharePoint Folder Organization](/link/5). If you see Access denied or cannot find a file, contact [office staff](mailto:office@sandiahomeowners.org) or [IT Help](mailto:ithelp@sandiahomeowners.org); do not change sharing permissions to work around it.
 
 # Public Utilities and SHHA Toolbox
 
@@ -464,7 +489,7 @@ Website administration, committee SharePoint and GRIT editorial access are separ
 
 ## Choose the task
 
-<table id="bkmrk-tooluse-it-forfirst-"><thead><tr><th>Tool</th><th>Use it for</th><th>First action and expected result</th></tr></thead><tbody><tr><td>Reminders</td><td>Review and activate scheduled messages tied to calendar events.</td><td>Follow [the Reminders procedure](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/shha-reminders). Save a draft, review the exact emails and dates, then activate future delivery.</td></tr><tr><td>Invite volunteers</td><td>Invite a new external Microsoft guest using personal email.</td><td>Confirm the requested address and approved memberships. Review the invitation before sending; it is a real email. This guest workflow does not create a paid SHHA mailbox. Use [the account SOP](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/sop-new-users-mailboxes-groups) for a requested mailbox.</td></tr><tr><td>Automatic emailer</td><td>Send Microsoft group membership updates and optional one-time rosters.</td><td>Check service status and Recent emails. Change membership in Microsoft 365, not here. Instant, Daily digest and Off control group notices; a first baseline sends no introduction.</td></tr><tr><td>Welcome Visits</td><td>Coordinate incoming-household welcomes and committee work.</td><td>Review the household and whether the date is recorded or estimated, then record assignment, Packet created, Delivered and notes as appropriate. These are separate actions. See [the ownership-change and manual-resident guide](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/record-a-new-occupancy-office-guide) for the source record.</td></tr><tr><td>Addresses &amp; people</td><td>Look up website records and review address, contact and GRIT questions.</td><td>Start with Simple search. Advanced and Quick checks require their own permissions. Inspect evidence before acting; a membership flag is not proof of payment, and a missing GRIT association is not proof of opting out. Corrections belong on the website.</td></tr><tr><td>Printed Directory</td><td>Generate consent-aware directory sections and covers.</td><td>Load records, check layout with a one-page PDF preview, then generate the required sections. Refresh and regenerate after website corrections. Keep resident downloads private.</td></tr><tr><td>Membership reconciliation</td><td>Compare SHS billing information with website records.</td><td>Open or create the appropriate comparison, check source dates and address matches, then review differences. Suggestions remain unconfirmed until reviewed; the tool does not correct website records.</td></tr><tr><td>Bulk emailer</td><td>Prepare personalized messages and paced campaigns.</td><td>Import recipients, write, and review the actual messages and recipients. Confirm sender readiness and the intended schedule before approving delivery. Preparing a draft does not establish that sending is configured.</td></tr></tbody></table>
+<table id="bkmrk-tooluse-it-forfirst-"><thead><tr><th>Tool</th><th>Use it for</th><th>First action and expected result</th></tr></thead><tbody><tr><td>Reminders</td><td>Review and activate scheduled messages tied to calendar events.</td><td>Follow [the Reminders procedure](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/shha-reminders). Save a draft, review the exact emails and dates, then activate future delivery.</td></tr><tr><td>Invite volunteers</td><td>Invite a new external Microsoft guest using personal email.</td><td>Confirm the requested address and approved memberships. Review the invitation before sending; it is a real email. This guest workflow does not create a paid SHHA mailbox. Use [the account SOP](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/sop-new-users-mailboxes-groups) for a requested mailbox.</td></tr><tr><td>Automatic emailer</td><td>Send Microsoft group membership updates and optional one-time rosters.</td><td>Check service status and Recent emails. Change membership in Microsoft 365, not here. Instant, Daily digest and Off control group notices; a first baseline sends no introduction.</td></tr><tr><td>Welcome Visits</td><td>Coordinate incoming-household welcomes and committee work.</td><td>Review the household and whether the date is recorded or estimated, then record assignment, Packet created, Delivered and notes as appropriate. These are separate actions. See [the ownership-change and manual-resident guide](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/record-a-property-ownership-change-office-guide) for the source record.</td></tr><tr><td>Addresses &amp; people</td><td>Look up website records and review address, contact and GRIT questions.</td><td>Start with Simple search. Advanced and Quick checks require their own permissions. Inspect evidence before acting; a membership flag is not proof of payment, and a missing GRIT association is not proof of opting out. Corrections belong on the website.</td></tr><tr><td>Printed Directory</td><td>Generate consent-aware directory sections and covers.</td><td>Load records, check layout with a one-page PDF preview, then generate the required sections. Refresh and regenerate after website corrections. Keep resident downloads private.</td></tr><tr><td>Membership reconciliation</td><td>Compare SHS billing information with website records.</td><td>Open or create the appropriate comparison, check source dates and address matches, then review differences. Suggestions remain unconfirmed until reviewed; the tool does not correct website records.</td></tr><tr><td>Bulk emailer</td><td>Prepare personalized messages and paced campaigns.</td><td>Import recipients, write, and review the actual messages and recipients. Confirm sender readiness and the intended schedule before approving delivery. Preparing a draft does not establish that sending is configured.</td></tr></tbody></table>
 
 ## Understand automatic group notices
 
@@ -495,7 +520,7 @@ For an email-address request, contact [office staff](mailto:office@sandiahomeown
 
 Different people need different things from this guide. Find your role below and follow the links.
 
-<table id="bkmrk-who-you-arestart-wit"><thead><tr><th>Who you are</th><th>Start here</th><th>First action and next step</th></tr></thead><tbody><tr><td>Resident or visitor</td><td>[Public utilities](/books/shha-it-help-guide/page/public-utilities-and-shha-toolbox)</td><td>Open the dashboard, map or GRIT submission form; no account is needed.</td></tr><tr><td>Volunteer using personal email</td><td>[Accept your invitation](/books/shha-it-help-guide/page/volunteer-without-shha-email)</td><td>Use the email address that received the invitation, then open your committee SharePoint site.</td></tr><tr><td>Volunteer with an SHHA account</td><td>[Use your SHHA account](/books/shha-it-help-guide/page/volunteer-with-shha-email)</td><td>Sign in with your own account for email and committee documents.</td></tr><tr><td>Officer with a shared role mailbox</td><td>[Open your role mailbox](/books/shha-it-help-guide/page/volunteer-with-shha-email)</td><td>Use your own licensed SHHA account. The six shared role addresses are not separate sign-ins.</td></tr><tr><td>Committee chair or task-force lead</td><td>[Use the committee mailing list](/books/shha-it-help-guide/page/committee-and-group-email-guide)</td><td>Your own email address and approved committee membership are enough for ordinary committee work; see [committee documents](/books/shha-it-help-guide/page/committee-sharepoint-guide).</td></tr><tr><td>Board member</td><td>[Open Board materials](/books/shha-it-help-guide/page/new-board-member-guide)</td><td>Start with Board SharePoint. If you use personal email, first follow the [invitation instructions](/books/shha-it-help-guide/page/volunteer-without-shha-email).</td></tr><tr><td>Office staff</td><td>[Staff guide](/books/shha-it-help-guide/page/staff)</td><td>For setup, use [account and group procedures](/books/shha-it-help-guide/page/sop-new-users-mailboxes-groups), then [welcome email templates](/books/shha-it-help-guide/page/office-onboarding-email-templates).</td></tr><tr><td>GRIT contributor</td><td>[Submit to the GRIT](/books/shha-it-help-guide/page/grit-content-rules-and-submission-guide)</td><td>Choose the right contribution type, prepare your files and use the submission portal.</td></tr><tr><td>GRIT editor or layout volunteer</td><td>[Production handoffs](/books/shha-it-help-guide/page/grit-internal-production-reference)</td><td>Then use the [monthly layout guide](/books/shha-it-help-guide/page/grit-layout-monthly-guide) for InDesign work.</td></tr><tr><td>Incoming IT administrator</td><td>[IT infrastructure and handover](/books/shha-it-help-guide/page/it-infrastructure-and-handover)</td><td>Arrange individual access through the office, then use [Microsoft 365 email building blocks](/books/shha-it-help-guide/page/m365-email-building-blocks) and the setup procedures.</td></tr></tbody></table>
+<table id="bkmrk-who-you-arestart-wit"><thead><tr><th>Who you are</th><th>Start here</th><th>First action and next step</th></tr></thead><tbody><tr><td>Resident updating information or preferences</td><td>[Resident account and preferences guide](/link/43)</td><td>Choose existing-account sign-in or an account request, then review contact details, GRIT and directory choices.</td></tr><tr><td>Resident or visitor</td><td>[Public utilities](/books/shha-it-help-guide/page/public-utilities-and-shha-toolbox)</td><td>Open the dashboard, map or GRIT submission form; no account is needed.</td></tr><tr><td>Volunteer using personal email</td><td>[Accept your invitation](/books/shha-it-help-guide/page/volunteer-without-shha-email)</td><td>Use the email address that received the invitation, then open your committee SharePoint site.</td></tr><tr><td>Volunteer with an SHHA account</td><td>[Use your SHHA account](/books/shha-it-help-guide/page/volunteer-with-shha-email)</td><td>Sign in with your own account for email and committee documents.</td></tr><tr><td>Officer with a shared role mailbox</td><td>[Open your role mailbox](/books/shha-it-help-guide/page/volunteer-with-shha-email)</td><td>Use your own licensed SHHA account. The six shared role addresses are not separate sign-ins.</td></tr><tr><td>Committee chair or task-force lead</td><td>[Use the committee mailing list](/books/shha-it-help-guide/page/committee-and-group-email-guide)</td><td>Your own email address and approved committee membership are enough for ordinary committee work; see [committee documents](/books/shha-it-help-guide/page/committee-sharepoint-guide).</td></tr><tr><td>Board member</td><td>[Open Board materials](/books/shha-it-help-guide/page/new-board-member-guide)</td><td>Start with Board SharePoint. If you use personal email, first follow the [invitation instructions](/books/shha-it-help-guide/page/volunteer-without-shha-email).</td></tr><tr><td>Office staff</td><td>[Staff guide](/books/shha-it-help-guide/page/staff)</td><td>For setup, use [account and group procedures](/books/shha-it-help-guide/page/sop-new-users-mailboxes-groups), then [welcome email templates](/books/shha-it-help-guide/page/office-onboarding-email-templates).</td></tr><tr><td>GRIT contributor</td><td>[Submit to the GRIT](/books/shha-it-help-guide/page/grit-content-rules-and-submission-guide)</td><td>Choose the right contribution type, prepare your files and use the submission portal.</td></tr><tr><td>GRIT editor or layout volunteer</td><td>[Production handoffs](/books/shha-it-help-guide/page/grit-internal-production-reference)</td><td>Then use the [monthly layout guide](/books/shha-it-help-guide/page/grit-layout-monthly-guide) for InDesign work.</td></tr><tr><td>Incoming IT administrator</td><td>[IT infrastructure and handover](/books/shha-it-help-guide/page/it-infrastructure-and-handover)</td><td>Arrange individual access through the office, then use [Microsoft 365 email building blocks](/books/shha-it-help-guide/page/m365-email-building-blocks) and the setup procedures.</td></tr></tbody></table>
 
 ---
 
@@ -554,10 +579,10 @@ Each committee has a SharePoint site that acts as its long-term file cabinet and
 **Do not** try to share files directly with committee groups when members are external users. Instead:
 
 1. Upload the file to SharePoint.
-2. Use **Share** or **Copy Link**.
-3. Send the link to the committee mailing list.
+2. Note the folder and file name in the committee Documents library.
+3. Email the committee site address from [Quick Links](/link/3), folder and file name to the committee mailing list.
  
-Always share the link, not a stand-alone attachment, for long-term committee docs.
+Follow the [SharePoint screenshot guide](/link/7). Do not use Share or Copy link as the handoff for external members; keep the working document in the group library.
 
 ---
 
@@ -642,13 +667,77 @@ For an email-address request, contact [office staff](mailto:office@sandiahomeown
 
 For an email-address request, contact [office staff](mailto:office@sandiahomeowners.org). For setup or access problems, contact [IT Help](mailto:ithelp@sandiahomeowners.org).
 
+# Update your resident information and preferences
+
+**For residents updating their contact information, directory choices, printed GRIT delivery and email preferences.** If your email is already associated with your address, start at [the Member Area](https://sandiahomeowners.org/account). If you are new, cannot use the existing email or are unsure about the association, use [the Account Request form](https://sandiahomeowners.org/account/request).
+
+## Which route should I use?
+
+<table id="bkmrk-your-situationusewha"><thead><tr><th>Your situation</th><th>Use</th><th>What happens</th></tr></thead><tbody><tr><td>My email is already on my address record</td><td>Member Area</td><td>Request an email sign-in link, then review and save your preferences.</td></tr><tr><td>I am new, need my email changed, need a new address association, or am unsure what is on file</td><td>Account Request form</td><td>Office staff review your request; it is not an instant record change.</td></tr><tr><td>I only want neighborhood email newsletters</td><td>[Email preferences/signup](https://sandiahomeowners.org/newsletters)</td><td>Manage newsletter choices separately from property membership and printed delivery.</td></tr></tbody></table>
+
+## 1. Sign in with a magic link
+
+1. Open [sandiahomeowners.org/account](https://sandiahomeowners.org/account) and enter the email already on your resident record.
+2. Complete the “I'm not a robot” check and select **Email me a link to sign in**.
+3. Open the message in your email inbox and follow the link. A magic link is an email sign-in link; you do not need an SHHA Microsoft account for this.
+4. If no message arrives, check Spam/Junk. If the address is wrong or no longer accessible, use the Account Request form or contact the office.
+
+[![Member Area magic-link sign-in page](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/W9jpmGd5WTvZ7upX-resident-login-2026-11.png)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/W9jpmGd5WTvZ7upX-resident-login-2026-11.png)
+
+*Use your own existing resident email. This is separate from Microsoft sign-in for committee tools.*
+
+## 2. Check My Address and My Information
+
+1. Check that **My Address** shows the correct property and unit.
+2. Review name and primary-phone directory listing separately. Turn on only the listings you want.
+3. Review **Mail Me Physical Copy of the GRIT** and any different physical mailing address.
+4. Check **My Information** for your name and phone. Follow the on-screen format and make SMS choices separately.
+5. Scroll down and choose **Save** for changes made on My Account. Check the confirmation and review the displayed choices.
+
+[![Demonstration office address showing Member status and directory and printed-GRIT switches](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/I8mHRYTljMvH4lQY-test-member-preferences-2026-11.png)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/I8mHRYTljMvH4lQY-test-member-preferences-2026-11.png)
+
+*Demonstration only: Test User at the SHHA office, 12700-3 San Rafael. These are example settings, not recommended defaults for your household.*
+
+[![Test User information and Manage Email Preferences link](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/BBNCuRIooa2lA6u7-test-member-information-2026-11.png)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/BBNCuRIooa2lA6u7-test-member-information-2026-11.png)
+
+*Test User is a demonstration account. The example email shhagrit@gmail.com is for this walkthrough; use your own email, not this address.*
+
+## 3. Manage email preferences separately
+
+Under **My Email Subscription Preferences**, select **Manage Email Preferences**. Follow the newsletter page's instructions for GRIT e-Delivery, Frequent Updates and Essential Updates Only. Printed GRIT delivery and email newsletters are separate choices.
+
+## Adding people or changing your email
+
+**Add Other Resident** is for people such as children, in-laws and dependents; the page says those people cannot manage address settings. Use the linked Homeowner Registration/Information Update form to add a homeowner, change your email or request access to another address. For tenants or an uncertain role, ask the office rather than choosing a role that grants the wrong access.
+
+[![Save and Logout buttons with the Information Update Form link](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/i6pfiZMkILipbHFu-test-member-save-2026-11.png)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/i6pfiZMkILipbHFu-test-member-save-2026-11.png)
+
+*Save changes on My Account; use Information Update Form for an email change or a new address association. This walkthrough did not save preference changes.*
+
+## Use the Account Request form
+
+1. Open [Account Request](https://sandiahomeowners.org/account/request). Search by your street number and select the correct street and unit.
+2. Choose the request type and enter accurate resident/contact details.
+3. Review directory permission, printed GRIT, separate mailing address and each email-list choice. Do not leave a choice selected unless it reflects what you want.
+4. Complete the form's verification and submit the request. Office staff manually approve requests; contact them if you need help or a correction.
+
+[![Account Request form explaining staff-reviewed new-resident, membership and update requests](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/fSNLai5XBYEMe0qd-resident-request-2026-11.png)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/fSNLai5XBYEMe0qd-resident-request-2026-11.png)
+
+*This form handles more than new accounts. It is also the fallback for corrections and preference updates when you cannot use the magic-link route.*
+
+## Want to become a member?
+
+If the address is not marked Member, a membership toggle appears in the Member Area. If an old household's membership flag is still on, a new resident may see Member status and no join prompt. **Contact the office to express your own membership intent**; the displayed flag alone does not confirm billing for you. See [membership requests and tracking](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/membership-requests-and-tracking).
+
+Need help? Contact <office@sandiahomeowners.org> for resident records and membership, or [IT Help](mailto:ithelp@sandiahomeowners.org) for technical access. Return to [the Staff guide](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/staff).
+
 # Role Guides
 
 # Staff
 
 *This page is for office staff and operations support volunteers.*
 
-When ownership is unchanged, add tenants and other residents manually. Follow [the manual resident guidance](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/record-a-new-occupancy-office-guide#bkmrk-add-tenant-resident); do not use New Occupancy for those additions.
+When ownership is unchanged, add tenants and other residents manually. Follow [Add a resident or tenant manually](/link/41); do not use New Occupancy for those additions.
 
 **Any SHHA volunteer who wants their own SHHA email address may have one.** A personal address such as `first.last@sandiahomeowners.org` is available to volunteers as well as staff. Volunteers may also keep using personal email for committee messages and approved SharePoint guest access. Ask office staff for your preferred option; see [account setup and current license costs](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/sop-new-users-mailboxes-groups).
 
@@ -656,9 +745,14 @@ For an email-address request, contact [office staff](mailto:office@sandiahomeown
 
 For the lobby display, see [Front Office Calendar (DAKboard)](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/front-office-calendar-dakboard) for sign-in, photos and SD-card recovery.
 
-## New occupancy and welcome visits
+## Website records and welcome visits
 
-For a property ownership change, follow [Record a New Occupancy — Office Guide](https://wiki.sandiahomeowners.org/link/37). It shows the website form, printed GRIT and mailing-list setup, directory consent, and the connection to Welcome Visits.
+For a property ownership change, follow [Record a property ownership change — Office guide](https://wiki.sandiahomeowners.org/link/37). It shows the website form, printed GRIT and mailing-list setup, directory consent, and the connection to Welcome Visits.
+
+- [Add a resident or tenant manually](/link/41) — add every resident without recording another ownership change.
+- [Add a CSC, ACC or IT website volunteer](/link/42) — Settings → Administrators; IT volunteers use the legacy ITC Lead role.
+- [Resident account and preferences guide](/link/43) — explain /account versus /account/request and independent consent settings.
+- [Membership requests and tracking](/link/44) — intake routes, SHS billing and the flowchart.
 
 ---
 
@@ -711,7 +805,7 @@ For a property ownership change, follow [Record a New Occupancy — Office Guide
 ## Staff Reminders
 
 - Most volunteers do not need paid licenses.
-- SharePoint links are preferred over attachments.
+- For committee files, send the committee site address, folder and file name. Follow the [SharePoint guide](/link/7) rather than Share or Copy link.
 - Committee files belong in the committee SharePoint Documents library. A copied link does not replace approved access permissions.
 
 ### Related Pages
@@ -1130,62 +1224,62 @@ A helpful agenda request includes:
 - [Volunteer with SHHA Email](/books/shha-it-help-guide/page/volunteer-with-shha-email)
 - [FAQ](/books/shha-it-help-guide/page/faq)
 
-# Record a New Occupancy — Office Guide
+# Record a property ownership change — Office guide
 
-**For SHHA office staff recording a property ownership change.** Use the website's **New Occupancy** form only when ownership changes. Add a tenant or other resident manually when ownership is unchanged. Start on the [website Addresses page](https://sandiahomeowners.org/private/sixgweb/associationaddresses/addresses) using your authorized office account.
+**For office staff recording a property ownership change.** Sign in to [website administration](https://sandiahomeowners.org/private) with your own approved account, then open **Association → Addresses → New Ownership**.
 
-**The standard setup:** mail the printed GRIT, select all three mailing lists shown on the form, and leave directory name and phone unchecked unless the resident has given permission. Residents can change their preferences when they log into their website account later.
+**Use New Ownership only when ownership changes.** Add tenants and other residents manually when ownership is unchanged. The website route still contains `newoccupancy`, but the current button and form are named New Ownership.
 
-## Add a tenant or resident without changing ownership
+## 1. Choose the property and date
 
-1. Confirm the property and the person being added. Keep the existing ownership record; do not use New Occupancy for this task.
-2. Add the tenant or other resident manually through the website's existing resident/account process. Check for an existing account and use the correct resident role. Ask [IT Help](mailto:ithelp@sandiahomeowners.org) if the account or manual process is unclear.
-3. Check the person's association with the correct address. Review the relevant membership, delivery and directory settings without assuming a change of ownership or permission to publish contact details.
-4. If the addition should appear in Welcome Visits, refresh its website data and check the date source and household. Account/link dates are estimates, not proof of a move-in date.
+1. Open New Ownership from the Addresses page. New Address is a different task.
+2. Select the correct existing address. Check the street number, street and unit.
+3. Enter the actual known **Occupancy Starts At** date. The form initially displays a date; do not assume it is the household's actual start date.
+4. Set **Is Member** from confirmed membership information. A previous household's status or a screenshot does not establish a new person's billing enrollment.
+5. Enable **Has Secondary Mailing Address** only when a separate mailing address applies, then check its details.
 
-## 1. Open New Occupancy
+[![Blank New Ownership form showing the address, start date and resident fields](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/3onnT459264TTOH5-new-ownership-2026-11.png)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/3onnT459264TTOH5-new-ownership-2026-11.png)
 
-1. In website administration, go to **Association → Addresses**.
-2. Choose **New Occupancy**, beside New Address, only for a property ownership change. For tenants or other residents added without an ownership change, use the manual process below.
+*Current blank form. The displayed date and switches are examples, not a completed household record.*
 
-[![Website Addresses page showing the New Occupancy button between New Address and Export Results](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/scaled-1680-/screenshot-2026-11-01-at-9-13-58-pm.png)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/screenshot-2026-11-01-at-9-13-58-pm.png)
+## 2. Enter the incoming residents
 
-*The New Occupancy button on the Addresses page. Click either screenshot to open the full-size image.*
+1. Enter each person's first name, last name, email and phone when available. Use **Add Resident** for additional people.
+2. Select the correct role. Existing accounts are matched by **email address**, as stated on the current form. Check uncertain matches before saving to avoid linking the wrong person.
+3. Keep **Directory List Name** and **Directory List Phone** unchecked unless the resident has given permission for the corresponding field.
 
-## 2. Enter the address, start date and residents
+### If usable resident information is not available
 
-1. Select the correct **Address**. Check the full address before proceeding.
-2. Enter the household's **Occupancy Starts At** date. Use the actual known start date; do not copy the example date or use an account-creation date as a substitute. If the date is uncertain, confirm it with the office before recording it as the occupancy start.
-3. Set **Is Member** to the household's confirmed membership status. The switch is on in the example; that does not establish the correct membership status for every household.
-4. Set **Has Mailing Address** only when a separate mailing address applies, and enter the appropriate mailing details.
-5. Under **Residents**, add each resident's name and correct role. Email and phone are optional. Use the correct email when available. Check for an existing website account before creating another; confirm an uncertain match with IT Help rather than assuming that an automatic match identifies the right person. Do not enter the test details from the screenshot.
+Use the placeholder name **Resident Resident** and an address-based placeholder email such as `123address@fake.fake`. Use a distinct placeholder for the property so email matching does not connect unrelated households. This is not a working email address.
 
-## 3. Check delivery, mailing-list and directory preferences
+**Follow up:** replace the placeholder name and email with the correct resident information when it arrives. Check the existing property/account association before creating another account. Do not treat a placeholder as a reachable contact, directory consent or evidence of membership.
 
-<table id="bkmrk-form-setting-what-th"><thead><tr><th>Form setting</th><th>What the office should select</th></tr></thead><tbody><tr><td>**Mail Printed GRIT**</td><td>**On.** Always enable printed GRIT delivery when recording the new occupancy.</td></tr><tr><td>**GRIT e-Delivery**</td><td>**Checked.**</td></tr><tr><td>**Frequent Updates**</td><td>**Checked.**</td></tr><tr><td>**Essential Updates Only**</td><td>**Checked.** Select all three mailing lists shown here.</td></tr><tr><td>**Directory List Name**, for each resident</td><td>**Unchecked unless that resident has given permission to list their name.**</td></tr><tr><td>**Directory List Phone**, for each resident</td><td>**Unchecked unless that resident has given permission to list their phone.**</td></tr></tbody></table>
+## 3. Review delivery and directory choices
 
-Permission to list a name does not automatically include permission to list a phone number. Receiving the GRIT or subscribing to email does not give directory permission. “All mailing lists” here means the three options on this form; it does not mean adding the resident to committee or Microsoft 365 groups.
+1. For the standard new-ownership setup, enable printed GRIT and select all three lists shown: GRIT e-Delivery, Frequent Updates and Essential Updates Only.
+2. Check name and phone listing consent separately for each person. Email subscription and printed delivery do not imply directory permission.
+3. Check any secondary mailing address and the household's confirmed membership status.
 
-[![New Occupancy example with Mail Printed GRIT on, all three mailing lists checked, and Directory List Name and Directory List Phone unchecked](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/scaled-1680-/screenshot-2026-11-01-at-9-13-46-pm.png)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/screenshot-2026-11-01-at-9-13-46-pm.png)
+[![New Ownership resident roles, directory consent, mailing lists and Create Ownership button](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/3onnT459264TTOH5-new-ownership-2026-11.png-lower)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/3onnT459264TTOH5-new-ownership-2026-11.png-lower)
 
-*Example form supplied November 1, 2026. The address, date and Test resident are illustrative; enter the actual household's details and confirmed membership status. The delivery and directory settings illustrate the standard setup described above.*
+*Blank form showing all three mailing lists selected and directory name/phone unchecked. No ownership record was submitted for this capture.*
 
-## 4. Review and save
+## 4. Create and check the ownership record
 
-- Correct address, occupancy start date and incoming residents.
-- Membership and any separate mailing address checked against the actual household.
-- Printed GRIT on and all three mailing lists checked.
-- Directory name and phone left unchecked for each resident unless permission has been given for the corresponding field.
+1. Review the address, unit, actual date, people, roles, email matches and preferences.
+2. When completing a real approved ownership change, choose **Create Ownership** and confirm the website accepted it.
+3. Check the resulting property and resident associations. Record follow-up for any Resident Resident placeholder.
+4. Tell residents they can use [the Member Area and request form](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/update-your-resident-information-and-preferences) to review their information.
 
-Save the form and confirm the website accepted the record. Let the residents know they can log into their website account later to review and change their preferences.
+## Tenants and residents without an ownership change
 
-## 5. Check Welcome Visits
+Do not use New Ownership. Follow [Add a resident or tenant manually](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/add-a-resident-or-tenant-manually). Add every tenant individually and associate each with the right property and role.
 
-The recorded occupancy start feeds the [Welcome Visits page in SHHA Toolbox](https://toolbox.sandiahomeowners.org/welcome-visits). After saving, authorized staff or welcome volunteers can open that tool and refresh its website data to review the incoming household. Website administration access and Toolbox access are separate.
+## Check Welcome Visits
 
-**How Welcome Visits uses dates:** the website's recorded occupancy start is its primary date source. This does not mean the New Occupancy form should be used for tenants or other resident additions; use it only for ownership changes. If residents are assigned to an address without a recorded occupancy for that household, the tool makes a best estimate from when residents were linked to the address, falling back to account-creation dates when a link date is missing. Those timestamps are review clues, not confirmed move-in dates. Check the household and date before arranging a visit.
+The recorded occupancy start feeds [Welcome Visits](https://toolbox.sandiahomeowners.org/welcome-visits). Authorized staff or volunteers can refresh its website data and review the incoming household. When a household has no recorded occupancy, link/account dates may supply an estimate; those dates do not prove a move-in date. Do not use New Ownership for a tenant simply to produce a date.
 
-Need help with the form or an unexpected welcome entry? Contact [IT Help](mailto:ithelp@sandiahomeowners.org). For other office procedures, return to the [Staff guide](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/staff).
+Need help? Contact <office@sandiahomeowners.org> for resident records and membership, or [IT Help](mailto:ithelp@sandiahomeowners.org) for technical access. Return to [the Staff guide](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/staff).
 
 # Tram pass kiosk: reservations, printing, and refunds
 
@@ -1233,6 +1327,45 @@ Only an authorized website administrator should reconnect the website to Square:
 4. If Square asks you to log in, sign in and select the blue **Allow** button to authorize the requested permissions.
 
 After reconnecting, return to the kiosk and try again.
+
+# Add a resident or tenant manually
+
+**For authorized office staff adding a resident or tenant without changing property ownership.** Start at [website administration](https://sandiahomeowners.org/private) → **Users → Users**. Search for the person's email first so you do not create a duplicate.
+
+Resident accounts are different from backend Administrators and from Microsoft 365 accounts. Use New Ownership only for a change of property ownership.
+
+## 1. Create the resident account
+
+1. If the person has an existing account, open it and check the details instead of creating another.
+2. For a new person, choose **+ New User**. Enter first name, last name, email and phone when available.
+3. Review **Send invitation by email**: the screen says it sends a welcome with login/password information. Use it only for the intended reachable address; a fake.fake placeholder cannot receive email.
+4. Complete the password fields through the approved office setup process. Select only the appropriate account groups; do not assume a Member group establishes billing.
+5. Choose **Create** and confirm the saved account opens. Do not stop at a filled form.
+
+[![Blank New User account form with email, invitation and password fields](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/yqViqV97UwtgXl1F-new-user-account-2026-11.png)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/yqViqV97UwtgXl1F-new-user-account-2026-11.png)
+
+*Resident-account form. No real resident data is shown.*
+
+## 2. Associate the saved account with the property
+
+1. Open the saved user's **Address** tab and select **Add Addresses**.
+2. Search for the property. Check the street and unit as well as the number; several streets can have the same number.
+3. Select the correct address. In **Related Addresses Data**, choose the person's actual **User Role**: Owner, Tenant or Other. Use Tenant for tenants.
+4. Leave **List Name in Directory** and **List Phone in Directory** off unless the person has consented separately to each.
+5. Choose **Add**. Confirm the address appears in the saved user's list with the correct unit and role. Reload or reopen the saved account to verify the association.
+
+[![Address tab with Add Addresses and an empty association table](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/zfeUMxWhqfpjDdmk-new-user-address-2026-11.png)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/zfeUMxWhqfpjDdmk-new-user-address-2026-11.png)
+
+*Use Add Addresses on the saved account, then verify the populated list. An account group and its address role are separate settings.*
+
+## 3. Add all tenants and check the result
+
+1. Repeat the account check and address association for **each** tenant or other resident.
+2. Preserve existing owners when ownership has not changed. Do not remove people merely because a tenant is added.
+3. Review the household in Welcome Visits if a welcome is needed; date estimates do not establish a move-in date.
+4. Give the resident [the preferences guide](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/update-your-resident-information-and-preferences) and ask them to verify their address and choices.
+
+Need help? Contact <office@sandiahomeowners.org> for resident records and membership, or [IT Help](mailto:ithelp@sandiahomeowners.org) for technical access. Return to [the Staff guide](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/staff).
 
 # Frequently Asked Questions
 
@@ -1299,7 +1432,7 @@ See [SharePoint Folder Organization](/books/shha-it-help-guide/page/sharepoint-f
 
 ---
 
-<a id="bkmrk--9"></a>## Why should I send links instead of attachments?
+<a id="bkmrk--9"></a>## How should I tell the committee where a document is?
 
 **First put the file in the correct SharePoint document library.** A link points people to the file; it does not replace group permissions or make a personal OneDrive file available to external members.
 
@@ -1308,7 +1441,7 @@ See [SharePoint Folder Organization](/books/shha-it-help-guide/page/sharepoint-f
 - **Centralized records.** The file stays in SharePoint, where future volunteers can find it.
 - **No file-size limits.** Email attachments can bounce if too large. SharePoint links have no such problem.
  
-<div id="bkmrk-rule-of-thumb%3A-if-a-">**Rule of thumb:** If a document is SHHA committee business, it goes in SharePoint, and you email the link. Only use attachments for quick, one-off items that do not need to be retained.</div><div id="bkmrk-microsoft-help%3A-exte">**Microsoft help:** [External or guest sharing in SharePoint](https://support.microsoft.com/en-us/office/external-or-guest-sharing-in-onedrive-sharepoint-and-lists-7aa070b8-d094-4921-9dd9-86392f2a79e7)</div>---
+<div id="bkmrk-rule-of-thumb%3A-if-a-">**Rule of thumb:** If a document is SHHA committee business, put it in the committee Documents library and email the committee site address, folder and file name. Do not use Share or Copy link as the external-member handoff; follow the [screenshot guide](/link/7). Only use attachments for quick, one-off items that do not need to be retained.</div><div id="bkmrk-microsoft-help%3A-exte">**Microsoft help:** [External or guest sharing in SharePoint](https://support.microsoft.com/en-us/office/external-or-guest-sharing-in-onedrive-sharepoint-and-lists-7aa070b8-d094-4921-9dd9-86392f2a79e7)</div>---
 
 <a id="bkmrk--11"></a>## I have a role mailbox (e.g., president@, treasurer@). Should I reply from my personal inbox?
 
@@ -1369,7 +1502,7 @@ If the shared mailbox does not appear automatically, try adding it manually:
 1. Open the Board SharePoint link in your web browser.
 2. Navigate to the appropriate folder (e.g., "Meeting Materials", "Agendas").
 3. Click **Upload → Files** and select the document.
-4. Once uploaded, copy the sharing link and email it to the Board mailing list if you need to notify members.
+4. Once uploaded, email the Board mailing list with the Board site address from [Quick Links](/link/3), folder and file name. Do not use Share or Copy link for the external-member handoff.
  
 Only deviate from this if office staff specifically requests materials a different way.
 
@@ -1475,7 +1608,7 @@ Each committee and the Board has a **mailing list address**. Sending to it deliv
 3. In the **To** field, type the group address (e.g., `csc@sandiahomeowners.org`).
 4. Write your message and click **Send**.
  
-<div id="bkmrk-tips%3A-you-do-not-nee">**Tips:** You do not need to know individual email addresses — the group address handles distribution. If sharing a document, paste a SharePoint link rather than attaching a file.</div>---
+<div id="bkmrk-tips%3A-you-do-not-nee">**Tips:** You do not need to know individual email addresses — the group address handles distribution. For a committee document, give the committee site address, folder and file name; see the [SharePoint guide](/link/7).</div>---
 
 <a id="bkmrk--32"></a>## How does the email transition work when someone enters or leaves a role? Who handles it?
 
@@ -2856,6 +2989,36 @@ See [Public Utilities and SHHA Toolbox](https://wiki.sandiahomeowners.org/books/
 
 Still stuck? Contact [IT Help](mailto:ithelp@sandiahomeowners.org). Return to the [Staff guide](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/staff) for other office procedures.
 
+# Add a CSC ACC or IT website volunteer
+
+**For authorized website administrators setting up a CSC, ACC or IT volunteer.** Start at [website administration](https://sandiahomeowners.org/private) → **Settings → Administrators → New Administrator**.
+
+This is a backend login. A resident account under Users, a committee mailing-list membership, an SHHA mailbox and Toolbox access are separate tasks.
+
+## Create the approved backend account
+
+1. Search Administrators for the person's existing username/email before creating another login.
+2. Choose **New Administrator**. Enter the person's username, email and name, then complete the password and invitation choices through the approved office process.
+3. Choose the approved role below. Ordinary CSC/ACC volunteers use the member role; chair roles are for chair responsibilities.
+
+<table id="bkmrk-volunteerrolecsc-vol"><thead><tr><th>Volunteer</th><th>Role</th></tr></thead><tbody><tr><td>CSC volunteer</td><td>CSC Member</td></tr><tr><td>ACC volunteer</td><td>ACC Member</td></tr><tr><td>IT volunteer</td><td>ITC Lead</td></tr></tbody></table>
+
+**ITC Lead** is the legacy label from the former IT committee. SHHA uses that role for the approved IT volunteer setup; do not rename roles as part of onboarding.
+
+[![Blank New Administrator form with username, email, invitation and role controls](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/x1Rcz4FVkaYbobOQ-new-administrator-2026-11.png)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/x1Rcz4FVkaYbobOQ-new-administrator-2026-11.png)
+
+*Backend administrator form, separate from the resident New User form.*
+
+[![Available backend roles including ITC Lead, CSC Member and ACC Member](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/7KnK2YRCKU5FIyd6-administrator-roles-2026-11.png)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/7KnK2YRCKU5FIyd6-administrator-roles-2026-11.png)
+
+*Choose the role appropriate to the approved work; no role was selected during capture.*
+
+4. Review Groups and Permissions with the existing administrator if the request needs more than the approved role. Do not copy unrelated individual overrides or broaden access to solve a login problem.
+5. When performing approved onboarding, create the account, confirm the saved record and have the volunteer test the intended task.
+6. Arrange any separate committee email, SharePoint or Microsoft access through [the account/group SOP](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/sop-new-users-mailboxes-groups). A backend account does not supply those services.
+
+Need help? Contact <office@sandiahomeowners.org> for resident records and membership, or [IT Help](mailto:ithelp@sandiahomeowners.org) for technical access. Return to [the Staff guide](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/staff).
+
 # Operations & Administration
 
 Systems inventory, security controls, HR and personnel management.
@@ -2910,3 +3073,36 @@ The public wiki export is a readable content copy. Restoring BookStack also requ
 - [Committee SharePoint Guide](/books/shha-it-help-guide/page/committee-sharepoint-guide)
 - [Staff and IT access responsibilities](/books/shha-it-help-guide/page/m365-email-groups-role-inboxes-responsibilities)
 - [IT Infrastructure and Handover](/books/shha-it-help-guide/page/it-infrastructure-and-handover)
+
+# Membership requests and tracking
+
+**For residents asking to join and office staff following up membership requests.** Start by recording the person's membership intent and correct property/unit. Website account access, a membership request, the website's Is Member flag and SHS billing are distinct.
+
+## How membership requests reach the office
+
+- A resident submits the [Account Request form](https://sandiahomeowners.org/account/request).
+- A resident signs in with a magic link and uses the membership toggle when their address is not marked Member.
+- A resident contacts the office by phone, email or an in-person visit.
+
+**Important exception:** a new person may move to an address while its old membership is still marked active. The new person will not get the usual join prompt. Ask them to contact the office explicitly about joining; do not treat the old flag as their consent or billing enrollment.
+
+[![Membership intent arrives through a website request, Member Area or office contact; office emails SHS; SHS initiates billing; website status and billing are checked separately](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/4cI2lb6a2UKdUMI6-membership-flow-2026-11.png)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/4cI2lb6a2UKdUMI6-membership-flow-2026-11.png)
+
+*Current request-to-billing route. An existing Member flag can hide a new resident’s join prompt.*
+
+## Office follow-up
+
+1. Review the incoming membership intent, person's identity and exact property/unit. Resolve unclear address associations or a previous household's status.
+2. The office emails the membership request to **Sandia Heights Services (SHS)**.
+3. SHS initiates billing. Follow up through the office when enrollment or billing is uncertain.
+4. Check the website's recorded status and SHS billing evidence separately. Do not use a website account request, account creation date or Member flag alone as proof that a new billing enrollment is complete.
+
+## Finding information about a new member
+
+Use the office's approved private request/enrollment records to confirm the person's details and progress with SHS. The website's Users/User Queue and property records support account/address review; a website account request should not be assumed to be the complete membership-enrollment record. Use Toolbox comparisons as review leads, not automatic corrections or proof of payment.
+
+Resident names, request details, billing evidence and follow-up notes belong in approved private systems, not in this public wiki.
+
+For instructions residents can follow, use [Update your resident information and preferences](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/update-your-resident-information-and-preferences).
+
+Need help? Contact <office@sandiahomeowners.org> for resident records and membership, or [IT Help](mailto:ithelp@sandiahomeowners.org) for technical access. Return to [the Staff guide](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/staff).

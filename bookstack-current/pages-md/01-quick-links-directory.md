@@ -57,3 +57,10 @@ Office staff can use [Office Onboarding Email Templates](https://wiki.sandiahome
 Need to explain how to use a temporary task-group address? Share this page: [Committee and Group Email Guide](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/committee-and-group-email-guide).
 
 **Need to understand where committee files belong?** See [SharePoint Folder Organization](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/sharepoint-folder-organization).
+
+## Resident accounts and membership
+
+- [Update your information and preferences](/link/43) — when to use Member Area sign-in or the Account Request form; GRIT, email and directory choices.
+- [Membership requests and tracking](/link/44) — how the office receives requests and passes them to SHS for billing.
+
+Office staff: use the [Staff task guide](/link/13) for ownership, manual residents and website volunteers.

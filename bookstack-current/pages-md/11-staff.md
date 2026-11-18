@@ -2,7 +2,7 @@
 
 *This page is for office staff and operations support volunteers.*
 
-When ownership is unchanged, add tenants and other residents manually. Follow [the manual resident guidance](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/record-a-new-occupancy-office-guide#bkmrk-add-tenant-resident); do not use New Occupancy for those additions.
+When ownership is unchanged, add tenants and other residents manually. Follow [Add a resident or tenant manually](/link/41); do not use New Occupancy for those additions.
 
 **Any SHHA volunteer who wants their own SHHA email address may have one.** A personal address such as `first.last@sandiahomeowners.org` is available to volunteers as well as staff. Volunteers may also keep using personal email for committee messages and approved SharePoint guest access. Ask office staff for your preferred option; see [account setup and current license costs](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/sop-new-users-mailboxes-groups).
 
@@ -10,9 +10,14 @@ For an email-address request, contact [office staff](mailto:office@sandiahomeown
 
 For the lobby display, see [Front Office Calendar (DAKboard)](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/front-office-calendar-dakboard) for sign-in, photos and SD-card recovery.
 
-## New occupancy and welcome visits
+## Website records and welcome visits
 
-For a property ownership change, follow [Record a New Occupancy — Office Guide](https://wiki.sandiahomeowners.org/link/37). It shows the website form, printed GRIT and mailing-list setup, directory consent, and the connection to Welcome Visits.
+For a property ownership change, follow [Record a property ownership change — Office guide](https://wiki.sandiahomeowners.org/link/37). It shows the website form, printed GRIT and mailing-list setup, directory consent, and the connection to Welcome Visits.
+
+- [Add a resident or tenant manually](/link/41) — add every resident without recording another ownership change.
+- [Add a CSC, ACC or IT website volunteer](/link/42) — Settings → Administrators; IT volunteers use the legacy ITC Lead role.
+- [Resident account and preferences guide](/link/43) — explain /account versus /account/request and independent consent settings.
+- [Membership requests and tracking](/link/44) — intake routes, SHS billing and the flowchart.
 
 ---
 
@@ -65,7 +70,7 @@ For a property ownership change, follow [Record a New Occupancy — Office Guide
 ## Staff Reminders
 
 - Most volunteers do not need paid licenses.
-- SharePoint links are preferred over attachments.
+- For committee files, send the committee site address, folder and file name. Follow the [SharePoint guide](/link/7) rather than Share or Copy link.
 - Committee files belong in the committee SharePoint Documents library. A copied link does not replace approved access permissions.
 
 ### Related Pages
