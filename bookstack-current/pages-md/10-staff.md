@@ -2,11 +2,17 @@
 
 *This page is for office staff and operations support volunteers.*
 
+When ownership is unchanged, add tenants and other residents manually. Follow [the manual resident guidance](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/record-a-new-occupancy-office-guide#bkmrk-add-tenant-resident); do not use New Occupancy for those additions.
+
+**Any SHHA volunteer who wants their own SHHA email address may have one.** A personal address such as `first.last@sandiahomeowners.org` is available to volunteers as well as staff. Volunteers may also keep using personal email for committee messages and approved SharePoint guest access. Ask office staff for your preferred option; see [account setup and current license costs](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/sop-new-users-mailboxes-groups).
+
+For an email-address request, contact [office staff](mailto:office@sandiahomeowners.org). For setup or access problems, contact [IT Help](mailto:ithelp@sandiahomeowners.org).
+
 For the lobby display, see [Front Office Calendar (DAKboard)](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/front-office-calendar-dakboard) for sign-in, photos and SD-card recovery.
 
 ## New occupancy and welcome visits
 
-For an incoming household, follow [Record a New Occupancy — Office Guide](https://wiki.sandiahomeowners.org/link/37). It shows the website form, printed GRIT and mailing-list setup, directory consent, and the connection to Welcome Visits.
+For a property ownership change, follow [Record a New Occupancy — Office Guide](https://wiki.sandiahomeowners.org/link/37). It shows the website form, printed GRIT and mailing-list setup, directory consent, and the connection to Welcome Visits.
 
 ---
 
@@ -14,7 +20,7 @@ For an incoming household, follow [Record a New Occupancy — Office Guide](http
 
 ## Primary Responsibilities
 
-- Invite new volunteers as external Microsoft users.
+- Ask new volunteers whether they want an SHHA mailbox or prefer personal-email guest access, then follow the matching account procedure.
 - Ensure invitation is accepted before troubleshooting deeper issues.
 - Maintain committee mailing list membership.
 - Coordinate shared role mailbox access changes during transitions.
@@ -37,12 +43,12 @@ For an incoming household, follow [Record a New Occupancy — Office Guide](http
 
 ## Add a New Volunteer
 
-1. Send Microsoft external-user invitation.
-2. Confirm volunteer accepted invitation.
+1. Confirm the volunteer’s email choice. Arrange a requested SHHA mailbox through the account SOP, or send a Microsoft guest invitation to the personal email address.
+2. For a guest, confirm invitation acceptance. For an SHHA account, confirm first sign-in and mailbox setup.
 3. Add volunteer to committee mailing list.
 4. Provide direct committee SharePoint link.
 
-<div id="bkmrk-see-also%3A-sop%3A-add-a">**See also:** [SOP: Add a person to a committee mailing list](https://wiki.sandiahomeowners.org/shha-microsoft-365-email-groups-roles.html#sop-add)</div>---
+<div id="bkmrk-see-also%3A-sop%3A-add-a">**See also:** [SOP: Add a person to a committee mailing list](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/m365-email-groups-role-inboxes-responsibilities)</div>---
 
 <a id="bkmrk--11"></a>
 
@@ -50,9 +56,9 @@ For an incoming household, follow [Record a New Occupancy — Office Guide](http
 
 1. Remove prior role holder's access.
 2. Grant new role holder access.
-3. Confirm mailbox appears in new holder's Outlook.
+3. Grant both Full Access and Send As to the new holder’s own licensed SHHA account. Have them manually add the role mailbox if needed, then test opening, reading and sending from the role address.
 
-<div id="bkmrk-see-also%3A-sop%3A-leade">**See also:** [SOP: Leadership transition for role inbox](https://wiki.sandiahomeowners.org/shha-microsoft-365-email-groups-roles.html#sop-transition)</div>---
+<div id="bkmrk-see-also%3A-sop%3A-leade">**See also:** [SOP: Leadership transition for role inbox](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/m365-email-groups-role-inboxes-responsibilities)</div>---
 
 <a id="bkmrk--14"></a>
 
@@ -60,12 +66,12 @@ For an incoming household, follow [Record a New Occupancy — Office Guide](http
 
 - Most volunteers do not need paid licenses.
 - SharePoint links are preferred over attachments.
-- External users often cannot use direct group-sharing in file dialogs.
+- Committee files belong in the committee SharePoint Documents library. A copied link does not replace approved access permissions.
 
 ### Related Pages
 
-- [Overview](https://wiki.sandiahomeowners.org/overview.html)
-- [FAQ](https://wiki.sandiahomeowners.org/faq.html)
-- [Quick Reference](https://wiki.sandiahomeowners.org/quick-reference.html)
-- [M365 Email Groups &amp; Roles](https://wiki.sandiahomeowners.org/shha-microsoft-365-email-groups-roles.html)
-- [Specialty Topics](https://wiki.sandiahomeowners.org/specialty-topics.html)
+- [Overview](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/overview)
+- [FAQ](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/faq)
+- [Quick Reference](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/quick-reference)
+- [M365 Email Groups &amp; Roles](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/m365-email-groups-role-inboxes-responsibilities)
+- [Specialty Topics](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/systems-inventory)

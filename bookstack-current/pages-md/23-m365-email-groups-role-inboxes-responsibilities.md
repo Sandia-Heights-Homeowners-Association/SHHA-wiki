@@ -2,6 +2,10 @@
 
 *Operational reference for office staff, IT admin, and future volunteers — mailing lists, shared mailboxes, licensing, SOPs, and governance.*
 
+**Any SHHA volunteer who wants their own SHHA email address may have one.** A personal address such as `first.last@sandiahomeowners.org` is available to volunteers as well as staff. Volunteers may also keep using personal email for committee messages and approved SharePoint guest access. Ask office staff for your preferred option; see [account setup and current license costs](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/sop-new-users-mailboxes-groups).
+
+For an email-address request, contact [office staff](mailto:office@sandiahomeowners.org). For setup or access problems, contact [IT Help](mailto:ithelp@sandiahomeowners.org).
+
 ---
 
 <a id="bkmrk--1"></a>## Quick Overview
@@ -16,7 +20,7 @@ SHHA uses two different patterns for email collaboration:
 
 - **Role continuity over individual ownership** — email addresses stay constant when people rotate in/out.
 - **Least cost for volunteers** — external volunteers do not require paid M365 licenses.
-- **Operational traceability** — group membership changes trigger Power Automate notifications.
+- **Membership awareness** — Toolbox’s Automatic emailer reports detected changes according to timing and delivery settings; verify membership in Microsoft 365.
 - **Institutional archive** — `admin@` is included in all groups as a permanent archive recipient.
  
 ---
@@ -61,9 +65,9 @@ Each incoming officer receives both **Full Access** and **Send As** permission t
  
 ---
 
-<a id="bkmrk--11"></a>## Power Automate Membership Notifications
+<a id="bkmrk--11"></a>## Toolbox Automatic emailer notifications
 
-A Power Automate flow sends email notifications whenever group membership changes.
+SHHA Toolbox’s Automatic emailer observes Microsoft 365 groups automatically. A first successful read establishes a baseline without an introductory email. Mailing-list timing can be Instant, Daily digest or Off. Confirm membership in Microsoft 365; a missing notification does not prove a membership edit failed. Review Recent emails and service status for delivery questions.
 
 - Provides audit visibility.
 - Alerts staff to unexpected changes.
@@ -73,23 +77,23 @@ A Power Automate flow sends email notifications whenever group membership change
 
 <a id="bkmrk--13"></a>## Licensing and External Volunteers
 
- <table id="bkmrk-user-typelicense-nee"> <thead><tr><th>User type</th><th>License needed?</th><th>Capabilities</th></tr></thead> <tbody> <tr><td>External volunteers</td><td>**No**</td><td>Group email delivery, SharePoint guest access</td></tr> <tr><td>Licensed staff / admin</td><td>Yes (paid M365)</td><td>Group administration, shared mailbox access, full portal</td></tr> </tbody> </table>
+ <table id="bkmrk-user-typelicense-nee"> <thead><tr><th>User type</th><th>License needed?</th><th>Capabilities</th></tr></thead> <tbody> <tr><td>External volunteers</td><td>**No**</td><td>Group email delivery, SharePoint guest access</td></tr> <tr><td>Licensed volunteer, officer or staff member</td><td>Yes (paid M365)</td><td>Own SHHA mailbox; approved shared-mailbox access where applicable. Administrator rights require separate authorization.</td></tr> </tbody> </table>
 
 ---
 
 <a id="bkmrk--15"></a>## Responsibilities Matrix
 
- <table id="bkmrk-responsibilityprimar"> <thead><tr><th>Responsibility</th><th>Primary</th><th>Backup</th><th>Notes</th></tr></thead> <tbody> <tr><td>Maintain committee group membership</td><td>Anna (staff)</td><td>IT admin</td><td>Add/remove members, verify accuracy</td></tr> <tr><td>Manage shared mailbox permissions</td><td>Anna + IT admin</td><td>IT admin</td><td>Remove predecessor, add successor</td></tr> <tr><td>Ensure `admin@` in all groups</td><td>IT admin</td><td>Anna</td><td>Required for archive continuity</td></tr> <tr><td>Monitor membership-change notifications</td><td>Anna</td><td>IT admin</td><td>Power Automate emails = operational signal</td></tr> <tr><td>Troubleshoot delivery/access issues</td><td>IT admin</td><td>Anna</td><td>Includes mailbox permissions and group settings</td></tr> </tbody> </table>
+ <table id="bkmrk-responsibilityprimar"> <thead><tr><th>Responsibility</th><th>Primary</th><th>Backup</th><th>Notes</th></tr></thead> <tbody> <tr><td>Maintain committee group membership</td><td>Anna (staff)</td><td>IT admin</td><td>Add/remove members, verify accuracy</td></tr> <tr><td>Manage shared mailbox permissions</td><td>Anna + IT admin</td><td>IT admin</td><td>Remove predecessor, add successor</td></tr> <tr><td>Ensure `admin@` in all groups</td><td>IT admin</td><td>Anna</td><td>Required for archive continuity</td></tr> <tr><td>Monitor membership-change notifications</td><td>Anna</td><td>IT admin</td><td>Review Automatic emailer status and Recent emails</td></tr> <tr><td>Troubleshoot delivery/access issues</td><td>IT admin</td><td>Anna</td><td>Includes mailbox permissions and group settings</td></tr> </tbody> </table>
 
 ---
 
 <a id="bkmrk--17"></a>## SOP: Add a Person to a Committee Mailing List
 
 1. Confirm committee and target group address.
-2. Verify whether person is internal staff or external volunteer.
+2. Ask whether the person wants their own SHHA mailbox or will use personal email as an invited guest.
 3. Add to the correct Microsoft Group membership.
 4. Confirm `admin@` remains a member.
-5. Verify Power Automate sends membership-change notification.
+5. Confirm membership directly in Microsoft 365. Review Automatic emailer timing and Recent emails; Off or Daily timing can explain why an immediate notice did not arrive.
 6. Ask the group owner or new member to test delivery, or send a test message yourself.
  
 ---
@@ -98,7 +102,7 @@ A Power Automate flow sends email notifications whenever group membership change
 
 1. Confirm removal request and effective date.
 2. Remove member from the Microsoft Group.
-3. Verify Power Automate notification is received.
+3. Confirm the removal directly in Microsoft 365; review Automatic emailer timing and Recent emails when checking delivery.
 4. If person held one of the six officer roles, check related shared mailbox permissions.
  
 ---

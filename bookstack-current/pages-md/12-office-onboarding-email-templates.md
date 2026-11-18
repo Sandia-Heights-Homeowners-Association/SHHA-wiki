@@ -2,6 +2,8 @@
 
 **Purpose:** Copy-and-send welcome emails from SHHA Office or IT Help **to the newly onboarded employee, volunteer, or committee members**.
 
+The licensed-user template applies to volunteers as well as staff. Any SHHA volunteer may request an SHHA email address; see [account setup and license costs](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/sop-new-users-mailboxes-groups) before arranging the account.
+
 Choose the matching scenario, replace every item in square brackets, delete lines that do not apply, and send the completed message to the new users. These are not internal setup notifications; they tell the recipients that setup is complete and explain what they should do next.
 
 ## Placeholder Key
@@ -16,9 +18,9 @@ Choose the matching scenario, replace every item in square brackets, delete line
 - For external users, never include OneDrive instructions. External committee members use SharePoint in a browser.
 - Keep the direct SharePoint link in the message. Do not make recipients hunt for it.
 
-## Template 1: New Internal Staff User
+## Template 1: New licensed SHHA account
 
-**Use for:** a staff member receiving a licensed `@sandiahomeowners.org` account.
+**Use for:** a volunteer or staff member receiving a licensed `@sandiahomeowners.org` account.
 
 **Suggested wiki link:** [Volunteer with SHHA Email](/books/shha-it-help-guide/page/volunteer-with-shha-email) or [Quick Reference](/books/shha-it-help-guide/page/quick-reference).
 

@@ -2,18 +2,24 @@
 
 SHHA uses four distinct patterns for email addresses in Microsoft 365. Before requesting any new address, understand which pattern fits your need. This page is the reference for anyone planning new committees, roles, or special-purpose addresses.
 
+Shared-mailbox licensing details: [Microsoft shared mailbox guidance](https://learn.microsoft.com/en-us/microsoft-365/admin/email/about-shared-mailboxes?view=o365-worldwide).
+
+**Any SHHA volunteer who wants their own SHHA email address may have one.** A personal address such as `first.last@sandiahomeowners.org` is available to volunteers as well as staff. Volunteers may also keep using personal email for committee messages and approved SharePoint guest access. Ask office staff for your preferred option; see [account setup and current license costs](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/sop-new-users-mailboxes-groups).
+
+For an email-address request, contact [office staff](mailto:office@sandiahomeowners.org). For setup or access problems, contact [IT Help](mailto:ithelp@sandiahomeowners.org).
+
 ## The Four Patterns at a Glance
 
-<table id="bkmrk-patternwhat-it-isexa"><thead><tr><th>Pattern</th><th>What it is</th><th>Example</th><th>When to use it</th></tr></thead><tbody><tr><td>**Personal mailbox**; `first.last@sandiahomeowners.org`</td><td>A licensed M365 account owned by one person. Has its own login, calendar, OneDrive, etc.</td><td>`anna.smith@sandiahomeowners.org`</td><td>Office staff and IT admins who need to *log in* to Microsoft 365 and perform admin tasks. **Costs a license.**</td></tr><tr><td>**Shared mailbox**; `role@sandiahomeowners.org`</td><td>A mailbox tied to a *position*, not a person. Multiple licensed users can open it from their own account. Retains full email history across holders.</td><td>`president@sandiahomeowners.org`; `cscchair@sandiahomeowners.org`</td><td>Only one of SHHA's six officer roles: President, Vice President, Secretary, Treasurer, ACC Chair, or CSC Chair. Each officer receives Full Access and Send As through the officer's own licensed account.</td></tr><tr><td>**Mailing list (Microsoft Group)**; `committee@sandiahomeowners.org`</td><td>A distribution group. Email sent to the address is delivered to every current member — including external guests who have no M365 license.</td><td>`csc@sandiahomeowners.org`; `shha-all@sandiahomeowners.org`</td><td>Any group of people who need to receive the same email. Most committees have one. **No license cost** for external members.</td></tr><tr><td>**Alias**; *(additional address on an existing mailbox or group)*</td><td>An extra email address that delivers to an existing mailbox or group. Not a separate mailbox — just an alternative address for the same destination.</td><td>`wildfire@sandiahomeowners.org` → delivers to the ESC group or a specific shared mailbox</td><td>One-off or special-purpose addresses (task forces, events, topical inboxes) where you do **not** need a separate mailbox with its own history. Use when you want a memorable address that maps to something that already exists.</td></tr></tbody></table>
+<table id="bkmrk-patternwhat-it-isexa"><thead><tr><th>Pattern</th><th>What it is</th><th>Example</th><th>When to use it</th></tr></thead><tbody><tr><td>**Personal mailbox**; `first.last@sandiahomeowners.org`</td><td>A licensed M365 account owned by one person. Has its own login, calendar, OneDrive, etc.</td><td>`anna.smith@sandiahomeowners.org`</td><td>Any volunteer who requests an SHHA email address, plus staff needing an account. Requires a paid license; an email account does not grant administrator rights.</td></tr><tr><td>**Shared mailbox**; `role@sandiahomeowners.org`</td><td>A mailbox tied to a *position*, not a person. Multiple licensed users can open it from their own account. Retains full email history across holders.</td><td>`president@sandiahomeowners.org`; `cscchair@sandiahomeowners.org`</td><td>Only one of SHHA's six officer roles: President, Vice President, Secretary, Treasurer, ACC Chair, or CSC Chair. Each officer receives Full Access and Send As through the officer's own licensed account.</td></tr><tr><td>**Mailing list (Microsoft Group)**; `committee@sandiahomeowners.org`</td><td>A Microsoft 365 group with a committee email address and connected collaboration resources. Configured inbox delivery sends copies to members, including invited guests. It is different from an Exchange distribution list.</td><td>`csc@sandiahomeowners.org`; `shha-all@sandiahomeowners.org`</td><td>Any group of people who need to receive the same email. Most committees have one. **No license cost** for external members.</td></tr><tr><td>**Alias**; *(additional address on an existing mailbox or group)*</td><td>An extra email address that delivers to an existing mailbox or group. Not a separate mailbox — just an alternative address for the same destination.</td><td>`wildfire@sandiahomeowners.org` → delivers to the ESC group or a specific shared mailbox</td><td>One-off or special-purpose addresses (task forces, events, topical inboxes) where you do **not** need a separate mailbox with its own history. Use when you want a memorable address that maps to something that already exists.</td></tr></tbody></table>
 
 ## Which Pattern Do I Need?
 
 Walk through these questions when planning a new email address:
 
-1. **Does one specific person need to log in to M365 and perform admin tasks?**
+1. **Does a volunteer or staff member want their own SHHA email mailbox?**
     - Yes → **Personal mailbox** (requires a license; talk to IT admin)
     - No → continue
-2. **Does the address need its own persistent inbox that survives personnel changes?**
+2. **Is this one of the six designated officer role inboxes that must survive personnel changes?**
     - Yes → **Shared mailbox**
     - No → continue
 3. **Does the address need to deliver to a group of people?**
@@ -37,7 +43,7 @@ Every mailing list (Microsoft Group) **must** include `admin@sandiahomeowners.or
 
 ## Cost Summary
 
-<table id="bkmrk-patternlicense-cost-"><thead><tr><th>Pattern</th><th>License cost</th></tr></thead><tbody><tr><td>Personal mailbox</td><td>Requires a paid M365 license</td></tr><tr><td>Shared mailbox</td><td>Free (up to 50 GB; no license unless it exceeds the limit)</td></tr><tr><td>Mailing list (Group)</td><td>Free</td></tr><tr><td>Alias</td><td>Free (added to an existing mailbox or group)</td></tr></tbody></table>
+<table id="bkmrk-patternlicense-cost-"><thead><tr><th>Pattern</th><th>License cost</th></tr></thead><tbody><tr><td>Personal mailbox</td><td>Requires a paid M365 license</td></tr><tr><td>Shared mailbox</td><td>Usually no separate mailbox license up to 50 GB. Delegates need licensed Exchange Online mailboxes; archiving, hold and advanced features can require additional licenses.</td></tr><tr><td>Mailing list (Group)</td><td>Free</td></tr><tr><td>Alias</td><td>Free (added to an existing mailbox or group)</td></tr></tbody></table>
 
 ## Where to Go Next
 

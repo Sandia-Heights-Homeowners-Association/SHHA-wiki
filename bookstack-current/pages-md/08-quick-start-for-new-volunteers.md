@@ -1,75 +1,22 @@
 # Quick Start for New Volunteers
 
-<a id="bkmrk-"></a>## Start Here: Which Type of Volunteer Are You?
+**Who this is for:** new SHHA volunteers. First choose which email address you want to use; office staff can help with either option.
 
-1. **Volunteer without an SHHA email address**
-2. **Volunteer with a role-based SHHA address**
- 
-Most volunteers are in Category 1.
+## Choose your email address
 
----
+**Any SHHA volunteer who wants their own SHHA email address may have one.** A personal address such as `first.last@sandiahomeowners.org` is available to volunteers as well as staff. Volunteers may also keep using personal email for committee messages and approved SharePoint guest access. Ask office staff for your preferred option; see [account setup and current license costs](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/sop-new-users-mailboxes-groups).
 
-<a id="bkmrk--2"></a>## Category 1: Volunteers Who Do Not Get Their Own SHHA Email Address
+1. **Keep personal email:** ask office staff to invite that address and add your approved committee memberships. Follow [the invitation guide](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/volunteer-without-shha-email) and accept the invitation using that address.
+2. **Request SHHA email:** ask office staff for a personal SHHA mailbox. After setup, follow [the SHHA account guide](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/volunteer-with-shha-email) and sign in with your own address.
 
-### Who this is
+## Check email and committee documents
 
-- Committee members
-- Project volunteers
-- Most external participants
- 
-### What you get
+1. Open your committee site from [Quick Links &amp; Directory](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/quick-links-directory). Select Documents; you should see the committee files.
+2. Follow the [Committee SharePoint Guide](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/committee-sharepoint-guide) to open or upload a file.
+3. Confirm a committee test message arrives at the address you chose. Send committee-wide messages from your own account to the committee mailing list.
 
-- You are added to one or more SHHA mailing lists (Microsoft Groups), such as `csc@sandiahomeowners.org`, `acc@sandiahomeowners.org`, and `shha-all@sandiahomeowners.org`.
-- You receive messages at your existing email address.
-- You do not need a paid SHHA Microsoft 365 license.
- 
-### If something is wrong
+## If you also hold an officer role
 
-If you are missing messages, contact office staff so membership can be checked and updated.
+President, Vice President, Secretary, Treasurer, ACC Chair and CSC Chair have shared role mailboxes. These belong to the position and are separate from a person's own mailbox. Open the role mailbox through your own licensed SHHA account after the office arranges Full Access and Send As. Follow [the shared-mailbox instructions](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/volunteer-with-shha-email) and test opening, receiving and sending from the role address.
 
----
-
-<a id="bkmrk--4"></a>## Category 2: Volunteers Who Do Get a Role-Based SHHA Address
-
-### Who this is
-
-Volunteers serving in specific leadership roles, such as committee chairs or executive roles.
-
-### Role-based addresses are shared inboxes
-
-- `accchair@sandiahomeowners.org`
-- `cscchair@sandiahomeowners.org`
-- `president@sandiahomeowners.org`
-- `vicepresident@sandiahomeowners.org`
-- `secretary@sandiahomeowners.org`
-- `treasurer@sandiahomeowners.org`
- 
-These addresses are tied to the role, not the person.
-
-### Important access rule
-
-- You do not sign in directly as the role address.
-- Access is granted to your own licensed account.
-- You open the shared mailbox from your normal account.
- 
-### If something is wrong
-
-If you cannot open the role mailbox, ask staff or IT admin to verify permissions.
-
----
-
-<a id="bkmrk--6"></a>## Who Maintains This
-
-- Group membership updates: Anna (staff)
-- Access troubleshooting: IT admin
- 
-There is an automated Power Automate notification whenever group membership changes.
-
----
-
-<a id="bkmrk--8"></a>## Fast Checklist for New Volunteers
-
-- Confirm which category applies to you.
-- Confirm you are on the correct committee mailing list(s).
-- If you hold a role, confirm you can open the shared role mailbox.
-- Report any missing access to office staff.
+For an email-address request, contact [office staff](mailto:office@sandiahomeowners.org). For setup or access problems, contact [IT Help](mailto:ithelp@sandiahomeowners.org).

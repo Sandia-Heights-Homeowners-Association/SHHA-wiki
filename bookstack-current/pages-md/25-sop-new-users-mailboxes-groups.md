@@ -2,13 +2,19 @@
 
 This SOP is written for SHHA staff who are comfortable with basic Microsoft admin work and need a reliable step-by-step process for setting up new groups, shared mailboxes, and related addresses.
 
+**Any SHHA volunteer who wants their own SHHA email address may have one.** A personal address such as `first.last@sandiahomeowners.org` is available to volunteers as well as staff. Volunteers may also keep using personal email for committee messages and approved SharePoint guest access. Ask office staff for your preferred option; see [account setup and current license costs](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/sop-new-users-mailboxes-groups).
+
+**License cost:** SHHA currently pays about **$7 per month for each licensed account** (November 17, 2026). Set up accounts for actual requests; do not buy extra licenses in anticipation of future volunteers. Check whether a suitable paid license is already available before arranging another purchase.
+
+For an email-address request, contact [office staff](mailto:office@sandiahomeowners.org). For setup or access problems, contact [IT Help](mailto:ithelp@sandiahomeowners.org).
+
 **Start here every time:** [admin.microsoft.com](https://admin.microsoft.com)
 
 ---
 
 ## Quick Start: What Are You Trying to Set Up?
 
-<table id="bkmrk-if-you-need...go-to-"><thead><tr><th>If you need...</th><th>Go to this section</th></tr></thead><tbody><tr><td>A new task-force or committee mailing address that sends to all members</td><td>[SOP A: Create a Microsoft 365 Group (Mailing List)](#bkmrk-sop-a%3A-create-a-micr)</td></tr><tr><td>A SharePoint document site for a new committee or task force</td><td>[SOP: Create a Committee SharePoint Site](/books/shha-it-help-guide/page/sop-create-a-committee-sharepoint-site)</td></tr><tr><td>A shared mailbox for one of the six officer roles</td><td>[SOP B: Create a Shared Mailbox](#bkmrk-sop-b%3A-create-a-shar)</td></tr><tr><td>A friendly one-off address like wildfire@sandiahomeowners.org</td><td>[SOP C: Add an Alias](#bkmrk-sop-c%3A-add-an-alias-)</td></tr><tr><td>An internal staff account with first.last@sandiahomeowners.org login</td><td>[SOP D: Add a Licensed User](#bkmrk-sop-d%3A-add-a-new-lic)</td></tr><tr><td>An external volunteer using Gmail/Yahoo/etc.</td><td>[SOP E: Add an External Guest](#bkmrk-sop-e%3A-add-an-extern)</td></tr></tbody></table>
+<table id="bkmrk-if-you-need...go-to-"><thead><tr><th>If you need...</th><th>Go to this section</th></tr></thead><tbody><tr><td>A new task-force or committee mailing address that sends to all members</td><td>[SOP A: Create a Microsoft 365 Group (Mailing List)](#bkmrk-sop-a%3A-create-a-micr)</td></tr><tr><td>A SharePoint document site for a new committee or task force</td><td>[SOP: Create a Committee SharePoint Site](/books/shha-it-help-guide/page/sop-create-a-committee-sharepoint-site)</td></tr><tr><td>A shared mailbox for one of the six officer roles</td><td>[SOP B: Create a Shared Mailbox](#bkmrk-sop-b%3A-create-a-shar)</td></tr><tr><td>A friendly one-off address like wildfire@sandiahomeowners.org</td><td>[SOP C: Add an Alias](#bkmrk-sop-c%3A-add-an-alias-)</td></tr><tr><td>A personal SHHA email account for a volunteer or staff member, such as first.last@sandiahomeowners.org</td><td>[SOP D: Add a Licensed User](#bkmrk-sop-d%3A-add-a-new-lic)</td></tr><tr><td>An external volunteer using Gmail/Yahoo/etc.</td><td>[SOP E: Add an External Guest](#bkmrk-sop-e%3A-add-an-extern)</td></tr></tbody></table>
 
 ---
 
@@ -127,27 +133,28 @@ If you only need one address that emails the whole task force, do **SOP A** only
 
 ---
 
-## SOP D: Add a New Licensed User (Internal Staff)
+## SOP D: Add a licensed user for a volunteer or staff member
 
-**Use this for:** staff/admin accounts that need a personal Microsoft login (`first.last@sandiahomeowners.org`).
+**Use this for:** any volunteer requesting an SHHA email address, and staff who need a personal SHHA account (`first.last@sandiahomeowners.org`).
 
 **Menu path:** [admin.microsoft.com](https://admin.microsoft.com) → **Users** → **Active users** → **Add a user**
 
 ### Step-by-step
 
-1. Go to **Users** → **Active users** → **Add a user**.
-2. Enter name and username (`first.last` format).
-3. Generate temporary password and require password change at first sign-in.
-4. Assign correct M365 license.
-5. Finish adding user.
-6. Add user to appropriate groups/shared mailbox access as needed.
-7. Send the [New Internal Staff User](/books/shha-it-help-guide/page/office-onboarding-email-templates) email after testing the account.
+1. Confirm the person wants their own SHHA email address. Volunteers are eligible; being staff or an officer is not a requirement.
+2. Check existing users for an account belonging to this person, then check whether a suitable paid license is already available. Ask the authorized license purchaser to arrange a license only if this request needs one. Do not purchase spare licenses.
+3. Go to **Users → Active users → Add a user**. Enter the person's name and `first.last@sandiahomeowners.org` username.
+4. Generate a temporary password and require a password change at first sign-in. Provide the temporary password through a separate approved channel from the username and welcome instructions.
+5. Assign the appropriate license and finish creating the user. Ordinary email users do not need an administrator role.
+6. Add the account to the approved committee groups. Grant shared-mailbox permissions only when the person holds one of the six designated officer roles.
+7. Have the person sign in to Outlook, receive and send a test message, and open their committee Documents library. Verify the intended account is in use.
+8. Send the licensed-user welcome message from the Office Onboarding Email Templates and link the Volunteer with SHHA Email guide.
 
 ---
 
 ## SOP E: Add an External Guest (Volunteer)
 
-**Use this for:** most volunteers; avoids paid license cost.
+**Use this for:** volunteers who choose to keep using personal email; approved guest access avoids an SHHA mailbox license cost.
 
 **Menu path:** [admin.microsoft.com](https://admin.microsoft.com) → **Users** → **Guest users** (or Entra invite flow)
 
@@ -156,7 +163,7 @@ If you only need one address that emails the whole task force, do **SOP A** only
 1. Invite external user with personal email address.
 2. Ask them to accept Microsoft invitation email.
 3. After acceptance, add them to needed Microsoft Groups.
-4. Verify they receive test group email.
+4. Verify they receive a test group email and can open the committee SharePoint Documents library using the invited account.
 5. Send the [New External Volunteer](/books/shha-it-help-guide/page/office-onboarding-email-templates) email after testing access.
 
 ---

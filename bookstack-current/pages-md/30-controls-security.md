@@ -4,7 +4,7 @@
 
 ## Use the right account
 
-1. Use the same email address that received your SHHA invitation for guest access. Staff and officer mailbox holders use their own SHHA account for licensed services.
+1. Use the same email address that received your SHHA invitation for guest access. Volunteers, officers and staff with an SHHA mailbox use their own SHHA account for licensed services.
 2. Open committee documents from the committee SharePoint site. Access comes from approved group membership; a public wiki link does not grant access.
 3. Open a shared role mailbox through your own licensed account. Do not sign in as the shared role address.
 

@@ -1,173 +1,33 @@
 # SHHA Reminders
 
-Email Reminders in the SHHA Toolbox is the Sandia Heights Homeowners Association tool for sending automated reminder emails for meetings and events.
+**Who this is for:** staff and volunteers with approved Reminders access. Start by checking the event in its calendar, then open [SHHA Toolbox](https://toolbox.sandiahomeowners.org/.auth/login/aad?post_login_redirect_uri=%2Ftools) and choose Reminders.
 
-The app does **not** replace Outlook, Teams, or Google Calendar. Office staff should keep creating and editing meetings in the existing calendar system. SHHA Reminders reads events from the Microsoft 365 calendar for `admin@sandiahomeowners.org`, then uses its own reminder rules, recipient groups, and email templates to send the right nudge at the right time.
+Sign in with your approved SHHA Microsoft account or invited personal-email identity. An SHHA email suffix is not required. Tool access is separate from sign-in; contact IT Help if the card is Restricted.
 
-**Current location:** [SHHA Toolbox](https://toolbox.sandiahomeowners.org/.auth/login/aad?post_login_redirect_uri=%2F) → **Email Reminders**. The former standalone reminders address is retired. This is a staff tool with its own approved access.
+## Check the event in the right calendar
 
-## Who Can Log In
+1. **Board meetings:** the Office organizer creates or edits the Teams/Outlook meeting and invites `admin@sandiahomeowners.org`, including updates and cancellations. That address receives invitations; staff do not maintain duplicate meeting dates there.
+2. **GRIT deadlines:** staff maintain the selected deadline in SHHA’s public Google calendar and mark it Free so it does not reserve the room. The submission guide maintains the publication deadline policy.
+3. Refresh the calendars in Reminders when needed. The tool imports dates; calendar invitation text does not create or authorize a reminder.
 
-SHHA organization members and invited guests can use Microsoft login, but only users with the Reminders tool grant can open this staff workspace. An invited guest may use a personal email address; an SHHA email suffix is not required. Ask office staff or [IT Help](mailto:ithelp@sandiahomeowners.org) for access.
+## Create and activate a reminder
 
-The app uses Microsoft sign-in. There is no shared app password, which is good because shared app passwords tend to become office folklore with a login prompt attached.
+1. Open **Upcoming emails**. List and Mini calendar show email send dates in Mountain time, not just meeting dates. Select an email to inspect its message, recipients, From/reply address and event.
+2. Choose **New reminder → Choose event**. Select the exact Board meeting, GRIT deadline or other imported event.
+3. Select **This occurrence only** or **Every future occurrence**. Set up a recurring series once.
+4. Write the emails and check exact recipients, From/reply address and timing. All-day deadlines need a send time. Check the actual dates across daylight-saving changes.
+5. Select **Save draft &amp; review**. Read the rendered messages and next actual send dates. A saved draft does not send.
+6. When the preview is correct, select **Activate reminder**. This authorizes future scheduled sends. Saving later changes returns the setup to draft; review and activate it again.
+7. Use **Manage reminders** to find drafts, active or paused setups and completed one-time reminders. Use **Delivery history** to review earlier attempts.
 
-## What Calendar Events Appear
+Saved messages and recipient groups are shortcuts copied into a setup. Editing the library later does not silently update existing setups. Review the actual setup before activating it.
 
-SHHA Reminders reads events from the calendar for `admin@sandiahomeowners.org`.
+## If something is wrong
 
-To make a meeting appear in SHHA Reminders:
+<table id="bkmrk-what-you-seewhat-to-"><thead><tr><th>What you see</th><th>What to check</th></tr></thead><tbody><tr><td>The event is missing or wrong</td><td>Check the source calendar, meeting invitation and latest refresh. Correct dates and cancellations in the calendar that owns them.</td></tr><tr><td>No upcoming email</td><td>Open Manage reminders. Confirm a setup exists, is active, has future dates and uses the intended event or series. Importing an event alone creates no email.</td></tr><tr><td>Needs attention</td><td>Read the status. Failed calendar imports, missing required Teams links or unconfirmed sends can hold delivery. Contact IT Help with the event and status.</td></tr><tr><td>A send is unconfirmed</td><td>Ask IT Help to check Microsoft delivery evidence before arranging another send, so recipients do not receive duplicates.</td></tr><tr><td>Access denied</td><td>Check the signed-in identity and approved Reminders access. Receiving reminder emails does not require tool access.</td></tr></tbody></table>
 
-1. Create or edit the meeting in Outlook or Teams.
-2. Invite `admin@sandiahomeowners.org` to the event.
-3. Open SHHA Reminders.
-4. Click **Sync Calendar**.
+Canceled occurrences do not send. A successful send is not repeated just because the event or wording changes. New approvals cover future sends, not missed historical dates.
 
-If the meeting is not on the `admin@sandiahomeowners.org` calendar, it will not appear in SHHA Reminders.
+For an email-address request, contact [office staff](mailto:office@sandiahomeowners.org). For setup or access problems, contact [IT Help](mailto:ithelp@sandiahomeowners.org).
 
-## What The App Does
-
-SHHA Reminders lets staff:
-
-- View upcoming synced calendar events.
-- Attach reminder rules to individual events.
-- Attach reminder rules to recurring meeting series.
-- Manage recipient groups.
-- Manage email templates.
-- Send test emails for templates.
-- View upcoming scheduled reminders.
-- View logs as sending automation is expanded.
-
-## Basic Workflow
-
-1. Confirm the meeting exists in Outlook or Teams.
-2. Confirm `admin@sandiahomeowners.org` is invited.
-3. Sign in to [SHHA Toolbox](https://toolbox.sandiahomeowners.org/.auth/login/aad?post_login_redirect_uri=%2F) and choose **Email Reminders**.
-4. Click **Sync Calendar**.
-5. Open **Set Up Reminders**.
-6. Select the event.
-7. Choose whether the rule applies to **All Future** occurrences or **This Event** only.
-8. Choose when to send the reminder, such as 7 days before or 1 day before.
-9. Choose the recipient group and email template.
-10. Click **Add Reminder Rule**.
-11. Use **Send Test** before relying on a new or edited template.
-
-Recurring events, such as regular Board meetings, can have rules that apply to all future occurrences. Ad-hoc meetings can have one-time reminder rules.
-
-## Recipient Groups
-
-Use **Recipient Group** to manage lists of email recipients, such as Board, committee members, office staff, or CPC members.
-
-Reminder rules send to recipient groups, not to one-off typed addresses. This keeps the reminder rule tidy when people rotate on or off a committee.
-
-## Templates
-
-Use **Templates** to manage the text of reminder emails.
-
-Templates support variables, including:
-
-```text
-{{event.subject}}
-{{event.date}}
-{{event.time}}
-{{event.location}}
-{{event.joinUrl}}
-
-```
-
-Those variables are replaced with details from the selected calendar event when the email is sent.
-
-Example:
-
-```text
-Hello,
-
-This is a reminder that {{event.subject}} is scheduled for {{event.date}} at {{event.time}}.
-
-{{event.location}}
-{{event.joinUrl}}
-
-Thank you,
-SHHA
-
-```
-
-## Teams Meeting Links
-
-Teams links are available through `{{event.joinUrl}}`.
-
-The link comes from the Microsoft calendar event. If a Teams link is missing from a reminder, check the original Outlook or Teams event first.
-
-## CPC And Irregular Meetings
-
-For irregular meetings such as CPC meetings, the recommended workflow is:
-
-1. Manually create the event in Outlook or Teams.
-2. Invite `admin@sandiahomeowners.org`.
-3. Sync SHHA Reminders.
-4. Use a reminder rule for the matching event or meeting title.
-
-The Microsoft calendar remains the source of truth.
-
-## Important Operating Rules
-
-- Do not create events directly in SHHA Reminders.
-- Change meeting dates, cancellations, titles, and Teams links in Outlook or Teams.
-- After changing calendar events, click **Sync Calendar** in SHHA Reminders.
-- Use **Send Test** before relying on a new or edited template.
-- Keep recipient groups up to date.
-
-## Troubleshooting
-
-### Event Does Not Appear
-
-Check:
-
-- Was `admin@sandiahomeowners.org` invited?
-- Has the app been synced?
-- Is the event within the configured sync window?
-- Is the event on the Microsoft calendar, not only Google Calendar?
-
-### Reminder Email Looks Wrong
-
-Check:
-
-- The selected template.
-- The calendar event title, date, location, and Teams link.
-- The recipient group.
-- Send a test email.
-
-### User Cannot Log In
-
-Check:
-
-- The user has a Microsoft account ending in `@sandiahomeowners.org`.
-- The site is being accessed through HTTPS: [https://toolbox.sandiahomeowners.org/.auth/login/aad?post\_login\_redirect\_uri=%2F](https://toolbox.sandiahomeowners.org/.auth/login/aad?post_login_redirect_uri=%2F).
-
-### Emails Are Not Sending
-
-In the Microsoft Entra admin center, check the app registration's Microsoft Graph mail permissions, the `admin@sandiahomeowners.org` sending mailbox, and whether the Microsoft Entra client secret has expired.
-
-## Ownership
-
-Office staff own:
-
-- Calendar event creation and edits.
-- Reminder rules.
-- Recipient groups.
-- Email templates.
-- Test sends.
-
-IT owns:
-
-- Hosting.
-- Microsoft Entra app registration.
-- Graph permissions.
-- Docker deployment.
-- Backups.
-- Secrets and environment configuration.
-- Caddy/reverse proxy configuration.
-
-## Access and maintenance
-
-Receiving a reminder does not require access to the staff tool. Microsoft 365 remains the calendar of record. Administrators should check the toolbox's Operational status and delivery history when troubleshooting; changing a rule or template is separate from configuring the sending service. See [IT Infrastructure and Handover](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/it-infrastructure-and-handover) for maintenance responsibilities.
+Return to [the Toolbox guide](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/public-utilities-and-shha-toolbox). IT maintainers should use [IT Infrastructure and Handover](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/it-infrastructure-and-handover) and the private operating guide.

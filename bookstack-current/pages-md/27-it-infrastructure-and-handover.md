@@ -37,7 +37,7 @@ The toolbox, dashboard and Azure newsletter version currently share existing Azu
 
 - [wiki.sandiahomeowners.org](https://wiki.sandiahomeowners.org/): Azure BookStack; anyone can read, approved Microsoft users can edit.
 - [dashboard.sandiahomeowners.org](https://dashboard.sandiahomeowners.org/): public aggregate dashboard on Azure.
-- [toolbox.sandiahomeowners.org](https://toolbox.sandiahomeowners.org/.auth/login/aad?post_login_redirect_uri=%2F): protected staff toolbox with Microsoft login and per-tool grants.
+- [toolbox.sandiahomeowners.org](https://toolbox.sandiahomeowners.org/.auth/login/aad?post_login_redirect_uri=%2Ftools): protected staff toolbox with Microsoft login and per-tool grants.
 - [sandiaheightsgrit.app](https://sandiaheightsgrit.app/): public contribution site; confirm the migration status before changing its host.
 - [Neighborhood map on GitHub Pages](https://sandia-heights-homeowners-association.github.io/SHHA-map/): current map address; a map subdomain is deferred.
 

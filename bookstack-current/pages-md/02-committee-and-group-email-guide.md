@@ -6,7 +6,7 @@ If you are a participant using a personal email (Gmail, Yahoo, etc.), this page 
 
 ## Short Answer
 
-**Yes.** Use your committee/group mailing-list address as the preferred address for group-wide communication.
+Send committee-wide messages from your own email account to the committee/group mailing-list address.
 
 When you email that address, your message goes to all current participants.
 
@@ -14,7 +14,7 @@ When you email that address, your message goes to all current participants.
 
 - You send one email to everyone without typing each person's address.
 - Group correspondence is archived separately for record-keeping.
-- New participants can review ongoing conversations more consistently.
+- New participants receive future group messages; ask the chair for earlier correspondence they need. Joining does not deliver the past email archive to a personal inbox.
 
 ## What This Address Is For
 
@@ -33,7 +33,7 @@ For long-term files, upload to SharePoint first, then send the SharePoint link t
 
 ## Which Email Address Should I Use To Send?
 
-Use your normal email account (your personal email).
+Use your own email account: your personal email or your requested SHHA mailbox, whichever the office added to the group.
 
 You do **not** log in directly to the group address as a mailbox.
 

@@ -2,6 +2,8 @@
 
 *Welcome to the Board. The good news: there is no secret handshake. The mildly annoying news: Microsoft may still ask you to sign in like there is one.*
 
+**First action:** confirm which email address the office has added to the Board group. You can use personal email with an accepted guest invitation, or request your own SHHA mailbox. Start with [the volunteer quick start](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/quick-start-for-new-volunteers), then open Board documents.
+
 ## Short Version
 
 1. Use the [Board SharePoint site](https://shha.sharepoint.com/sites/BOARD/) for meeting packets, pre-reads, and Board working files.

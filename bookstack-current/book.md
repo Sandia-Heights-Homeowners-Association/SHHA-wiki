@@ -22,7 +22,7 @@ Each committee has its own SharePoint site for storing documents, meeting minute
 
 ## Login Links
 
-<table id="bkmrk-what-you-needwhere-t"><thead><tr><th>What you need</th><th>Where to go</th><th>Who uses it</th></tr></thead><tbody><tr><td>Email (staff &amp; role mailbox holders)</td><td>[outlook.com](https://outlook.com)</td><td>Staff, officers, chairs</td></tr><tr><td>OneDrive / personal files</td><td>[onedrive.com](https://onedrive.com)</td><td>Licensed users</td></tr><tr><td>Admin console (manage users &amp; groups)</td><td>[admin.microsoft.com](https://admin.microsoft.com)</td><td>IT admins only</td></tr><tr><td>Committee files (SharePoint)</td><td>See [SharePoint Sites](#bkmrk-sharepoint-sites-%28co) above</td><td>All volunteers</td></tr></tbody></table>
+<table id="bkmrk-what-you-needwhere-t"><thead><tr><th>What you need</th><th>Where to go</th><th>Who uses it</th></tr></thead><tbody><tr><td>Email (anyone with a licensed SHHA mailbox)</td><td>[Outlook for SHHA email](https://outlook.office.com/)</td><td>Volunteers, officers and staff with SHHA mailboxes</td></tr><tr><td>OneDrive / personal files</td><td>[onedrive.com](https://onedrive.com)</td><td>Licensed users</td></tr><tr><td>Admin console (manage users &amp; groups)</td><td>[admin.microsoft.com](https://admin.microsoft.com)</td><td>IT admins only</td></tr><tr><td>Committee files (SharePoint)</td><td>See [SharePoint Sites](#bkmrk-sharepoint-sites-%28co) above</td><td>All volunteers</td></tr></tbody></table>
 
 ## Public utilities
 
@@ -30,7 +30,7 @@ Each committee has its own SharePoint site for storing documents, meeting minute
 
 See [Public Utilities and SHHA Toolbox](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/public-utilities-and-shha-toolbox) for what each tool does.
 
-<small>**Staff and authorized volunteers:** [sign in to SHHA Toolbox](https://toolbox.sandiahomeowners.org/.auth/login/aad?post_login_redirect_uri=%2F) for office tools, including Email Reminders. Access is approved per tool; the former standalone reminders address is retired.</small>
+<small>**Staff and authorized volunteers:** [sign in to SHHA Toolbox](https://toolbox.sandiahomeowners.org/.auth/login/aad?post_login_redirect_uri=%2Ftools) for office tools, including Email Reminders. Access is approved per tool; the former standalone reminders address is retired.</small>
 
 ## Mailing Lists (Committee &amp; Group Email Addresses)
 
@@ -74,7 +74,7 @@ If you are a participant using a personal email (Gmail, Yahoo, etc.), this page 
 
 ## Short Answer
 
-**Yes.** Use your committee/group mailing-list address as the preferred address for group-wide communication.
+Send committee-wide messages from your own email account to the committee/group mailing-list address.
 
 When you email that address, your message goes to all current participants.
 
@@ -82,7 +82,7 @@ When you email that address, your message goes to all current participants.
 
 - You send one email to everyone without typing each person's address.
 - Group correspondence is archived separately for record-keeping.
-- New participants can review ongoing conversations more consistently.
+- New participants receive future group messages; ask the chair for earlier correspondence they need. Joining does not deliver the past email archive to a personal inbox.
 
 ## What This Address Is For
 
@@ -101,7 +101,7 @@ For long-term files, upload to SharePoint first, then send the SharePoint link t
 
 ## Which Email Address Should I Use To Send?
 
-Use your normal email account (your personal email).
+Use your own email account: your personal email or your requested SHHA mailbox, whichever the office added to the group.
 
 You do **not** log in directly to the group address as a mailbox.
 
@@ -154,7 +154,7 @@ If there are office-only working documents, separate issues, drafts that do not 
 
 **Do not use the Share button to give a Board or committee group access to a file.** Instead, move the file into the SharePoint folder that belongs to that group. Access comes from membership in the group's SharePoint/Microsoft 365 group.
 
-This matters because many Board and committee members use personal email addresses, such as Gmail. The **Share** or **Copy link** method works reliably only for users with `@sandiahomeowners.org` accounts. External members should access group files through the appropriate SharePoint site.
+This matters because many Board and committee members use personal email addresses, such as Gmail. Access depends on approved site and document permissions, not an email suffix. Copying a link points to a file; it does not by itself give its recipient permission. External members should access group files through the appropriate SharePoint site.
 
 ### File-Sharing Decision Flow
 
@@ -321,177 +321,37 @@ Include the folder name, the account you are signed in with, and a screenshot if
 
 # SHHA Reminders
 
-Email Reminders in the SHHA Toolbox is the Sandia Heights Homeowners Association tool for sending automated reminder emails for meetings and events.
+**Who this is for:** staff and volunteers with approved Reminders access. Start by checking the event in its calendar, then open [SHHA Toolbox](https://toolbox.sandiahomeowners.org/.auth/login/aad?post_login_redirect_uri=%2Ftools) and choose Reminders.
 
-The app does **not** replace Outlook, Teams, or Google Calendar. Office staff should keep creating and editing meetings in the existing calendar system. SHHA Reminders reads events from the Microsoft 365 calendar for `admin@sandiahomeowners.org`, then uses its own reminder rules, recipient groups, and email templates to send the right nudge at the right time.
+Sign in with your approved SHHA Microsoft account or invited personal-email identity. An SHHA email suffix is not required. Tool access is separate from sign-in; contact IT Help if the card is Restricted.
 
-**Current location:** [SHHA Toolbox](https://toolbox.sandiahomeowners.org/.auth/login/aad?post_login_redirect_uri=%2F) → **Email Reminders**. The former standalone reminders address is retired. This is a staff tool with its own approved access.
+## Check the event in the right calendar
 
-## Who Can Log In
+1. **Board meetings:** the Office organizer creates or edits the Teams/Outlook meeting and invites `admin@sandiahomeowners.org`, including updates and cancellations. That address receives invitations; staff do not maintain duplicate meeting dates there.
+2. **GRIT deadlines:** staff maintain the selected deadline in SHHA’s public Google calendar and mark it Free so it does not reserve the room. The submission guide maintains the publication deadline policy.
+3. Refresh the calendars in Reminders when needed. The tool imports dates; calendar invitation text does not create or authorize a reminder.
 
-SHHA organization members and invited guests can use Microsoft login, but only users with the Reminders tool grant can open this staff workspace. An invited guest may use a personal email address; an SHHA email suffix is not required. Ask office staff or [IT Help](mailto:ithelp@sandiahomeowners.org) for access.
+## Create and activate a reminder
 
-The app uses Microsoft sign-in. There is no shared app password, which is good because shared app passwords tend to become office folklore with a login prompt attached.
+1. Open **Upcoming emails**. List and Mini calendar show email send dates in Mountain time, not just meeting dates. Select an email to inspect its message, recipients, From/reply address and event.
+2. Choose **New reminder → Choose event**. Select the exact Board meeting, GRIT deadline or other imported event.
+3. Select **This occurrence only** or **Every future occurrence**. Set up a recurring series once.
+4. Write the emails and check exact recipients, From/reply address and timing. All-day deadlines need a send time. Check the actual dates across daylight-saving changes.
+5. Select **Save draft &amp; review**. Read the rendered messages and next actual send dates. A saved draft does not send.
+6. When the preview is correct, select **Activate reminder**. This authorizes future scheduled sends. Saving later changes returns the setup to draft; review and activate it again.
+7. Use **Manage reminders** to find drafts, active or paused setups and completed one-time reminders. Use **Delivery history** to review earlier attempts.
 
-## What Calendar Events Appear
+Saved messages and recipient groups are shortcuts copied into a setup. Editing the library later does not silently update existing setups. Review the actual setup before activating it.
 
-SHHA Reminders reads events from the calendar for `admin@sandiahomeowners.org`.
+## If something is wrong
 
-To make a meeting appear in SHHA Reminders:
+<table id="bkmrk-what-you-seewhat-to-"><thead><tr><th>What you see</th><th>What to check</th></tr></thead><tbody><tr><td>The event is missing or wrong</td><td>Check the source calendar, meeting invitation and latest refresh. Correct dates and cancellations in the calendar that owns them.</td></tr><tr><td>No upcoming email</td><td>Open Manage reminders. Confirm a setup exists, is active, has future dates and uses the intended event or series. Importing an event alone creates no email.</td></tr><tr><td>Needs attention</td><td>Read the status. Failed calendar imports, missing required Teams links or unconfirmed sends can hold delivery. Contact IT Help with the event and status.</td></tr><tr><td>A send is unconfirmed</td><td>Ask IT Help to check Microsoft delivery evidence before arranging another send, so recipients do not receive duplicates.</td></tr><tr><td>Access denied</td><td>Check the signed-in identity and approved Reminders access. Receiving reminder emails does not require tool access.</td></tr></tbody></table>
 
-1. Create or edit the meeting in Outlook or Teams.
-2. Invite `admin@sandiahomeowners.org` to the event.
-3. Open SHHA Reminders.
-4. Click **Sync Calendar**.
+Canceled occurrences do not send. A successful send is not repeated just because the event or wording changes. New approvals cover future sends, not missed historical dates.
 
-If the meeting is not on the `admin@sandiahomeowners.org` calendar, it will not appear in SHHA Reminders.
+For an email-address request, contact [office staff](mailto:office@sandiahomeowners.org). For setup or access problems, contact [IT Help](mailto:ithelp@sandiahomeowners.org).
 
-## What The App Does
-
-SHHA Reminders lets staff:
-
-- View upcoming synced calendar events.
-- Attach reminder rules to individual events.
-- Attach reminder rules to recurring meeting series.
-- Manage recipient groups.
-- Manage email templates.
-- Send test emails for templates.
-- View upcoming scheduled reminders.
-- View logs as sending automation is expanded.
-
-## Basic Workflow
-
-1. Confirm the meeting exists in Outlook or Teams.
-2. Confirm `admin@sandiahomeowners.org` is invited.
-3. Sign in to [SHHA Toolbox](https://toolbox.sandiahomeowners.org/.auth/login/aad?post_login_redirect_uri=%2F) and choose **Email Reminders**.
-4. Click **Sync Calendar**.
-5. Open **Set Up Reminders**.
-6. Select the event.
-7. Choose whether the rule applies to **All Future** occurrences or **This Event** only.
-8. Choose when to send the reminder, such as 7 days before or 1 day before.
-9. Choose the recipient group and email template.
-10. Click **Add Reminder Rule**.
-11. Use **Send Test** before relying on a new or edited template.
-
-Recurring events, such as regular Board meetings, can have rules that apply to all future occurrences. Ad-hoc meetings can have one-time reminder rules.
-
-## Recipient Groups
-
-Use **Recipient Group** to manage lists of email recipients, such as Board, committee members, office staff, or CPC members.
-
-Reminder rules send to recipient groups, not to one-off typed addresses. This keeps the reminder rule tidy when people rotate on or off a committee.
-
-## Templates
-
-Use **Templates** to manage the text of reminder emails.
-
-Templates support variables, including:
-
-```text
-{{event.subject}}
-{{event.date}}
-{{event.time}}
-{{event.location}}
-{{event.joinUrl}}
-
-```
-
-Those variables are replaced with details from the selected calendar event when the email is sent.
-
-Example:
-
-```text
-Hello,
-
-This is a reminder that {{event.subject}} is scheduled for {{event.date}} at {{event.time}}.
-
-{{event.location}}
-{{event.joinUrl}}
-
-Thank you,
-SHHA
-
-```
-
-## Teams Meeting Links
-
-Teams links are available through `{{event.joinUrl}}`.
-
-The link comes from the Microsoft calendar event. If a Teams link is missing from a reminder, check the original Outlook or Teams event first.
-
-## CPC And Irregular Meetings
-
-For irregular meetings such as CPC meetings, the recommended workflow is:
-
-1. Manually create the event in Outlook or Teams.
-2. Invite `admin@sandiahomeowners.org`.
-3. Sync SHHA Reminders.
-4. Use a reminder rule for the matching event or meeting title.
-
-The Microsoft calendar remains the source of truth.
-
-## Important Operating Rules
-
-- Do not create events directly in SHHA Reminders.
-- Change meeting dates, cancellations, titles, and Teams links in Outlook or Teams.
-- After changing calendar events, click **Sync Calendar** in SHHA Reminders.
-- Use **Send Test** before relying on a new or edited template.
-- Keep recipient groups up to date.
-
-## Troubleshooting
-
-### Event Does Not Appear
-
-Check:
-
-- Was `admin@sandiahomeowners.org` invited?
-- Has the app been synced?
-- Is the event within the configured sync window?
-- Is the event on the Microsoft calendar, not only Google Calendar?
-
-### Reminder Email Looks Wrong
-
-Check:
-
-- The selected template.
-- The calendar event title, date, location, and Teams link.
-- The recipient group.
-- Send a test email.
-
-### User Cannot Log In
-
-Check:
-
-- The user has a Microsoft account ending in `@sandiahomeowners.org`.
-- The site is being accessed through HTTPS: [https://toolbox.sandiahomeowners.org/.auth/login/aad?post\_login\_redirect\_uri=%2F](https://toolbox.sandiahomeowners.org/.auth/login/aad?post_login_redirect_uri=%2F).
-
-### Emails Are Not Sending
-
-In the Microsoft Entra admin center, check the app registration's Microsoft Graph mail permissions, the `admin@sandiahomeowners.org` sending mailbox, and whether the Microsoft Entra client secret has expired.
-
-## Ownership
-
-Office staff own:
-
-- Calendar event creation and edits.
-- Reminder rules.
-- Recipient groups.
-- Email templates.
-- Test sends.
-
-IT owns:
-
-- Hosting.
-- Microsoft Entra app registration.
-- Graph permissions.
-- Docker deployment.
-- Backups.
-- Secrets and environment configuration.
-- Caddy/reverse proxy configuration.
-
-## Access and maintenance
-
-Receiving a reminder does not require access to the staff tool. Microsoft 365 remains the calendar of record. Administrators should check the toolbox's Operational status and delivery history when troubleshooting; changing a rule or template is separate from configuring the sending service. See [IT Infrastructure and Handover](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/it-infrastructure-and-handover) for maintenance responsibilities.
+Return to [the Toolbox guide](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/public-utilities-and-shha-toolbox). IT maintainers should use [IT Infrastructure and Handover](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/it-infrastructure-and-handover) and the private operating guide.
 
 # Committee SharePoint Guide
 
@@ -585,38 +445,51 @@ Contact office staff or <ITHelp@sandiahomeowners.org>. Include:
 
 # Public Utilities and SHHA Toolbox
 
-**Who this is for:** neighbors, volunteers and staff looking for SHHA's online tools. Start with the public links below; no account is needed to view them.
+**Who this is for:** neighbors looking for public tools, and staff or volunteers doing approved SHHA work. Choose a public link below, or sign in to see Your toolbox.
 
 ## Public utilities
 
-<table id="bkmrk-toolwhat-you-can-doo"><thead><tr><th>Tool</th><th>What you can do</th><th>Open it</th></tr></thead><tbody><tr><td>Membership and Communication Statistics</td><td>See membership totals, mailing-list reach and recorded membership-flag changes. Download a one-page summary. These are aggregate statistics, not individual homeowner records or proof of dues payments.</td><td>[Open the public dashboard](https://dashboard.sandiahomeowners.org/)</td></tr><tr><td>Neighborhood map</td><td>Explore neighborhood boundaries and published map layers. Switch layers or backgrounds, inspect legends and public layer data, and use Fit neighborhood to return to the full area. It does not read SHHA's homeowner database.</td><td>[Open the neighborhood map](https://sandia-heights-homeowners-association.github.io/SHHA-map/)</td></tr><tr><td>GRIT submissions</td><td>Submit newsletter contributions and photographs. Read the form's current guidelines and deadline. Editorial review and final newsletter layout happen separately; submitting does not guarantee publication.</td><td>[Open GRIT submissions](https://sandiaheightsgrit.app/)</td></tr><tr><td>IT help wiki</td><td>Read SHHA's IT instructions, email and SharePoint guides. Microsoft login is needed to edit; changes are attributed to the signed-in person.</td><td>[Open the wiki](https://wiki.sandiahomeowners.org/)</td></tr></tbody></table>
+- [Membership and Communication Statistics](https://dashboard.sandiahomeowners.org/): aggregate totals, communication reach and a one-page report.
+- [Neighborhood map](https://sandia-heights-homeowners-association.github.io/SHHA-map/): published map layers, legends and neighborhood information.
+- [GRIT submissions](https://sandiaheightsgrit.app/): submit contributions and photographs; use [the submission guide](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/grit-content-rules-and-submission-guide) for preparation and deadlines.
+- [IT help wiki](https://wiki.sandiahomeowners.org/): read instructions without signing in.
 
-The map currently uses its GitHub Pages address. Use that working link rather than assuming a map subdomain has been activated. The GRIT's [content rules and submission guide](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/grit-content-rules-and-submission-guide) explains contribution choices in more detail.
+## Open Your toolbox
 
-## Staff and authorized volunteers: SHHA Toolbox
+1. Open [SHHA Toolbox](https://toolbox.sandiahomeowners.org/) and choose Microsoft sign-in, or use [the Toolbox sign-in link](https://toolbox.sandiahomeowners.org/.auth/login/aad?post_login_redirect_uri=%2Ftools).
+2. Use your approved SHHA Microsoft account or invited personal email. Toolbox access does not require an SHHA mailbox or paid mailbox license.
+3. On **Your toolbox**, open a card marked **Private · Available**. A gray Restricted card means you need that tool’s approved access. Ask IT Help; sign-in alone does not grant access.
 
-The **SHHA Toolbox** brings office and committee work into one Microsoft-authenticated site. [Sign in to the toolbox](https://toolbox.sandiahomeowners.org/.auth/login/aad?post_login_redirect_uri=%2F) with the Microsoft identity invited to SHHA. An invited guest can use a personal email address; an SHHA email suffix is not required. Each private tool needs its own approved access. If a tool is missing or access is denied, contact [IT Help](mailto:ithelp@sandiahomeowners.org) or office staff.
+Website administration, committee SharePoint and GRIT editorial access are separate from Toolbox access. Use [Quick Links &amp; Directory](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/quick-links-directory) for committee sites.
 
-The public dashboard, map, submissions site and wiki are separate destinations. You do not need toolbox access to use their public pages. The GRIT editorial workspace has its own protected access; toolbox Microsoft login does not unlock it.
+## Choose the task
 
-<table id="bkmrk-toolbox-functionwhat"><thead><tr><th>Toolbox function</th><th>What it helps authorized staff do</th></tr></thead><tbody><tr><td>Email Reminders</td><td>Set reminder rules, recipient groups and templates for events already on the Microsoft 365 calendar. Change events in Outlook or Teams, then sync the calendar in the tool.</td></tr><tr><td>Group update emailer</td><td>Watch selected Microsoft 365 groups and notify a group when its membership changes. Microsoft 365 remains the membership source.</td></tr><tr><td>SHHA addresses that need attention</td><td>Review contact gaps, membership and mailing-address issues in a private staff workspace.</td></tr><tr><td>Printed Directory</td><td>Prepare owner listings and printable sections while honoring current directory-listing preferences.</td></tr><tr><td>Membership reconciliation</td><td>Compare SHS billing information with website records, retain review notes and produce private issue reports. Suggestions need review; the toolbox does not write corrections to the website database.</td></tr><tr><td>Bulk emailer</td><td>Prepare personalized office messages, review recipients and arrange paced campaigns. Sender configuration and approval are separate from preparing a message.</td></tr><tr><td>Access and Operational status</td><td>Administrators manage tool grants and inspect configuration, sending/worker status and backups.</td></tr></tbody></table>
+<table id="bkmrk-tooluse-it-forfirst-"><thead><tr><th>Tool</th><th>Use it for</th><th>First action and expected result</th></tr></thead><tbody><tr><td>Reminders</td><td>Review and activate scheduled messages tied to calendar events.</td><td>Follow [the Reminders procedure](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/shha-reminders). Save a draft, review the exact emails and dates, then activate future delivery.</td></tr><tr><td>Invite volunteers</td><td>Invite a new external Microsoft guest using personal email.</td><td>Confirm the requested address and approved memberships. Review the invitation before sending; it is a real email. This guest workflow does not create a paid SHHA mailbox. Use [the account SOP](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/sop-new-users-mailboxes-groups) for a requested mailbox.</td></tr><tr><td>Automatic emailer</td><td>Send Microsoft group membership updates and optional one-time rosters.</td><td>Check service status and Recent emails. Change membership in Microsoft 365, not here. Instant, Daily digest and Off control group notices; a first baseline sends no introduction.</td></tr><tr><td>Welcome Visits</td><td>Coordinate incoming-household welcomes and committee work.</td><td>Review the household and whether the date is recorded or estimated, then record assignment, Packet created, Delivered and notes as appropriate. These are separate actions. See [the ownership-change and manual-resident guide](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/record-a-new-occupancy-office-guide) for the source record.</td></tr><tr><td>Addresses &amp; people</td><td>Look up website records and review address, contact and GRIT questions.</td><td>Start with Simple search. Advanced and Quick checks require their own permissions. Inspect evidence before acting; a membership flag is not proof of payment, and a missing GRIT association is not proof of opting out. Corrections belong on the website.</td></tr><tr><td>Printed Directory</td><td>Generate consent-aware directory sections and covers.</td><td>Load records, check layout with a one-page PDF preview, then generate the required sections. Refresh and regenerate after website corrections. Keep resident downloads private.</td></tr><tr><td>Membership reconciliation</td><td>Compare SHS billing information with website records.</td><td>Open or create the appropriate comparison, check source dates and address matches, then review differences. Suggestions remain unconfirmed until reviewed; the tool does not correct website records.</td></tr><tr><td>Bulk emailer</td><td>Prepare personalized messages and paced campaigns.</td><td>Import recipients, write, and review the actual messages and recipients. Confirm sender readiness and the intended schedule before approving delivery. Preparing a draft does not establish that sending is configured.</td></tr></tbody></table>
 
-Member Information remains a future workspace; it is not a general homeowner lookup. Private resident information, reports and submissions must stay in their protected systems.
+## Understand automatic group notices
 
-## Meeting reminders: use the toolbox
+1. Make membership changes in Microsoft 365. The Automatic emailer observes groups automatically; staff do not add groups to a monitoring list.
+2. Check Mailing-list timing: Instant, Daily digest or Off. Daily notices summarize net changes. Off stops automatic group notices but keeps monitoring; separate removal notices and explicit one-time updates have their own controls.
+3. Use Recent emails for submission status. If a send is unconfirmed, ask IT Help to check delivery evidence before sending again.
+4. For an optional one-time roster, open Send a one-time update and review the preview and recipients before sending. That action sends real email.
 
-The former standalone reminders address is retired. Open the toolbox and choose **Email Reminders**. See [SHHA Reminders](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/shha-reminders) for the staff workflow. Microsoft 365 owns the calendar; the tool reads it and sends configured notifications.
+## Help and next steps
 
-## Where to go next
+Administrators have separate Permissions and Operational status links. A status display is not proof that a recipient received an email. Keep resident information, reports and submissions in their approved protected systems.
 
-- [Quick Links &amp; Directory](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/quick-links-directory) has the everyday links and committee SharePoint sites.
-- [IT Infrastructure and Handover](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/it-infrastructure-and-handover) explains hosting, ownership, deployments and recovery for the next IT maintainer.
+For an email-address request, contact [office staff](mailto:office@sandiahomeowners.org). For setup or access problems, contact [IT Help](mailto:ithelp@sandiahomeowners.org).
+
+IT maintainers: start with [IT Infrastructure and Handover](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/it-infrastructure-and-handover).
 
 # Getting Started
 
 # Overview
 
 **Who this is for:** anyone using SHHA IT services, from first-time volunteers to the next IT administrator. Choose your route below. You can read this wiki without signing in; editing uses your approved Microsoft identity.
+
+**Any SHHA volunteer who wants their own SHHA email address may have one.** A personal address such as `first.last@sandiahomeowners.org` is available to volunteers as well as staff. Volunteers may also keep using personal email for committee messages and approved SharePoint guest access. Ask office staff for your preferred option; see [account setup and current license costs](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/sop-new-users-mailboxes-groups).
+
+For an email-address request, contact [office staff](mailto:office@sandiahomeowners.org). For setup or access problems, contact [IT Help](mailto:ithelp@sandiahomeowners.org).
 
 ## Start Here — Find Your Path
 
@@ -639,13 +512,13 @@ SHHA primarily uses **Microsoft 365** for:
 - File storage (SharePoint)
 - Internal collaboration
  
-Microsoft 365 is the calendar source for toolbox meeting reminders. Staff configure reminder rules in SHHA Toolbox rather than editing events there.
+Microsoft 365 owns Board meeting dates; the staff-selected Google calendar owns GRIT deadlines. Toolbox imports dates. Staff save, review and activate reminder setups in Toolbox; importing an event does not authorize sending.
 
 ---
 
 <a id="bkmrk--4"></a>## Do I Need a New Microsoft Account?
 
-**No.** Use the same email address that received your SHHA invitation.
+**If you choose personal-email guest access:** use the same email address that received your SHHA invitation. If you request your own SHHA mailbox, office staff arrange a separate licensed SHHA account.
 
 When first added, you receive a Microsoft invitation email and must accept it once. After acceptance you can:
 
@@ -704,7 +577,7 @@ Officer mailboxes stay with the role, not the person. Examples:
 <a id="bkmrk--14"></a>## Board Materials and Calendar
 
 - Board materials should be uploaded directly to Board SharePoint.
-- Meeting reminders are configured in SHHA Toolbox → Email Reminders, using the Microsoft 365 master calendar. Change events in Outlook or Teams; contact office staff or IT Help about reminder issues.
+- Board reminder setups are reviewed and activated in SHHA Toolbox → Reminders. Edit Board meetings in Outlook or Teams and invite admin@sandiahomeowners.org. GRIT deadlines use the staff-selected Google calendar. Contact office staff or IT Help about missing reminders.
  
 If reminders are missing, contact office staff or **ITHelp@sandiahomeowners.org**.
 
@@ -732,148 +605,42 @@ Use the [public utilities guide](https://wiki.sandiahomeowners.org/books/shha-it
 
 # Quick Start for New Volunteers
 
-<a id="bkmrk-"></a>## Start Here: Which Type of Volunteer Are You?
+**Who this is for:** new SHHA volunteers. First choose which email address you want to use; office staff can help with either option.
 
-1. **Volunteer without an SHHA email address**
-2. **Volunteer with a role-based SHHA address**
- 
-Most volunteers are in Category 1.
+## Choose your email address
 
----
+**Any SHHA volunteer who wants their own SHHA email address may have one.** A personal address such as `first.last@sandiahomeowners.org` is available to volunteers as well as staff. Volunteers may also keep using personal email for committee messages and approved SharePoint guest access. Ask office staff for your preferred option; see [account setup and current license costs](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/sop-new-users-mailboxes-groups).
 
-<a id="bkmrk--2"></a>## Category 1: Volunteers Who Do Not Get Their Own SHHA Email Address
+1. **Keep personal email:** ask office staff to invite that address and add your approved committee memberships. Follow [the invitation guide](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/volunteer-without-shha-email) and accept the invitation using that address.
+2. **Request SHHA email:** ask office staff for a personal SHHA mailbox. After setup, follow [the SHHA account guide](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/volunteer-with-shha-email) and sign in with your own address.
 
-### Who this is
+## Check email and committee documents
 
-- Committee members
-- Project volunteers
-- Most external participants
- 
-### What you get
+1. Open your committee site from [Quick Links &amp; Directory](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/quick-links-directory). Select Documents; you should see the committee files.
+2. Follow the [Committee SharePoint Guide](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/committee-sharepoint-guide) to open or upload a file.
+3. Confirm a committee test message arrives at the address you chose. Send committee-wide messages from your own account to the committee mailing list.
 
-- You are added to one or more SHHA mailing lists (Microsoft Groups), such as `csc@sandiahomeowners.org`, `acc@sandiahomeowners.org`, and `shha-all@sandiahomeowners.org`.
-- You receive messages at your existing email address.
-- You do not need a paid SHHA Microsoft 365 license.
- 
-### If something is wrong
+## If you also hold an officer role
 
-If you are missing messages, contact office staff so membership can be checked and updated.
+President, Vice President, Secretary, Treasurer, ACC Chair and CSC Chair have shared role mailboxes. These belong to the position and are separate from a person's own mailbox. Open the role mailbox through your own licensed SHHA account after the office arranges Full Access and Send As. Follow [the shared-mailbox instructions](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/volunteer-with-shha-email) and test opening, receiving and sending from the role address.
 
----
-
-<a id="bkmrk--4"></a>## Category 2: Volunteers Who Do Get a Role-Based SHHA Address
-
-### Who this is
-
-Volunteers serving in specific leadership roles, such as committee chairs or executive roles.
-
-### Role-based addresses are shared inboxes
-
-- `accchair@sandiahomeowners.org`
-- `cscchair@sandiahomeowners.org`
-- `president@sandiahomeowners.org`
-- `vicepresident@sandiahomeowners.org`
-- `secretary@sandiahomeowners.org`
-- `treasurer@sandiahomeowners.org`
- 
-These addresses are tied to the role, not the person.
-
-### Important access rule
-
-- You do not sign in directly as the role address.
-- Access is granted to your own licensed account.
-- You open the shared mailbox from your normal account.
- 
-### If something is wrong
-
-If you cannot open the role mailbox, ask staff or IT admin to verify permissions.
-
----
-
-<a id="bkmrk--6"></a>## Who Maintains This
-
-- Group membership updates: Anna (staff)
-- Access troubleshooting: IT admin
- 
-There is an automated Power Automate notification whenever group membership changes.
-
----
-
-<a id="bkmrk--8"></a>## Fast Checklist for New Volunteers
-
-- Confirm which category applies to you.
-- Confirm you are on the correct committee mailing list(s).
-- If you hold a role, confirm you can open the shared role mailbox.
-- Report any missing access to office staff.
+For an email-address request, contact [office staff](mailto:office@sandiahomeowners.org). For setup or access problems, contact [IT Help](mailto:ithelp@sandiahomeowners.org).
 
 # Quick Reference
 
-Use this page as the central directory for links and addresses.
+**Who this is for:** staff and volunteers finding an everyday task. Start with [Quick Links &amp; Directory](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/quick-links-directory) for current committee sites, mailing lists and officer addresses.
 
-## Direct Login Links
+## Common tasks
 
-- Email (internal users): [outlook.com](https://outlook.com)
-- Files (internal users): [onedrive.com](https://onedrive.com)
-- Microsoft admin portal (admins only): [admin.microsoft.com](https://admin.microsoft.com)
+- [Choose personal email or request an SHHA mailbox](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/quick-start-for-new-volunteers).
+- [Accept a personal-email invitation](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/volunteer-without-shha-email).
+- [Open your own SHHA mailbox or an approved role mailbox](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/volunteer-with-shha-email).
+- [Email the whole committee](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/committee-and-group-email-guide).
+- [Find, upload or edit committee documents](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/committee-sharepoint-guide).
+- [Find a public utility or an authorized Toolbox task](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/public-utilities-and-shha-toolbox).
+- [Follow office setup and handover procedures](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/staff).
 
-## Full Email Directory
-
-### Mailing Lists
-
-- SHHA All Staff + Volunteers: **SHHA-all@sandiahomeowners.org**
-- Board of Directors: **board@sandiahomeowners.org**
-- Admins (Staff + IT): **M365admins@sandiahomeowners.org**
-- Architectural Control Committee (ACC): **ACC@sandiahomeowners.org**
-- Communications &amp; Publications Committee (CPC): **CPC@sandiahomeowners.org**
-- Community Service &amp; Membership Committee (CSMC): **CSMC@sandiahomeowners.org**
-- Covenant Support Committee (CSC): **CSC@sandiahomeowners.org**
-- Environment &amp; Safety Committee (ESC): **ESC@sandiahomeowners.org**
-- Executive Committee (EC): **EC@sandiahomeowners.org**
-- Finance Committee (FC): **FC@sandiahomeowners.org**
-- Governance Committee (GC): **GC@sandiahomeowners.org**
-- IT Help: **ithelp@sandiahomeowners.org**
-
-### Shared Role Inboxes (Officers Only)
-
-Only President, Vice President, Secretary, Treasurer, ACC Chair, and CSC Chair have shared mailboxes. Other committee chairs use their own account and the committee mailing list.
-
-- President: **president@sandiahomeowners.org**
-- Vice President: **vicepresident@sandiahomeowners.org**
-- Secretary: **secretary@sandiahomeowners.org**
-- Treasurer: **treasurer@sandiahomeowners.org**
-- ACC Chair: **accchair@sandiahomeowners.org**
-- CSC Chair: **cscchair@sandiahomeowners.org**
-
-### Other Key Addresses
-
-- Office staff: **office@sandiahomeowners.org**
-- IT support: **ITHelp@sandiahomeowners.org**
-- Archive account (not monitored): **admin@sandiahomeowners.org**
-
-## All Committee SharePoint Links
-
-- Board: [https://shha.sharepoint.com/sites/BOARD/](https://shha.sharepoint.com/sites/BOARD/)
-- ACC: [https://shha.sharepoint.com/sites/ACC/](https://shha.sharepoint.com/sites/ACC/)
-- CPC: [https://shha.sharepoint.com/sites/CPC/](https://shha.sharepoint.com/sites/CPC/)
-- CSMC: [https://shha.sharepoint.com/sites/CSMC/](https://shha.sharepoint.com/sites/CSMC/)
-- CSC: [https://shha.sharepoint.com/sites/CSC/](https://shha.sharepoint.com/sites/CSC/)
-- ESC: [https://shha.sharepoint.com/sites/ESC/](https://shha.sharepoint.com/sites/ESC/)
-- EC: [https://shha.sharepoint.com/sites/EC/](https://shha.sharepoint.com/sites/EC/)
-- FC: [https://shha.sharepoint.com/sites/FC/](https://shha.sharepoint.com/sites/FC/)
-- GC: [https://shha.sharepoint.com/sites/GC/](https://shha.sharepoint.com/sites/GC/)
-
-## Quick Usage Rules
-
-1. Use committee mailing list addresses for group-wide communication.
-2. Use shared role inboxes for role-specific communication.
-3. Upload files to SharePoint first, then send a SharePoint link by email.
-4. External volunteers should use personal email and SharePoint links, not Teams.
-
-## Related Guides
-
-- [Task Group Email Guide](/books/shha-it-help-guide/page/task-group-email-guide)
-- [Volunteer without SHHA Email](/books/shha-it-help-guide/page/volunteer-without-shha-email)
-- [FAQ](/books/shha-it-help-guide/page/faq)
+For an email-address request, contact [office staff](mailto:office@sandiahomeowners.org). For setup or access problems, contact [IT Help](mailto:ithelp@sandiahomeowners.org).
 
 # Role Guides
 
@@ -881,11 +648,17 @@ Only President, Vice President, Secretary, Treasurer, ACC Chair, and CSC Chair h
 
 *This page is for office staff and operations support volunteers.*
 
+When ownership is unchanged, add tenants and other residents manually. Follow [the manual resident guidance](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/record-a-new-occupancy-office-guide#bkmrk-add-tenant-resident); do not use New Occupancy for those additions.
+
+**Any SHHA volunteer who wants their own SHHA email address may have one.** A personal address such as `first.last@sandiahomeowners.org` is available to volunteers as well as staff. Volunteers may also keep using personal email for committee messages and approved SharePoint guest access. Ask office staff for your preferred option; see [account setup and current license costs](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/sop-new-users-mailboxes-groups).
+
+For an email-address request, contact [office staff](mailto:office@sandiahomeowners.org). For setup or access problems, contact [IT Help](mailto:ithelp@sandiahomeowners.org).
+
 For the lobby display, see [Front Office Calendar (DAKboard)](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/front-office-calendar-dakboard) for sign-in, photos and SD-card recovery.
 
 ## New occupancy and welcome visits
 
-For an incoming household, follow [Record a New Occupancy — Office Guide](https://wiki.sandiahomeowners.org/link/37). It shows the website form, printed GRIT and mailing-list setup, directory consent, and the connection to Welcome Visits.
+For a property ownership change, follow [Record a New Occupancy — Office Guide](https://wiki.sandiahomeowners.org/link/37). It shows the website form, printed GRIT and mailing-list setup, directory consent, and the connection to Welcome Visits.
 
 ---
 
@@ -893,7 +666,7 @@ For an incoming household, follow [Record a New Occupancy — Office Guide](http
 
 ## Primary Responsibilities
 
-- Invite new volunteers as external Microsoft users.
+- Ask new volunteers whether they want an SHHA mailbox or prefer personal-email guest access, then follow the matching account procedure.
 - Ensure invitation is accepted before troubleshooting deeper issues.
 - Maintain committee mailing list membership.
 - Coordinate shared role mailbox access changes during transitions.
@@ -916,12 +689,12 @@ For an incoming household, follow [Record a New Occupancy — Office Guide](http
 
 ## Add a New Volunteer
 
-1. Send Microsoft external-user invitation.
-2. Confirm volunteer accepted invitation.
+1. Confirm the volunteer’s email choice. Arrange a requested SHHA mailbox through the account SOP, or send a Microsoft guest invitation to the personal email address.
+2. For a guest, confirm invitation acceptance. For an SHHA account, confirm first sign-in and mailbox setup.
 3. Add volunteer to committee mailing list.
 4. Provide direct committee SharePoint link.
 
-<div id="bkmrk-see-also%3A-sop%3A-add-a">**See also:** [SOP: Add a person to a committee mailing list](https://wiki.sandiahomeowners.org/shha-microsoft-365-email-groups-roles.html#sop-add)</div>---
+<div id="bkmrk-see-also%3A-sop%3A-add-a">**See also:** [SOP: Add a person to a committee mailing list](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/m365-email-groups-role-inboxes-responsibilities)</div>---
 
 <a id="bkmrk--11"></a>
 
@@ -929,9 +702,9 @@ For an incoming household, follow [Record a New Occupancy — Office Guide](http
 
 1. Remove prior role holder's access.
 2. Grant new role holder access.
-3. Confirm mailbox appears in new holder's Outlook.
+3. Grant both Full Access and Send As to the new holder’s own licensed SHHA account. Have them manually add the role mailbox if needed, then test opening, reading and sending from the role address.
 
-<div id="bkmrk-see-also%3A-sop%3A-leade">**See also:** [SOP: Leadership transition for role inbox](https://wiki.sandiahomeowners.org/shha-microsoft-365-email-groups-roles.html#sop-transition)</div>---
+<div id="bkmrk-see-also%3A-sop%3A-leade">**See also:** [SOP: Leadership transition for role inbox](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/m365-email-groups-role-inboxes-responsibilities)</div>---
 
 <a id="bkmrk--14"></a>
 
@@ -939,19 +712,23 @@ For an incoming household, follow [Record a New Occupancy — Office Guide](http
 
 - Most volunteers do not need paid licenses.
 - SharePoint links are preferred over attachments.
-- External users often cannot use direct group-sharing in file dialogs.
+- Committee files belong in the committee SharePoint Documents library. A copied link does not replace approved access permissions.
 
 ### Related Pages
 
-- [Overview](https://wiki.sandiahomeowners.org/overview.html)
-- [FAQ](https://wiki.sandiahomeowners.org/faq.html)
-- [Quick Reference](https://wiki.sandiahomeowners.org/quick-reference.html)
-- [M365 Email Groups &amp; Roles](https://wiki.sandiahomeowners.org/shha-microsoft-365-email-groups-roles.html)
-- [Specialty Topics](https://wiki.sandiahomeowners.org/specialty-topics.html)
+- [Overview](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/overview)
+- [FAQ](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/faq)
+- [Quick Reference](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/quick-reference)
+- [M365 Email Groups &amp; Roles](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/m365-email-groups-role-inboxes-responsibilities)
+- [Specialty Topics](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/systems-inventory)
 
 # Volunteer with SHHA Email
 
 *This page is for volunteers who already have an SHHA mailbox and may also have role-based inbox access.*
+
+**Any SHHA volunteer who wants their own SHHA email address may have one.** A personal address such as `first.last@sandiahomeowners.org` is available to volunteers as well as staff. Volunteers may also keep using personal email for committee messages and approved SharePoint guest access. Ask office staff for your preferred option; see [account setup and current license costs](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/sop-new-users-mailboxes-groups).
+
+For an email-address request, contact [office staff](mailto:office@sandiahomeowners.org). For setup or access problems, contact [IT Help](mailto:ithelp@sandiahomeowners.org).
 
 ---
 
@@ -1019,13 +796,15 @@ Avoid one-off attachments for files that should remain in committee records.
  
 ### Related Pages
 
-- [Overview](overview.html)
-- [FAQ](faq.html)
-- [Quick Reference](quick-reference.html)
+- [Overview](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/overview)
+- [FAQ](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/faq)
+- [Quick Reference](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/quick-reference)
 
 # Office Onboarding Email Templates
 
 **Purpose:** Copy-and-send welcome emails from SHHA Office or IT Help **to the newly onboarded employee, volunteer, or committee members**.
+
+The licensed-user template applies to volunteers as well as staff. Any SHHA volunteer may request an SHHA email address; see [account setup and license costs](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/sop-new-users-mailboxes-groups) before arranging the account.
 
 Choose the matching scenario, replace every item in square brackets, delete lines that do not apply, and send the completed message to the new users. These are not internal setup notifications; they tell the recipients that setup is complete and explain what they should do next.
 
@@ -1041,9 +820,9 @@ Choose the matching scenario, replace every item in square brackets, delete line
 - For external users, never include OneDrive instructions. External committee members use SharePoint in a browser.
 - Keep the direct SharePoint link in the message. Do not make recipients hunt for it.
 
-## Template 1: New Internal Staff User
+## Template 1: New licensed SHHA account
 
-**Use for:** a staff member receiving a licensed `@sandiahomeowners.org` account.
+**Use for:** a volunteer or staff member receiving a licensed `@sandiahomeowners.org` account.
 
 **Suggested wiki link:** [Volunteer with SHHA Email](/books/shha-it-help-guide/page/volunteer-with-shha-email) or [Quick Reference](/books/shha-it-help-guide/page/quick-reference).
 
@@ -1214,15 +993,19 @@ Thank you,
 
 This page is for volunteers who participate using a personal email address. You usually do **not** need a paid Microsoft license.
 
+**Any SHHA volunteer who wants their own SHHA email address may have one.** A personal address such as `first.last@sandiahomeowners.org` is available to volunteers as well as staff. Volunteers may also keep using personal email for committee messages and approved SharePoint guest access. Ask office staff for your preferred option; see [account setup and current license costs](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/sop-new-users-mailboxes-groups).
+
+For an email-address request, contact [office staff](mailto:office@sandiahomeowners.org). For setup or access problems, contact [IT Help](mailto:ithelp@sandiahomeowners.org).
+
 ## First-Time Setup
 
-1. Look for the two Microsoft emails described below.
+1. Look for the SHHA organization invitation. A separate group/Teams message may also arrive; you do not need to wait for two emails.
 2. Open the organization invitation email and click **Accept invitation**.
 3. Use that same email address when prompted to sign in.
-4. Open your committee SharePoint link from the [Quick Reference](/books/shha-it-help-guide/page/quick-reference) page.
+4. Open your committee SharePoint link from the [Quick Links &amp; Directory](/books/shha-it-help-guide/page/quick-links-directory) page.
 5. Confirm you receive committee mailing list messages.
 
-## The 2 Emails You Should Expect
+## Invitation messages you may receive
 
 ### 1) Organization invitation email (expected but confusing)
 
@@ -1237,15 +1020,15 @@ The email usually includes:
 
 This is the important one. Click **Accept invitation** to activate your access.
 
-After you click **Accept invitation**, Microsoft may bring you to a page that does not make much sense. This is normal and is just a Microsoft quirk. Use the direct links on the [Quick Reference](/books/shha-it-help-guide/page/quick-reference) page for useful pages and mailing lists.
+After you click **Accept invitation**, Microsoft may bring you to a page that does not make much sense. This is normal and is just a Microsoft quirk. Use the direct links on the [Quick Links &amp; Directory](/books/shha-it-help-guide/page/quick-links-directory) page for useful pages and mailing lists.
 
-### 2) Group/team invitation email (expected but confusing)
+### 2) Optional group or Teams message
 
 You may also get an email with a subject like **"You have been added to a team in Microsoft Teams"**.
 
 This is a default Microsoft message and cannot be customized by SHHA.
 
-For external volunteers, we do **not** recommend using Teams for SHHA work. Instead, follow the SharePoint links on the [Quick Reference](/books/shha-it-help-guide/page/quick-reference) page for the groups you are part of.
+For external volunteers, we do **not** recommend using Teams for SHHA work. Instead, follow the SharePoint links on the [Quick Links &amp; Directory](/books/shha-it-help-guide/page/quick-links-directory) page for the groups you are part of.
 
 ## What You Can Expect
 
@@ -1267,7 +1050,7 @@ For external volunteers, we do **not** recommend using Teams for SHHA work. Inst
 2. Copy link.
 3. Email link to committee list.
 
-See [FAQ](/books/shha-it-help-guide/page/faq#can-i-share-a-file-directly-to-the-committee-mailing-list-from-sharepoint) for step-by-step sharing instructions.
+See [FAQ](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/committee-sharepoint-guide) for step-by-step sharing instructions.
 
 ## Need Help?
 
@@ -1277,11 +1060,13 @@ Contact <ITHelp@sandiahomeowners.org> if you cannot access files or receive comm
 
 - [Overview](/books/shha-it-help-guide/page/overview)
 - [FAQ](/books/shha-it-help-guide/page/faq)
-- [Quick Reference](/books/shha-it-help-guide/page/quick-reference)
+- [Quick Links &amp; Directory](/books/shha-it-help-guide/page/quick-links-directory)
 
 # New Board Member Guide
 
 *Welcome to the Board. The good news: there is no secret handshake. The mildly annoying news: Microsoft may still ask you to sign in like there is one.*
+
+**First action:** confirm which email address the office has added to the Board group. You can use personal email with an accepted guest invitation, or request your own SHHA mailbox. Start with [the volunteer quick start](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/quick-start-for-new-volunteers), then open Board documents.
 
 ## Short Version
 
@@ -1347,14 +1132,21 @@ A helpful agenda request includes:
 
 # Record a New Occupancy — Office Guide
 
-**For SHHA office staff recording an incoming household.** Use the website's **New Occupancy** form when new residents move into an existing address. Start on the [website Addresses page](https://sandiahomeowners.org/private/sixgweb/associationaddresses/addresses) using your authorized office account.
+**For SHHA office staff recording a property ownership change.** Use the website's **New Occupancy** form only when ownership changes. Add a tenant or other resident manually when ownership is unchanged. Start on the [website Addresses page](https://sandiahomeowners.org/private/sixgweb/associationaddresses/addresses) using your authorized office account.
 
 **The standard setup:** mail the printed GRIT, select all three mailing lists shown on the form, and leave directory name and phone unchecked unless the resident has given permission. Residents can change their preferences when they log into their website account later.
+
+## Add a tenant or resident without changing ownership
+
+1. Confirm the property and the person being added. Keep the existing ownership record; do not use New Occupancy for this task.
+2. Add the tenant or other resident manually through the website's existing resident/account process. Check for an existing account and use the correct resident role. Ask [IT Help](mailto:ithelp@sandiahomeowners.org) if the account or manual process is unclear.
+3. Check the person's association with the correct address. Review the relevant membership, delivery and directory settings without assuming a change of ownership or permission to publish contact details.
+4. If the addition should appear in Welcome Visits, refresh its website data and check the date source and household. Account/link dates are estimates, not proof of a move-in date.
 
 ## 1. Open New Occupancy
 
 1. In website administration, go to **Association → Addresses**.
-2. Choose **New Occupancy**, beside New Address. Use New Occupancy for the incoming residents at an existing property.
+2. Choose **New Occupancy**, beside New Address, only for a property ownership change. For tenants or other residents added without an ownership change, use the manual process below.
 
 [![Website Addresses page showing the New Occupancy button between New Address and Export Results](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/scaled-1680-/screenshot-2026-11-01-at-9-13-58-pm.png)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/screenshot-2026-11-01-at-9-13-58-pm.png)
 
@@ -1366,7 +1158,7 @@ A helpful agenda request includes:
 2. Enter the household's **Occupancy Starts At** date. Use the actual known start date; do not copy the example date or use an account-creation date as a substitute. If the date is uncertain, confirm it with the office before recording it as the occupancy start.
 3. Set **Is Member** to the household's confirmed membership status. The switch is on in the example; that does not establish the correct membership status for every household.
 4. Set **Has Mailing Address** only when a separate mailing address applies, and enter the appropriate mailing details.
-5. Under **Residents**, add each resident's name and correct role. Email and phone are optional. Use the correct email when available: the form reuses an existing account if its email matches. Do not enter the test details from the screenshot.
+5. Under **Residents**, add each resident's name and correct role. Email and phone are optional. Use the correct email when available. Check for an existing website account before creating another; confirm an uncertain match with IT Help rather than assuming that an automatic match identifies the right person. Do not enter the test details from the screenshot.
 
 ## 3. Check delivery, mailing-list and directory preferences
 
@@ -1391,7 +1183,7 @@ Save the form and confirm the website accepted the record. Let the residents kno
 
 The recorded occupancy start feeds the [Welcome Visits page in SHHA Toolbox](https://toolbox.sandiahomeowners.org/welcome-visits). After saving, authorized staff or welcome volunteers can open that tool and refresh its website data to review the incoming household. Website administration access and Toolbox access are separate.
 
-**Why use this form?** The website's recorded occupancy start is the primary source for Welcome Visits. If residents are assigned to an address without a recorded occupancy for that household, the tool makes a best estimate from when residents were linked to the address, falling back to account-creation dates when a link date is missing. Those timestamps are review clues, not confirmed move-in dates. Check the household and date before arranging a visit.
+**How Welcome Visits uses dates:** the website's recorded occupancy start is its primary date source. This does not mean the New Occupancy form should be used for tenants or other resident additions; use it only for ownership changes. If residents are assigned to an address without a recorded occupancy for that household, the tool makes a best estimate from when residents were linked to the address, falling back to account-creation dates when a link date is missing. Those timestamps are review clues, not confirmed move-in dates. Check the household and date before arranging a visit.
 
 Need help with the form or an unexpected welcome entry? Contact [IT Help](mailto:ithelp@sandiahomeowners.org). For other office procedures, return to the [Staff guide](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/staff).
 
@@ -1448,6 +1240,10 @@ After reconnecting, return to the kiosk and try again.
 
 *Answers for SHHA volunteers, officers, and committee members. Find your question in the sidebar or scroll through the sections below.*
 
+**Any SHHA volunteer who wants their own SHHA email address may have one.** A personal address such as `first.last@sandiahomeowners.org` is available to volunteers as well as staff. Volunteers may also keep using personal email for committee messages and approved SharePoint guest access. Ask office staff for your preferred option; see [account setup and current license costs](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/sop-new-users-mailboxes-groups).
+
+For an email-address request, contact [office staff](mailto:office@sandiahomeowners.org). For setup or access problems, contact [IT Help](mailto:ithelp@sandiahomeowners.org).
+
 ---
 
 <a id="bkmrk--1"></a>## I was invited but cannot access files. What is usually wrong?
@@ -1476,13 +1272,13 @@ As a guest you can:
 - Open and edit documents shared with you on SharePoint
 - View files in your web browser without installing any software
  
-Only SHHA office staff and IT administrators need paid licenses.
+A volunteer may also request a personal SHHA email address. Each SHHA mailbox needs an appropriate paid license, including an officer’s personal account used to open a shared role mailbox. An email license does not grant administrator rights.
 
 <div id="bkmrk-microsoft-help%3A-what">**Microsoft help:** [What is guest access in Microsoft 365 Groups?](https://support.microsoft.com/en-us/office/adding-guests-to-microsoft-365-groups-bfc7a840-868f-4fd6-a390-f347bf51aff6)</div>---
 
 <a id="bkmrk--5"></a>## Do I need to create a new username or password?
 
-**No.** Use the same personal email address that received your SHHA invitation (e.g., your Gmail, Yahoo Mail, Outlook.com, or iCloud address).
+**For personal-email guest access:** use the same personal email address that received your SHHA invitation (e.g., your Gmail, Yahoo Mail, Outlook.com, or iCloud address).
 
 - **If that email is already a Microsoft account** (any @outlook.com, @hotmail.com, or @live.com address, or a personal email you previously registered), sign in with its existing password.
 - **If it is not a Microsoft account**, Microsoft will either send a **one-time passcode** by email each time you sign in, or prompt you to create a free Microsoft account.
@@ -1491,7 +1287,7 @@ Only SHHA office staff and IT administrators need paid licenses.
 
 <a id="bkmrk--7"></a>## Can I share a file directly to the committee mailing list from SharePoint?
 
-**Not reliably** when the group includes external members using personal email addresses, which most SHHA groups do.
+For SHHA committee work, put the file in the committee Documents library first. Access depends on approved permissions, not the email suffix. Copying a link and granting access are separate actions.
 
 Do not use **Share** or **Copy link** to grant a Board or committee group access. Move the file into the correct group SharePoint document library instead. Access comes from membership in that group's SharePoint/Microsoft 365 group.
 
@@ -1539,7 +1335,7 @@ Because one address is for the person and one is for the office. It is a little 
 
 The shared President inbox is what lets the next President inherit the useful history instead of starting with an empty mailbox and a hopeful shrug. For official President business, use `president@sandiahomeowners.org`.
 
-See [Why The President Has Two Email Addresses](/books/shha-it-help-guide/page/volunteer-with-shha-email#why-president-has-two-addresses) for the fuller explanation.
+See [Why The President Has Two Email Addresses](/books/shha-it-help-guide/page/volunteer-with-shha-email#bkmrk-why-the-president-ha) for the fuller explanation.
 
 ---
 
@@ -1581,13 +1377,13 @@ Only deviate from this if office staff specifically requests materials a differe
 
 <a id="bkmrk--18"></a>## Why am I not getting Board reminder emails?
 
-Board meeting reminders are sent from a **shared Google Calendar** workflow, not Microsoft 365. Common reasons:
+Board meeting reminders use **SHHA Toolbox → Reminders** and the Microsoft 365 Board meeting invitation. Staff must review and activate the reminder setup; a calendar event alone does not send email.
 
-- **Check Spam / Junk.** Automated calendar reminders often get filtered.
-- **Verify your email address** in the Google Calendar sharing settings. If you changed emails, reminders may go to your old address.
-- **Confirm you accepted the Google Calendar invitation.** You may have received a separate sharing email from Google.
- 
-If none of the above resolves it, contact office staff or **ITHelp@sandiahomeowners.org**.
+1. Check Spam/Junk and tell office staff which meeting and email address are affected.
+2. Staff should confirm the Board meeting invitation includes admin@sandiahomeowners.org, refresh calendars, then check the active reminder setup, recipients, actual send dates and Delivery history.
+3. If delivery remains unresolved, contact IT Help with the meeting date and missing message details.
+
+Receiving reminders does not require access to the staff tool. See [SHHA Reminders](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/shha-reminders).
 
 ---
 
@@ -1595,7 +1391,7 @@ If none of the above resolves it, contact office staff or **ITHelp@sandiahomeown
 
 There is **no single Microsoft website for everything.** Which site you use depends on what you need:
 
- <table id="bkmrk-what-you-need-to-dow"> <thead> <tr><th>What you need to do</th><th>Where to go</th><th>Who uses it</th></tr> </thead> <tbody> <tr> <td>**Open committee files**</td> <td>Your committee's **SharePoint link** (from your chair or ITHelp). You can also browse [sandiahomeowners.sharepoint.com](https://sandiahomeowners.sharepoint.com)</td> <td>All volunteers</td> </tr> <tr> <td>**Read / send role mailbox email**</td> <td>[outlook.office.com](https://outlook.office.com) — sign in with your `@sandiahomeowners.org` account</td> <td>The six officer roles</td> </tr> <tr> <td>**Manage your Microsoft account**</td> <td>[account.microsoft.com](https://account.microsoft.com) — reset password, update security info</td> <td>Anyone with a Microsoft account</td> </tr> <tr> <td>**Access personal OneDrive files**</td> <td>[onedrive.live.com](https://onedrive.live.com) (personal) or your SharePoint library (SHHA files)</td> <td>Limited use</td> </tr> </tbody> </table>
+ <table id="bkmrk-what-you-need-to-dow"> <thead> <tr><th>What you need to do</th><th>Where to go</th><th>Who uses it</th></tr> </thead> <tbody> <tr> <td>**Open committee files**</td> <td>Your committee's **SharePoint link** (from your chair or ITHelp). You can also browse [Quick Links &amp; Directory for the correct site](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/quick-links-directory)</td> <td>All volunteers</td> </tr> <tr> <td>**Read / send role mailbox email**</td> <td>[outlook.office.com](https://outlook.office.com) — sign in with your `@sandiahomeowners.org` account</td> <td>The six officer roles</td> </tr> <tr> <td>**Manage your Microsoft account**</td> <td>[account.microsoft.com](https://account.microsoft.com) — reset password, update security info</td> <td>Anyone with a Microsoft account</td> </tr> <tr> <td>**Access personal OneDrive files**</td> <td>[onedrive.live.com](https://onedrive.live.com) (personal) or your SharePoint library (SHHA files)</td> <td>Limited use</td> </tr> </tbody> </table>
 
 <div id="bkmrk-tip%3A-most-volunteers">**Tip:** Most volunteers just click a SharePoint link someone emailed them. You do not need to remember a general login page.</div><div id="bkmrk-microsoft-help%3A-sign">**Microsoft help:** [Sign in to Microsoft 365](https://support.microsoft.com/en-us/office/sign-in-to-microsoft-365-e9eb7d51-5430-4929-91ab-6157c5a050b4)</div>---
 
@@ -1708,7 +1504,7 @@ There is **no automatic overlap**. If you want your successor to start seeing em
 
  <table id="bkmrk-actionwho-handles-it"> <thead><tr><th>Action</th><th>Who handles it</th></tr></thead> <tbody> <tr><td>Notify staff of the change</td><td>Outgoing or incoming person, or chair</td></tr> <tr><td>Add / remove people from mailing lists</td><td>**Office staff** (Anna)</td></tr> <tr><td>Grant / revoke shared mailbox access</td><td>**ITHelp / IT admin**</td></tr> <tr><td>Preserve email history in role mailbox</td><td>Automatic — the mailbox retains everything</td></tr> </tbody> </table>
 
-<div id="bkmrk-for-the-president-an">**For the President and executive officers:** You do not need to know the technical steps — staff and ITHelp handle them. Your job is to make sure the transition is **communicated to office staff promptly**.</div>*Staff who need to administer these changes should see the [Staff](staff.html) page and the [M365 Email Groups &amp; Roles](shha-microsoft-365-email-groups-roles.html) reference.*
+<div id="bkmrk-for-the-president-an">**For the President and executive officers:** You do not need to know the technical steps — staff and ITHelp handle them. Your job is to make sure the transition is **communicated to office staff promptly**.</div>*Staff who need to administer these changes should see the [Staff](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/staff) page and the [M365 Email Groups &amp; Roles](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/m365-email-groups-role-inboxes-responsibilities) reference.*
 
 ---
 
@@ -1735,7 +1531,7 @@ There is **no automatic overlap**. If you want your successor to start seeing em
 
 Meeting minutes are typically stored in the committee's **SharePoint document library**.
 
-1. Open your committee's **SharePoint site** (see [SharePoint access](#sharepoint-access) above).
+1. Open your committee's **SharePoint site** (see [SharePoint access](#bkmrk-i-was-invited-but-ca) above).
 2. Click **Documents** in the left sidebar.
 3. Look for a folder called **"Minutes"**, **"Meeting Minutes"**, or similar. Some committees organize by year (e.g., `Documents > 2026 > Minutes`).
 4. Click into the folder to see individual files.
@@ -1746,29 +1542,9 @@ Meeting minutes are typically stored in the committee's **SharePoint document li
 
 <a id="bkmrk--40"></a>## How do I submit an article for The GRIT newsletter?
 
-The GRIT is SHHA's community newsletter. Articles go to the GRIT editor (Communication &amp; Publication Committee) on a monthly cycle.
+Use the [GRIT content rules and submission guide](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/grit-content-rules-and-submission-guide) to choose a contribution type and prepare your files, then submit through [the GRIT Submission Portal](https://sandiaheightsgrit.app/). That guide maintains the deadline and approved rules.
 
-### President's Letter
-
- <table id="bkmrk-frequencymonthly-%E2%80%94-o"> <tbody> <tr><td>**Frequency**</td><td>Monthly — one per issue</td></tr> <tr><td>**Word count**</td><td>Typically 300–500 words (confirm with the editor)</td></tr> <tr><td>**Format**</td><td>Word document (.docx) or email body text</td></tr> <tr><td>**Deadline**</td><td>Usually mid-month for next month's issue (e.g., mid-Feb for March). Confirm with the editor.</td></tr> <tr><td>**Images**</td><td>Attach high-res JPEG or PNG as a *separate* file. Include a caption.</td></tr> </tbody> </table>
-
-### Other articles (committee reports, events, features)
-
-- **Who can submit:** Board members, committee chairs, authorized volunteers. Ask your chair if unsure.
-- **Word count:** Short announcements 100–200 words; features 500+ words. Check with the editor.
-- **How to submit:** Same process — email article + images to the GRIT editor.
-- **Deadline:** Same monthly deadline as the President's Letter.
- 
-### Tips for GRIT submissions
-
-- **Submit early.** Late submissions may be held for the next issue.
-- **Proofread** before submitting.
-- **Include a headline/title.**
-- **Provide photo credits** if images are not your own.
- 
-Not sure who the current GRIT editor is? Email **office@sandiahomeowners.org**.
-
-*For the layout/design process (GRIT editor only), see [GRIT Layout Monthly Guide](grit-layout.html).*
+For editorial questions or help submitting, email <griteditor@sandiahomeowners.org>. For production work, use the [monthly editor procedure](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/grit-monthly-editor-procedure).
 
 ---
 
@@ -2407,6 +2183,10 @@ For [Google Drive sharing and inherited access](https://support.google.com/drive
 
 *Operational reference for office staff, IT admin, and future volunteers — mailing lists, shared mailboxes, licensing, SOPs, and governance.*
 
+**Any SHHA volunteer who wants their own SHHA email address may have one.** A personal address such as `first.last@sandiahomeowners.org` is available to volunteers as well as staff. Volunteers may also keep using personal email for committee messages and approved SharePoint guest access. Ask office staff for your preferred option; see [account setup and current license costs](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/sop-new-users-mailboxes-groups).
+
+For an email-address request, contact [office staff](mailto:office@sandiahomeowners.org). For setup or access problems, contact [IT Help](mailto:ithelp@sandiahomeowners.org).
+
 ---
 
 <a id="bkmrk--1"></a>## Quick Overview
@@ -2421,7 +2201,7 @@ SHHA uses two different patterns for email collaboration:
 
 - **Role continuity over individual ownership** — email addresses stay constant when people rotate in/out.
 - **Least cost for volunteers** — external volunteers do not require paid M365 licenses.
-- **Operational traceability** — group membership changes trigger Power Automate notifications.
+- **Membership awareness** — Toolbox’s Automatic emailer reports detected changes according to timing and delivery settings; verify membership in Microsoft 365.
 - **Institutional archive** — `admin@` is included in all groups as a permanent archive recipient.
  
 ---
@@ -2466,9 +2246,9 @@ Each incoming officer receives both **Full Access** and **Send As** permission t
  
 ---
 
-<a id="bkmrk--11"></a>## Power Automate Membership Notifications
+<a id="bkmrk--11"></a>## Toolbox Automatic emailer notifications
 
-A Power Automate flow sends email notifications whenever group membership changes.
+SHHA Toolbox’s Automatic emailer observes Microsoft 365 groups automatically. A first successful read establishes a baseline without an introductory email. Mailing-list timing can be Instant, Daily digest or Off. Confirm membership in Microsoft 365; a missing notification does not prove a membership edit failed. Review Recent emails and service status for delivery questions.
 
 - Provides audit visibility.
 - Alerts staff to unexpected changes.
@@ -2478,23 +2258,23 @@ A Power Automate flow sends email notifications whenever group membership change
 
 <a id="bkmrk--13"></a>## Licensing and External Volunteers
 
- <table id="bkmrk-user-typelicense-nee"> <thead><tr><th>User type</th><th>License needed?</th><th>Capabilities</th></tr></thead> <tbody> <tr><td>External volunteers</td><td>**No**</td><td>Group email delivery, SharePoint guest access</td></tr> <tr><td>Licensed staff / admin</td><td>Yes (paid M365)</td><td>Group administration, shared mailbox access, full portal</td></tr> </tbody> </table>
+ <table id="bkmrk-user-typelicense-nee"> <thead><tr><th>User type</th><th>License needed?</th><th>Capabilities</th></tr></thead> <tbody> <tr><td>External volunteers</td><td>**No**</td><td>Group email delivery, SharePoint guest access</td></tr> <tr><td>Licensed volunteer, officer or staff member</td><td>Yes (paid M365)</td><td>Own SHHA mailbox; approved shared-mailbox access where applicable. Administrator rights require separate authorization.</td></tr> </tbody> </table>
 
 ---
 
 <a id="bkmrk--15"></a>## Responsibilities Matrix
 
- <table id="bkmrk-responsibilityprimar"> <thead><tr><th>Responsibility</th><th>Primary</th><th>Backup</th><th>Notes</th></tr></thead> <tbody> <tr><td>Maintain committee group membership</td><td>Anna (staff)</td><td>IT admin</td><td>Add/remove members, verify accuracy</td></tr> <tr><td>Manage shared mailbox permissions</td><td>Anna + IT admin</td><td>IT admin</td><td>Remove predecessor, add successor</td></tr> <tr><td>Ensure `admin@` in all groups</td><td>IT admin</td><td>Anna</td><td>Required for archive continuity</td></tr> <tr><td>Monitor membership-change notifications</td><td>Anna</td><td>IT admin</td><td>Power Automate emails = operational signal</td></tr> <tr><td>Troubleshoot delivery/access issues</td><td>IT admin</td><td>Anna</td><td>Includes mailbox permissions and group settings</td></tr> </tbody> </table>
+ <table id="bkmrk-responsibilityprimar"> <thead><tr><th>Responsibility</th><th>Primary</th><th>Backup</th><th>Notes</th></tr></thead> <tbody> <tr><td>Maintain committee group membership</td><td>Anna (staff)</td><td>IT admin</td><td>Add/remove members, verify accuracy</td></tr> <tr><td>Manage shared mailbox permissions</td><td>Anna + IT admin</td><td>IT admin</td><td>Remove predecessor, add successor</td></tr> <tr><td>Ensure `admin@` in all groups</td><td>IT admin</td><td>Anna</td><td>Required for archive continuity</td></tr> <tr><td>Monitor membership-change notifications</td><td>Anna</td><td>IT admin</td><td>Review Automatic emailer status and Recent emails</td></tr> <tr><td>Troubleshoot delivery/access issues</td><td>IT admin</td><td>Anna</td><td>Includes mailbox permissions and group settings</td></tr> </tbody> </table>
 
 ---
 
 <a id="bkmrk--17"></a>## SOP: Add a Person to a Committee Mailing List
 
 1. Confirm committee and target group address.
-2. Verify whether person is internal staff or external volunteer.
+2. Ask whether the person wants their own SHHA mailbox or will use personal email as an invited guest.
 3. Add to the correct Microsoft Group membership.
 4. Confirm `admin@` remains a member.
-5. Verify Power Automate sends membership-change notification.
+5. Confirm membership directly in Microsoft 365. Review Automatic emailer timing and Recent emails; Off or Daily timing can explain why an immediate notice did not arrive.
 6. Ask the group owner or new member to test delivery, or send a test message yourself.
  
 ---
@@ -2503,7 +2283,7 @@ A Power Automate flow sends email notifications whenever group membership change
 
 1. Confirm removal request and effective date.
 2. Remove member from the Microsoft Group.
-3. Verify Power Automate notification is received.
+3. Confirm the removal directly in Microsoft 365; review Automatic emailer timing and Recent emails when checking delivery.
 4. If person held one of the six officer roles, check related shared mailbox permissions.
  
 ---
@@ -2600,18 +2380,24 @@ Maintain a simple inventory table (in the wiki or internal operations file) with
 
 SHHA uses four distinct patterns for email addresses in Microsoft 365. Before requesting any new address, understand which pattern fits your need. This page is the reference for anyone planning new committees, roles, or special-purpose addresses.
 
+Shared-mailbox licensing details: [Microsoft shared mailbox guidance](https://learn.microsoft.com/en-us/microsoft-365/admin/email/about-shared-mailboxes?view=o365-worldwide).
+
+**Any SHHA volunteer who wants their own SHHA email address may have one.** A personal address such as `first.last@sandiahomeowners.org` is available to volunteers as well as staff. Volunteers may also keep using personal email for committee messages and approved SharePoint guest access. Ask office staff for your preferred option; see [account setup and current license costs](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/sop-new-users-mailboxes-groups).
+
+For an email-address request, contact [office staff](mailto:office@sandiahomeowners.org). For setup or access problems, contact [IT Help](mailto:ithelp@sandiahomeowners.org).
+
 ## The Four Patterns at a Glance
 
-<table id="bkmrk-patternwhat-it-isexa"><thead><tr><th>Pattern</th><th>What it is</th><th>Example</th><th>When to use it</th></tr></thead><tbody><tr><td>**Personal mailbox**; `first.last@sandiahomeowners.org`</td><td>A licensed M365 account owned by one person. Has its own login, calendar, OneDrive, etc.</td><td>`anna.smith@sandiahomeowners.org`</td><td>Office staff and IT admins who need to *log in* to Microsoft 365 and perform admin tasks. **Costs a license.**</td></tr><tr><td>**Shared mailbox**; `role@sandiahomeowners.org`</td><td>A mailbox tied to a *position*, not a person. Multiple licensed users can open it from their own account. Retains full email history across holders.</td><td>`president@sandiahomeowners.org`; `cscchair@sandiahomeowners.org`</td><td>Only one of SHHA's six officer roles: President, Vice President, Secretary, Treasurer, ACC Chair, or CSC Chair. Each officer receives Full Access and Send As through the officer's own licensed account.</td></tr><tr><td>**Mailing list (Microsoft Group)**; `committee@sandiahomeowners.org`</td><td>A distribution group. Email sent to the address is delivered to every current member — including external guests who have no M365 license.</td><td>`csc@sandiahomeowners.org`; `shha-all@sandiahomeowners.org`</td><td>Any group of people who need to receive the same email. Most committees have one. **No license cost** for external members.</td></tr><tr><td>**Alias**; *(additional address on an existing mailbox or group)*</td><td>An extra email address that delivers to an existing mailbox or group. Not a separate mailbox — just an alternative address for the same destination.</td><td>`wildfire@sandiahomeowners.org` → delivers to the ESC group or a specific shared mailbox</td><td>One-off or special-purpose addresses (task forces, events, topical inboxes) where you do **not** need a separate mailbox with its own history. Use when you want a memorable address that maps to something that already exists.</td></tr></tbody></table>
+<table id="bkmrk-patternwhat-it-isexa"><thead><tr><th>Pattern</th><th>What it is</th><th>Example</th><th>When to use it</th></tr></thead><tbody><tr><td>**Personal mailbox**; `first.last@sandiahomeowners.org`</td><td>A licensed M365 account owned by one person. Has its own login, calendar, OneDrive, etc.</td><td>`anna.smith@sandiahomeowners.org`</td><td>Any volunteer who requests an SHHA email address, plus staff needing an account. Requires a paid license; an email account does not grant administrator rights.</td></tr><tr><td>**Shared mailbox**; `role@sandiahomeowners.org`</td><td>A mailbox tied to a *position*, not a person. Multiple licensed users can open it from their own account. Retains full email history across holders.</td><td>`president@sandiahomeowners.org`; `cscchair@sandiahomeowners.org`</td><td>Only one of SHHA's six officer roles: President, Vice President, Secretary, Treasurer, ACC Chair, or CSC Chair. Each officer receives Full Access and Send As through the officer's own licensed account.</td></tr><tr><td>**Mailing list (Microsoft Group)**; `committee@sandiahomeowners.org`</td><td>A Microsoft 365 group with a committee email address and connected collaboration resources. Configured inbox delivery sends copies to members, including invited guests. It is different from an Exchange distribution list.</td><td>`csc@sandiahomeowners.org`; `shha-all@sandiahomeowners.org`</td><td>Any group of people who need to receive the same email. Most committees have one. **No license cost** for external members.</td></tr><tr><td>**Alias**; *(additional address on an existing mailbox or group)*</td><td>An extra email address that delivers to an existing mailbox or group. Not a separate mailbox — just an alternative address for the same destination.</td><td>`wildfire@sandiahomeowners.org` → delivers to the ESC group or a specific shared mailbox</td><td>One-off or special-purpose addresses (task forces, events, topical inboxes) where you do **not** need a separate mailbox with its own history. Use when you want a memorable address that maps to something that already exists.</td></tr></tbody></table>
 
 ## Which Pattern Do I Need?
 
 Walk through these questions when planning a new email address:
 
-1. **Does one specific person need to log in to M365 and perform admin tasks?**
+1. **Does a volunteer or staff member want their own SHHA email mailbox?**
     - Yes → **Personal mailbox** (requires a license; talk to IT admin)
     - No → continue
-2. **Does the address need its own persistent inbox that survives personnel changes?**
+2. **Is this one of the six designated officer role inboxes that must survive personnel changes?**
     - Yes → **Shared mailbox**
     - No → continue
 3. **Does the address need to deliver to a group of people?**
@@ -2635,7 +2421,7 @@ Every mailing list (Microsoft Group) **must** include `admin@sandiahomeowners.or
 
 ## Cost Summary
 
-<table id="bkmrk-patternlicense-cost-"><thead><tr><th>Pattern</th><th>License cost</th></tr></thead><tbody><tr><td>Personal mailbox</td><td>Requires a paid M365 license</td></tr><tr><td>Shared mailbox</td><td>Free (up to 50 GB; no license unless it exceeds the limit)</td></tr><tr><td>Mailing list (Group)</td><td>Free</td></tr><tr><td>Alias</td><td>Free (added to an existing mailbox or group)</td></tr></tbody></table>
+<table id="bkmrk-patternlicense-cost-"><thead><tr><th>Pattern</th><th>License cost</th></tr></thead><tbody><tr><td>Personal mailbox</td><td>Requires a paid M365 license</td></tr><tr><td>Shared mailbox</td><td>Usually no separate mailbox license up to 50 GB. Delegates need licensed Exchange Online mailboxes; archiving, hold and advanced features can require additional licenses.</td></tr><tr><td>Mailing list (Group)</td><td>Free</td></tr><tr><td>Alias</td><td>Free (added to an existing mailbox or group)</td></tr></tbody></table>
 
 ## Where to Go Next
 
@@ -2648,13 +2434,19 @@ Every mailing list (Microsoft Group) **must** include `admin@sandiahomeowners.or
 
 This SOP is written for SHHA staff who are comfortable with basic Microsoft admin work and need a reliable step-by-step process for setting up new groups, shared mailboxes, and related addresses.
 
+**Any SHHA volunteer who wants their own SHHA email address may have one.** A personal address such as `first.last@sandiahomeowners.org` is available to volunteers as well as staff. Volunteers may also keep using personal email for committee messages and approved SharePoint guest access. Ask office staff for your preferred option; see [account setup and current license costs](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/sop-new-users-mailboxes-groups).
+
+**License cost:** SHHA currently pays about **$7 per month for each licensed account** (November 17, 2026). Set up accounts for actual requests; do not buy extra licenses in anticipation of future volunteers. Check whether a suitable paid license is already available before arranging another purchase.
+
+For an email-address request, contact [office staff](mailto:office@sandiahomeowners.org). For setup or access problems, contact [IT Help](mailto:ithelp@sandiahomeowners.org).
+
 **Start here every time:** [admin.microsoft.com](https://admin.microsoft.com)
 
 ---
 
 ## Quick Start: What Are You Trying to Set Up?
 
-<table id="bkmrk-if-you-need...go-to-"><thead><tr><th>If you need...</th><th>Go to this section</th></tr></thead><tbody><tr><td>A new task-force or committee mailing address that sends to all members</td><td>[SOP A: Create a Microsoft 365 Group (Mailing List)](#bkmrk-sop-a%3A-create-a-micr)</td></tr><tr><td>A SharePoint document site for a new committee or task force</td><td>[SOP: Create a Committee SharePoint Site](/books/shha-it-help-guide/page/sop-create-a-committee-sharepoint-site)</td></tr><tr><td>A shared mailbox for one of the six officer roles</td><td>[SOP B: Create a Shared Mailbox](#bkmrk-sop-b%3A-create-a-shar)</td></tr><tr><td>A friendly one-off address like wildfire@sandiahomeowners.org</td><td>[SOP C: Add an Alias](#bkmrk-sop-c%3A-add-an-alias-)</td></tr><tr><td>An internal staff account with first.last@sandiahomeowners.org login</td><td>[SOP D: Add a Licensed User](#bkmrk-sop-d%3A-add-a-new-lic)</td></tr><tr><td>An external volunteer using Gmail/Yahoo/etc.</td><td>[SOP E: Add an External Guest](#bkmrk-sop-e%3A-add-an-extern)</td></tr></tbody></table>
+<table id="bkmrk-if-you-need...go-to-"><thead><tr><th>If you need...</th><th>Go to this section</th></tr></thead><tbody><tr><td>A new task-force or committee mailing address that sends to all members</td><td>[SOP A: Create a Microsoft 365 Group (Mailing List)](#bkmrk-sop-a%3A-create-a-micr)</td></tr><tr><td>A SharePoint document site for a new committee or task force</td><td>[SOP: Create a Committee SharePoint Site](/books/shha-it-help-guide/page/sop-create-a-committee-sharepoint-site)</td></tr><tr><td>A shared mailbox for one of the six officer roles</td><td>[SOP B: Create a Shared Mailbox](#bkmrk-sop-b%3A-create-a-shar)</td></tr><tr><td>A friendly one-off address like wildfire@sandiahomeowners.org</td><td>[SOP C: Add an Alias](#bkmrk-sop-c%3A-add-an-alias-)</td></tr><tr><td>A personal SHHA email account for a volunteer or staff member, such as first.last@sandiahomeowners.org</td><td>[SOP D: Add a Licensed User](#bkmrk-sop-d%3A-add-a-new-lic)</td></tr><tr><td>An external volunteer using Gmail/Yahoo/etc.</td><td>[SOP E: Add an External Guest](#bkmrk-sop-e%3A-add-an-extern)</td></tr></tbody></table>
 
 ---
 
@@ -2773,27 +2565,28 @@ If you only need one address that emails the whole task force, do **SOP A** only
 
 ---
 
-## SOP D: Add a New Licensed User (Internal Staff)
+## SOP D: Add a licensed user for a volunteer or staff member
 
-**Use this for:** staff/admin accounts that need a personal Microsoft login (`first.last@sandiahomeowners.org`).
+**Use this for:** any volunteer requesting an SHHA email address, and staff who need a personal SHHA account (`first.last@sandiahomeowners.org`).
 
 **Menu path:** [admin.microsoft.com](https://admin.microsoft.com) → **Users** → **Active users** → **Add a user**
 
 ### Step-by-step
 
-1. Go to **Users** → **Active users** → **Add a user**.
-2. Enter name and username (`first.last` format).
-3. Generate temporary password and require password change at first sign-in.
-4. Assign correct M365 license.
-5. Finish adding user.
-6. Add user to appropriate groups/shared mailbox access as needed.
-7. Send the [New Internal Staff User](/books/shha-it-help-guide/page/office-onboarding-email-templates) email after testing the account.
+1. Confirm the person wants their own SHHA email address. Volunteers are eligible; being staff or an officer is not a requirement.
+2. Check existing users for an account belonging to this person, then check whether a suitable paid license is already available. Ask the authorized license purchaser to arrange a license only if this request needs one. Do not purchase spare licenses.
+3. Go to **Users → Active users → Add a user**. Enter the person's name and `first.last@sandiahomeowners.org` username.
+4. Generate a temporary password and require a password change at first sign-in. Provide the temporary password through a separate approved channel from the username and welcome instructions.
+5. Assign the appropriate license and finish creating the user. Ordinary email users do not need an administrator role.
+6. Add the account to the approved committee groups. Grant shared-mailbox permissions only when the person holds one of the six designated officer roles.
+7. Have the person sign in to Outlook, receive and send a test message, and open their committee Documents library. Verify the intended account is in use.
+8. Send the licensed-user welcome message from the Office Onboarding Email Templates and link the Volunteer with SHHA Email guide.
 
 ---
 
 ## SOP E: Add an External Guest (Volunteer)
 
-**Use this for:** most volunteers; avoids paid license cost.
+**Use this for:** volunteers who choose to keep using personal email; approved guest access avoids an SHHA mailbox license cost.
 
 **Menu path:** [admin.microsoft.com](https://admin.microsoft.com) → **Users** → **Guest users** (or Entra invite flow)
 
@@ -2802,7 +2595,7 @@ If you only need one address that emails the whole task force, do **SOP A** only
 1. Invite external user with personal email address.
 2. Ask them to accept Microsoft invitation email.
 3. After acceptance, add them to needed Microsoft Groups.
-4. Verify they receive test group email.
+4. Verify they receive a test group email and can open the committee SharePoint Documents library using the invited account.
 5. Send the [New External Volunteer](/books/shha-it-help-guide/page/office-onboarding-email-templates) email after testing access.
 
 ---
@@ -2996,7 +2789,7 @@ The toolbox, dashboard and Azure newsletter version currently share existing Azu
 
 - [wiki.sandiahomeowners.org](https://wiki.sandiahomeowners.org/): Azure BookStack; anyone can read, approved Microsoft users can edit.
 - [dashboard.sandiahomeowners.org](https://dashboard.sandiahomeowners.org/): public aggregate dashboard on Azure.
-- [toolbox.sandiahomeowners.org](https://toolbox.sandiahomeowners.org/.auth/login/aad?post_login_redirect_uri=%2F): protected staff toolbox with Microsoft login and per-tool grants.
+- [toolbox.sandiahomeowners.org](https://toolbox.sandiahomeowners.org/.auth/login/aad?post_login_redirect_uri=%2Ftools): protected staff toolbox with Microsoft login and per-tool grants.
 - [sandiaheightsgrit.app](https://sandiaheightsgrit.app/): public contribution site; confirm the migration status before changing its host.
 - [Neighborhood map on GitHub Pages](https://sandia-heights-homeowners-association.github.io/SHHA-map/): current map address; a map subdomain is deferred.
 
@@ -3087,7 +2880,7 @@ For Neon, Name.com, Cloudflare, Resend, Google and the other hosting and product
 
 ## Use the right account
 
-1. Use the same email address that received your SHHA invitation for guest access. Staff and officer mailbox holders use their own SHHA account for licensed services.
+1. Use the same email address that received your SHHA invitation for guest access. Volunteers, officers and staff with an SHHA mailbox use their own SHHA account for licensed services.
 2. Open committee documents from the committee SharePoint site. Access comes from approved group membership; a public wiki link does not grant access.
 3. Open a shared role mailbox through your own licensed account. Do not sign in as the shared role address.
 
@@ -3117,31 +2910,3 @@ The public wiki export is a readable content copy. Restoring BookStack also requ
 - [Committee SharePoint Guide](/books/shha-it-help-guide/page/committee-sharepoint-guide)
 - [Staff and IT access responsibilities](/books/shha-it-help-guide/page/m365-email-groups-role-inboxes-responsibilities)
 - [IT Infrastructure and Handover](/books/shha-it-help-guide/page/it-infrastructure-and-handover)
-
-# Finance Committee IT Audit
-
-**Placeholder — details to be added.** This page will hold the Finance Committee IT audit overview and follow-up information for committee members and IT staff.
-
-## Audit overview
-
-<table id="bkmrk-item-details-audit-s"><thead><tr><th>Item</th><th>Details</th></tr></thead><tbody><tr><td>Audit status</td><td>To be confirmed</td></tr><tr><td>Committee contact / audit lead</td><td>To be added</td></tr><tr><td>Review period and target date</td><td>To be confirmed</td></tr></tbody></table>
-
-## Scope
-
-To be added: the agreed systems, services and processes to review, the review criteria, and any exclusions.
-
-## Findings and recommendations
-
-To be added: an approved summary of findings and recommendations once available.
-
-## Follow-up actions
-
-<table id="bkmrk-action-owner-target-"><thead><tr><th>Action</th><th>Owner</th><th>Target date</th><th>Status</th></tr></thead><tbody><tr><td>To be added</td><td>To be assigned</td><td>To be confirmed</td><td>To be confirmed</td></tr></tbody></table>
-
-Use this public page for the overview and approved summary. Keep confidential working papers, financial records and security details in approved restricted storage.
-
-## Related information
-
-- [Systems Inventory](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/systems-inventory)
-- [IT Infrastructure and Handover](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/it-infrastructure-and-handover)
-- [Controls &amp; Security](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/controls-security)

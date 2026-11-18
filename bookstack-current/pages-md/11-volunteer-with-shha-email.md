@@ -2,6 +2,10 @@
 
 *This page is for volunteers who already have an SHHA mailbox and may also have role-based inbox access.*
 
+**Any SHHA volunteer who wants their own SHHA email address may have one.** A personal address such as `first.last@sandiahomeowners.org` is available to volunteers as well as staff. Volunteers may also keep using personal email for committee messages and approved SharePoint guest access. Ask office staff for your preferred option; see [account setup and current license costs](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/sop-new-users-mailboxes-groups).
+
+For an email-address request, contact [office staff](mailto:office@sandiahomeowners.org). For setup or access problems, contact [IT Help](mailto:ithelp@sandiahomeowners.org).
+
 ---
 
 <a id="bkmrk--1"></a>## What You Should Use
@@ -68,6 +72,6 @@ Avoid one-off attachments for files that should remain in committee records.
  
 ### Related Pages
 
-- [Overview](overview.html)
-- [FAQ](faq.html)
-- [Quick Reference](quick-reference.html)
+- [Overview](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/overview)
+- [FAQ](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/faq)
+- [Quick Reference](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/quick-reference)

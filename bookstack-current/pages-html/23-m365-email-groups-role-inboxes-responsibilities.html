@@ -1,6 +1,7 @@
 <!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>M365 Email Groups, Role Inboxes &amp; Responsibilities</title><style>body{max-width:60rem;margin:2rem auto;padding:0 1rem;font-family:system-ui,sans-serif;line-height:1.5}table{border-collapse:collapse}td,th{border:1px solid #aaa;padding:.4rem}img{max-width:100%}</style></head><body><h1>M365 Email Groups, Role Inboxes &amp; Responsibilities</h1>
 <p id="bkmrk-operational-referenc"><em>Operational reference for office staff, IT admin, and future volunteers — mailing lists, shared mailboxes, licensing, SOPs, and governance.</em></p>
+<p id="bkmrk-any-shha-volunteer-w"><strong>Any SHHA volunteer who wants their own SHHA email address may have one.</strong> A personal address such as <code>first.last@sandiahomeowners.org</code> is available to volunteers as well as staff. Volunteers may also keep using personal email for committee messages and approved SharePoint guest access. Ask office staff for your preferred option; see <a href="https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/sop-new-users-mailboxes-groups">account setup and current license costs</a>.</p><p id="bkmrk-for-an-email-address">For an email-address request, contact <a href="mailto:office@sandiahomeowners.org">office staff</a>. For setup or access problems, contact <a href="mailto:ithelp@sandiahomeowners.org">IT Help</a>.</p>
 <hr id="bkmrk-">
 <a id="bkmrk--1"></a>
   <h2 id="bkmrk-quick-overview">Quick Overview</h2>
@@ -27,7 +28,7 @@
   <ul id="bkmrk-role-continuity-over">
     <li><strong>Role continuity over individual ownership</strong> — email addresses stay constant when people rotate in/out.</li>
     <li><strong>Least cost for volunteers</strong> — external volunteers do not require paid M365 licenses.</li>
-    <li><strong>Operational traceability</strong> — group membership changes trigger Power Automate notifications.</li>
+    <li><strong>Membership awareness</strong> — Toolbox’s Automatic emailer reports detected changes according to timing and delivery settings; verify membership in Microsoft 365.</li>
     <li><strong>Institutional archive</strong> — <code>admin@</code> is included in all groups as a permanent archive recipient.</li>
   </ul>
 
@@ -86,8 +87,8 @@
 
 <hr id="bkmrk--10">
 <a id="bkmrk--11"></a>
-  <h2 id="bkmrk-power-automate-membe">Power Automate Membership Notifications</h2>
-  <p id="bkmrk-a-power-automate-flo">A Power Automate flow sends email notifications whenever group membership changes.</p>
+  <h2 id="bkmrk-power-automate-membe">Toolbox Automatic emailer notifications</h2>
+  <p id="bkmrk-a-power-automate-flo">SHHA Toolbox’s Automatic emailer observes Microsoft 365 groups automatically. A first successful read establishes a baseline without an introductory email. Mailing-list timing can be Instant, Daily digest or Off. Confirm membership in Microsoft 365; a missing notification does not prove a membership edit failed. Review Recent emails and service status for delivery questions.</p>
   <ul id="bkmrk-provides-audit-visib">
     <li>Provides audit visibility.</li>
     <li>Alerts staff to unexpected changes.</li>
@@ -101,7 +102,7 @@
     <thead><tr><th>User type</th><th>License needed?</th><th>Capabilities</th></tr></thead>
     <tbody>
       <tr><td>External volunteers</td><td><strong>No</strong></td><td>Group email delivery, SharePoint guest access</td></tr>
-      <tr><td>Licensed staff / admin</td><td>Yes (paid M365)</td><td>Group administration, shared mailbox access, full portal</td></tr>
+      <tr><td>Licensed volunteer, officer or staff member</td><td>Yes (paid M365)</td><td>Own SHHA mailbox; approved shared-mailbox access where applicable. Administrator rights require separate authorization.</td></tr>
     </tbody>
   </table>
 
@@ -114,7 +115,7 @@
       <tr><td>Maintain committee group membership</td><td>Anna (staff)</td><td>IT admin</td><td>Add/remove members, verify accuracy</td></tr>
       <tr><td>Manage shared mailbox permissions</td><td>Anna + IT admin</td><td>IT admin</td><td>Remove predecessor, add successor</td></tr>
       <tr><td>Ensure <code>admin@</code> in all groups</td><td>IT admin</td><td>Anna</td><td>Required for archive continuity</td></tr>
-      <tr><td>Monitor membership-change notifications</td><td>Anna</td><td>IT admin</td><td>Power Automate emails = operational signal</td></tr>
+      <tr><td>Monitor membership-change notifications</td><td>Anna</td><td>IT admin</td><td>Review Automatic emailer status and Recent emails</td></tr>
       <tr><td>Troubleshoot delivery/access issues</td><td>IT admin</td><td>Anna</td><td>Includes mailbox permissions and group settings</td></tr>
     </tbody>
   </table>
@@ -124,10 +125,10 @@
   <h2 id="bkmrk-sop%3A-add-a-person-to">SOP: Add a Person to a Committee Mailing List</h2>
   <ol id="bkmrk-confirm-committee-an">
     <li>Confirm committee and target group address.</li>
-    <li>Verify whether person is internal staff or external volunteer.</li>
+    <li>Ask whether the person wants their own SHHA mailbox or will use personal email as an invited guest.</li>
     <li>Add to the correct Microsoft Group membership.</li>
     <li>Confirm <code>admin@</code> remains a member.</li>
-    <li>Verify Power Automate sends membership-change notification.</li>
+    <li>Confirm membership directly in Microsoft 365. Review Automatic emailer timing and Recent emails; Off or Daily timing can explain why an immediate notice did not arrive.</li>
     <li>Ask the group owner or new member to test delivery, or send a test message yourself.</li>
   </ol>
 
@@ -137,7 +138,7 @@
   <ol id="bkmrk-confirm-removal-requ">
     <li>Confirm removal request and effective date.</li>
     <li>Remove member from the Microsoft Group.</li>
-    <li>Verify Power Automate notification is received.</li>
+    <li>Confirm the removal directly in Microsoft 365; review Automatic emailer timing and Recent emails when checking delivery.</li>
     <li>If person held one of the six officer roles, check related shared mailbox permissions.</li>
   </ol>
 

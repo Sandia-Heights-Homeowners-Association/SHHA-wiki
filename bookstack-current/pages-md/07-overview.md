@@ -2,6 +2,10 @@
 
 **Who this is for:** anyone using SHHA IT services, from first-time volunteers to the next IT administrator. Choose your route below. You can read this wiki without signing in; editing uses your approved Microsoft identity.
 
+**Any SHHA volunteer who wants their own SHHA email address may have one.** A personal address such as `first.last@sandiahomeowners.org` is available to volunteers as well as staff. Volunteers may also keep using personal email for committee messages and approved SharePoint guest access. Ask office staff for your preferred option; see [account setup and current license costs](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/sop-new-users-mailboxes-groups).
+
+For an email-address request, contact [office staff](mailto:office@sandiahomeowners.org). For setup or access problems, contact [IT Help](mailto:ithelp@sandiahomeowners.org).
+
 ## Start Here — Find Your Path
 
 Different people need different things from this guide. Find your role below and follow the links.
@@ -23,13 +27,13 @@ SHHA primarily uses **Microsoft 365** for:
 - File storage (SharePoint)
 - Internal collaboration
  
-Microsoft 365 is the calendar source for toolbox meeting reminders. Staff configure reminder rules in SHHA Toolbox rather than editing events there.
+Microsoft 365 owns Board meeting dates; the staff-selected Google calendar owns GRIT deadlines. Toolbox imports dates. Staff save, review and activate reminder setups in Toolbox; importing an event does not authorize sending.
 
 ---
 
 <a id="bkmrk--4"></a>## Do I Need a New Microsoft Account?
 
-**No.** Use the same email address that received your SHHA invitation.
+**If you choose personal-email guest access:** use the same email address that received your SHHA invitation. If you request your own SHHA mailbox, office staff arrange a separate licensed SHHA account.
 
 When first added, you receive a Microsoft invitation email and must accept it once. After acceptance you can:
 
@@ -88,7 +92,7 @@ Officer mailboxes stay with the role, not the person. Examples:
 <a id="bkmrk--14"></a>## Board Materials and Calendar
 
 - Board materials should be uploaded directly to Board SharePoint.
-- Meeting reminders are configured in SHHA Toolbox → Email Reminders, using the Microsoft 365 master calendar. Change events in Outlook or Teams; contact office staff or IT Help about reminder issues.
+- Board reminder setups are reviewed and activated in SHHA Toolbox → Reminders. Edit Board meetings in Outlook or Teams and invite admin@sandiahomeowners.org. GRIT deadlines use the staff-selected Google calendar. Contact office staff or IT Help about missing reminders.
  
 If reminders are missing, contact office staff or **ITHelp@sandiahomeowners.org**.
 
