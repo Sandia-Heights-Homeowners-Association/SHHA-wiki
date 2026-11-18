@@ -19,7 +19,7 @@ For a property ownership change, follow [Record a property ownership change — 
 - [Resident account and preferences guide](/link/43) — explain /account versus /account/request and independent consent settings.
 - [Membership requests and tracking](/link/44) — intake routes, SHS billing and the flowchart.
 
-**Membership request queue:** check **Users → Queue** in the website backend manually from time to time. Member Area membership requests appear as **Pending**. Email notification has not been confirmed; do not rely on an email alert. See [membership requests and tracking](/link/44) for the current handling and billing limitations.
+**Membership request queue:** check **Users → User Queue** in the website backend manually from time to time. Member Area membership requests appear as **Pending**. Open the request to see **MEMBERSHIP REQUESTED** and the **Approved / Denied** decision. Staff are instructed to coordinate with SHS and update the address; changing Is Member directly does not show that this review occurred. Email notification has not been confirmed; do not rely on an email alert. See [membership requests and tracking](/link/44) for the current handling and billing limitations.
 
 ---
 

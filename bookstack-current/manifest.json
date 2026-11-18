@@ -4,7 +4,7 @@
   "book_name": "SHHA IT Help Guide",
   "book_path": "/books/shha-it-help-guide",
   "visibility": "anonymous-public",
-  "content_sha256": "a9e6243c371b57d607de45e10e0451b06a460d1daaff8b516e103bbbe0130eda",
+  "content_sha256": "5daa278a53bcc76777dd6542c8d791eb696f0557ff331e1b354a1ca69faa5d74",
   "chapters": 7,
   "pages": [
     {
@@ -348,5 +348,5 @@
       "html": "bookstack-current/pages-html/34-membership-requests-and-tracking.html"
     }
   ],
-  "exported_at": "2026-11-18T05:32:27+00:00"
+  "exported_at": "2026-11-18T05:38:11+00:00"
 }

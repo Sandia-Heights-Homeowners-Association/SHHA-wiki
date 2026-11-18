@@ -9,7 +9,7 @@
 1. Open New Ownership from the Addresses page. New Address is a different task.
 2. Select the correct existing address. Check the street number, street and unit.
 3. Enter the actual known **Occupancy Starts At** date. The form initially displays a date; do not assume it is the household's actual start date.
-4. Set **Is Member** to reflect the resident’s expressed membership intent, as handled by the office. Do not copy a previous household’s flag. This checkbox does not confirm SHS billing; see [current membership handling](/link/44).
+4. Set **Is Member** to reflect the resident’s expressed membership intent, as handled by the office. Do not copy a previous household’s flag. For a queued membership request, use the [User Queue review and Approved/Denied decision](/link/44), including SHS coordination and the address update requested by the form. A direct checkbox edit does not show that this review occurred or confirm SHS billing.
 5. Enable **Has Secondary Mailing Address** only when a separate mailing address applies, then check its details.
 
 [![Blank New Ownership form showing the address, start date and resident fields](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/3onnT459264TTOH5-new-ownership-2026-11.png)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/3onnT459264TTOH5-new-ownership-2026-11.png)

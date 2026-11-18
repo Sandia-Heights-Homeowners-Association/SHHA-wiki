@@ -754,7 +754,7 @@ For a property ownership change, follow [Record a property ownership change — 
 - [Resident account and preferences guide](/link/43) — explain /account versus /account/request and independent consent settings.
 - [Membership requests and tracking](/link/44) — intake routes, SHS billing and the flowchart.
 
-**Membership request queue:** check **Users → Queue** in the website backend manually from time to time. Member Area membership requests appear as **Pending**. Email notification has not been confirmed; do not rely on an email alert. See [membership requests and tracking](/link/44) for the current handling and billing limitations.
+**Membership request queue:** check **Users → User Queue** in the website backend manually from time to time. Member Area membership requests appear as **Pending**. Open the request to see **MEMBERSHIP REQUESTED** and the **Approved / Denied** decision. Staff are instructed to coordinate with SHS and update the address; changing Is Member directly does not show that this review occurred. Email notification has not been confirmed; do not rely on an email alert. See [membership requests and tracking](/link/44) for the current handling and billing limitations.
 
 ---
 
@@ -1237,7 +1237,7 @@ A helpful agenda request includes:
 1. Open New Ownership from the Addresses page. New Address is a different task.
 2. Select the correct existing address. Check the street number, street and unit.
 3. Enter the actual known **Occupancy Starts At** date. The form initially displays a date; do not assume it is the household's actual start date.
-4. Set **Is Member** to reflect the resident’s expressed membership intent, as handled by the office. Do not copy a previous household’s flag. This checkbox does not confirm SHS billing; see [current membership handling](/link/44).
+4. Set **Is Member** to reflect the resident’s expressed membership intent, as handled by the office. Do not copy a previous household’s flag. For a queued membership request, use the [User Queue review and Approved/Denied decision](/link/44), including SHS coordination and the address update requested by the form. A direct checkbox edit does not show that this review occurred or confirm SHS billing.
 5. Enable **Has Secondary Mailing Address** only when a separate mailing address applies, then check its details.
 
 [![Blank New Ownership form showing the address, start date and resident fields](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/3onnT459264TTOH5-new-ownership-2026-11.png)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/3onnT459264TTOH5-new-ownership-2026-11.png)
@@ -3083,39 +3083,52 @@ The public wiki export is a readable content copy. Restoring BookStack also requ
 ## How membership requests reach the office
 
 - A resident submits the [Account Request form](https://sandiahomeowners.org/account/request).
-- A resident signs in with a magic link and uses the membership toggle when their address is not marked Member. The form shows **Pending**, and the request appears under **Users → Queue**.
+- A resident signs in with a magic link and uses the membership toggle when their address is not marked Member. The form shows **Pending**, and the request appears under **Users → User Queue**.
 - A resident contacts the office by phone, email or an in-person visit.
 
 **Important exception:** a new person may move to an address while its old membership is still marked active. The new person will not get the usual join prompt. Ask them to contact the office explicitly about joining; do not treat the old flag as their consent or billing enrollment.
 
-[![Member Area requests show Pending and enter Users Queue for manual checking; office handling and an informal SHS email do not confirm billing; no routine reconciliation exists](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/lQf3LNsIf6Kfzvtf-membership-queue-process-2026-11.png)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/lQf3LNsIf6Kfzvtf-membership-queue-process-2026-11.png)
+[![Pending request enters User Queue; staff open MEMBERSHIP REQUESTED, coordinate with SHS and review Approved or Denied; direct Is Member editing is a separate interface; billing confirmation and routine reconciliation are absent](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/OGV4iVZay4bEJ6Ig-membership-queue-review-flow-2026-11.png)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/OGV4iVZay4bEJ6Ig-membership-queue-review-flow-2026-11.png)
 
-*Current practice, including the informal SHS email step and the absence of billing confirmation or routine reconciliation. An existing Member flag can hide a new resident’s join prompt.*
+*Queued membership review includes an explicit decision and instructions to coordinate with SHS. A direct property checkbox edit is a separate interface. Neither is confirmation of SHS billing; routine reconciliation is not in place.*
 
 ## Check the membership request queue
 
-When a resident requests membership through the Member Area toggle, the form shows **Pending** and the request appears under **Users → Queue** in the website backend.
+When a resident requests membership through the Member Area toggle, the form shows **Pending** and the request appears under **Users → User Queue** in the website backend.
 
 1. Sign in to the [website backend](https://sandiahomeowners.org/private) with your approved staff account.
-2. Open **Users → Queue** and review pending requests.
+2. Open **Users → User Queue** and review pending requests.
 3. Check the resident and property/unit, then follow the current office handling below.
 
 **Check this queue manually from time to time.** Email notification has not been confirmed, so do not rely on an email to alert you. Pending means the request is waiting for review; it does not confirm SHS billing.
 
-## Current office handling
+## Review and decide a queued request
 
-1. The resident says they want to join.
-2. The SHHA office checks the website’s **Is Member** checkbox for that intent.
-3. The office may email **Sandia Heights Services (SHS)** to request billing. Any evidence of this correspondence is in the office inbox; there is no separate recorded follow-up.
-4. SHS is expected to start billing, but the office does not receive confirmation that billing has started.
+1. Click the request in **Users → User Queue**. Check the request type, resident and exact property/unit.
+2. Look for the red **MEMBERSHIP REQUESTED** notice. It identifies the resident’s request to join.
+3. Coordinate with **Sandia Heights Services (SHS)** to initiate billing and update the address to reflect the new membership status, as the form instructs.
+4. Under **Your Decision**, choose the appropriate **Approved** or **Denied** option. In the signed-in resident example below, the form says no account decision is required; do not create a duplicate account for that request.
+5. When the intended decision is ready to save, choose **Save &amp; Close**. Check the saved request decision and the address’s membership status separately. Do not assume that choosing Approved proves SHS billing started or that the address was updated automatically.
+
+[![Office example with red MEMBERSHIP REQUESTED notice instructing staff to coordinate utility billing and update the address](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/RpmihIILzfekiCME-queue-membership-warning-2026-11.png)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/RpmihIILzfekiCME-queue-membership-warning-2026-11.png)
+
+*Test User at the SHHA office, Unit 3: a demonstration request, not a residential household. The warning tells staff to coordinate billing and update the address. No request decision was changed for this screenshot.*
+
+[![Your Decision with unselected Approved and Denied radio buttons, signed-in-user explanation and Save and Close button](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/ou7sOhggpvwzDjje-queue-membership-decision-2026-11.png)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/ou7sOhggpvwzDjje-queue-membership-decision-2026-11.png)
+
+*The example’s Approved and Denied controls were left untouched. The logged-in user already has an account. Save &amp; Close was not clicked.*
+
+### How this differs from changing Is Member directly
+
+The property record also allows a direct **Is Member** checkbox edit. That is a different interface from the queued request’s explicit Approved/Denied review. A property flag alone does not show that staff reviewed the queued request or coordinated with SHS.
 
 ## What is not currently tracked
 
-There is no specific recorded follow-up after someone asks to join, and no routine audit or reconciliation against SHS records. The website’s Is Member flag records the office’s membership setting; it does not establish that SHS received a request or started billing.
+The queue provides a website decision, but there is no separate recorded follow-up confirming that SHS billing started, and no routine audit or reconciliation against SHS records. The website’s Is Member flag and a saved Approved decision do not establish that SHS received a billing request or started billing.
 
 ## Finding information about a new member
 
-Evidence of requests and communications with SHS is in the office inbox. Search the relevant correspondence for the person and property/unit. The website’s Users → Queue and property records support account/address review, but there is no separate recorded follow-up establishing that billing began. A sent request or the Is Member flag alone is not confirmation of SHS billing.
+Evidence of requests and communications with SHS is in the office inbox. Search the relevant correspondence for the person and property/unit. Review the website’s Users → User Queue request/decision and property record separately from correspondence with SHS. There is no separate recorded follow-up establishing that billing began. A sent request or the Is Member flag alone is not confirmation of SHS billing.
 
 Resident names, request details, billing evidence and follow-up notes belong in approved private systems, not in this public wiki.
 
