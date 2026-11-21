@@ -49,17 +49,19 @@ For external volunteers, we do **not** recommend using Teams for SHHA work. Inst
 ## Most Common Mistakes
 
 - **Not accepting the invitation** — until you do, access will fail.
-- **Trying to use Teams** instead of using SharePoint links for committee files.
-- **Trying to share files directly with groups** instead of sharing links.
+- **Trying to use Teams** instead of opening the committee SharePoint site in your browser.
+- **Using the file’s Share or Copy link controls** instead of sending the committee site address, folder and file name.
 - **Sending attachments** when the file belongs in SharePoint.
 
 ## Correct File Sharing Pattern
 
-1. Upload to SharePoint.
-2. Copy link.
-3. Email link to committee list.
+1. Upload the file to the **correct committee SharePoint Documents library**.
+2. Use the committee’s **site address from [Quick Links](/link/3)**, then give the folder and exact file name.
+3. Email those details to the committee list or intended volunteer. They open the site using the email address already approved for committee access.
 
-See [FAQ](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/committee-sharepoint-guide) for step-by-step sharing instructions.
+**Do not use the file’s Share or Copy link button for external volunteers.** Those file-sharing links do not work for SHHA’s external-volunteer handoff. Follow the [SharePoint screenshot guide](/link/7).
+
+See the [illustrated SharePoint guide](/link/7) for opening, uploading and finding committee files.
 
 ## Need Help?
 

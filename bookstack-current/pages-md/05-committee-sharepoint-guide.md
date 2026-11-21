@@ -1,22 +1,78 @@
 # Committee SharePoint Guide
 
-**Audience:** SHHA committee and task-force members. Office staff handle site setup, membership, permissions, and changes to the SharePoint home page.
+**For committee members, Board members and anyone sending them a file, including volunteers who use a personal email address.** Office staff arrange access; volunteers use the committee’s shared files in their web browser.
 
-**Start here:** open your committee site from [Quick Links &amp; Directory](/link/3). A document library is the shared file cabinet called **Documents**. If you have not accepted your Microsoft invitation, first follow [the invitation and sign-in guide](/books/shha-it-help-guide/page/volunteer-without-shha-email).
+**Start here:** open your committee site from [Quick Links &amp; Directory](/link/3). Its **Documents** library is the committee’s shared file cabinet. The pictures below show the buttons to use.
 
 ## Send people to the site, folder and file
 
-**Do not use Share or Copy link to hand files to external committee or Board members.** Put the file in the correct group-owned SharePoint Documents library. In your email, give the committee site address from [Quick Links &amp; Directory](/link/3), then the folder and file name. Members open that site and find the document there.
+**Do not use the file’s Share or Copy link button for external volunteers.** Those file-sharing links do not work for SHHA’s external-volunteer handoff. Put the file in the committee’s Documents library, then email the **committee site address, folder and file name**.
 
-A file-sharing link is not the SHHA handoff method for external members: it can lead to a permission prompt even when the sender can open the file. Approved group membership supplies access; copying a link does not grant it. This is SHHA's supported workflow, not a rule that all personal-email accounts are technically unable to open Microsoft links.
+**A committee site address is different from a file-sharing link.** Use the committee address listed in [Quick Links](/link/3), such as [https://shha.sharepoint.com/sites/BOARD/](https://shha.sharepoint.com/sites/BOARD/). Do not generate a link from the file’s Share or Copy link controls. The volunteer’s approved committee membership gives them access.
 
-## Email And Documents Are Two Different Tools
+[![Share and Copy link controls to avoid for the SHHA external-volunteer file handoff](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/qveNRgsT8jp1vyuI-sharepoint-avoid-sharing-links.jpg)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/qveNRgsT8jp1vyuI-sharepoint-avoid-sharing-links.jpg)
 
-<table id="bkmrk-tooluse-it-for-your-"><thead><tr><th>Tool</th><th>Use it for</th></tr></thead><tbody><tr><td>Your committee mailing list</td><td>Emailing everyone in the committee</td></tr><tr><td>Your committee SharePoint site</td><td>Storing and working on committee documents</td></tr></tbody></table>
+*Do not use the Share or Copy link buttons shown here. Send the committee site address from Quick Links, followed by the folder and file name. Select the picture to enlarge it.*
 
-Use the direct site and mailing-list links supplied by office staff or listed in [Quick Links &amp; Directory](/books/shha-it-help-guide/page/quick-links-directory).
+## Before a new volunteer opens files
 
-## External Members: Use SharePoint, Not OneDrive
+1. Ask [office staff](mailto:office@sandiahomeowners.org) to confirm the volunteer’s **personal email address** is added to the correct committee group. They can use Gmail, Yahoo, iCloud or another personal address.
+2. The volunteer opens SHHA’s Microsoft invitation in that inbox and selects **Accept invitation**. Follow the [invitation and sign-in guide](/link/16) if this is their first visit.
+3. Use that **same email address** to sign in to SharePoint. An SHHA mailbox is not required for this access.
+
+If the person has not been added or invited, contact office staff. Sending a different file-sharing link will not fix missing committee access.
+
+## Open the file using your personal email
+
+1. Open [Quick Links &amp; Directory](/link/3) and select your committee’s SharePoint address.
+2. Sign in with the **personal email address that received the SHHA invitation**. If another account is already selected, use the option to sign in with the invited account.
+3. Follow Microsoft’s sign-in prompts. If Microsoft emails a one-time passcode, get it from that same inbox and enter it.
+4. Select **Documents**. Some sites already show Documents on their home page.
+5. Open the folder named in the sender’s message, then select the file name. Bookmark the committee site for your next visit.
+
+[![Quick Links committee directory with Board, ACC and CPC site addresses](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/VIcCzoToSTVZw7fE-sharepoint-directory.jpg)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/VIcCzoToSTVZw7fE-sharepoint-directory.jpg)
+
+*1. Open Quick Links and choose your committee’s site address. These are site addresses, not links generated by a file’s Share button. Select the picture to enlarge it.*
+
+[![Microsoft sign-in screen with an empty email field and Next button](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/l5udCIlkUm1p9dSe-sharepoint-personal-email-sign-in.jpg)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/l5udCIlkUm1p9dSe-sharepoint-personal-email-sign-in.jpg)
+
+*2. Enter the same personal email address that received your SHHA invitation, then choose Next. The picture is deliberately blank; use your own invited address. Select the picture to enlarge it.*
+
+[![SharePoint site navigation showing Documents and the document-library toolbar](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/n8r3iCrA7WGPsLcP-sharepoint-documents-navigation.jpg)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/n8r3iCrA7WGPsLcP-sharepoint-documents-navigation.jpg)
+
+*Choose Documents to open the committee’s shared file cabinet. The screenshot shows navigation and controls; private files are outside the picture. Select the screenshot to enlarge it.*
+
+## Add a file for the committee
+
+1. Open **Documents** and the correct folder.
+2. Select **Create or upload** → **Files upload**. Some library layouts instead show **Upload** → **Files**.
+3. Choose the file from your computer.
+4. Wait for the upload to finish and confirm the file appears.
+
+To create a file directly in SharePoint, select **Create or upload** and choose Word document, Excel workbook, PowerPoint presentation, or Folder. Some layouts label this menu **New**.
+
+[![Create or upload menu showing Files upload, Folder upload and document choices](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/HYlHECT4wEVTpMcg-sharepoint-upload-menu.jpg)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/HYlHECT4wEVTpMcg-sharepoint-upload-menu.jpg)
+
+*Choose Files upload for a file already on your computer. Wait until its name appears in the folder. Folder upload adds a whole folder. Select the screenshot to enlarge it.*
+
+## Send the file location by email
+
+**Once the file is in Documents, tell people exactly where to find it:**
+
+1. Copy the **committee site address from Quick Links**.
+2. Write down the **folder and exact file name**. This saves the recipient from a treasure hunt.
+3. Email those details to the committee mailing list or the intended volunteer’s personal email. Ask them to open the site, choose Documents and follow the folder names.
+
+> The meeting notes are ready.  
+> Open the Board site: https://shha.sharepoint.com/sites/BOARD/  
+> Choose **Documents → Minutes → Draft meeting notes.docx**.  
+> Sign in with the personal email address that received your SHHA invitation.
+
+*The folder and file name above are examples. Replace them with your file’s actual location.*
+
+**Do not use Share or Copy link for this handoff.** Do not grant access file by file or move the committee’s file into a personal OneDrive. Office staff handle membership and access problems.
+
+## Use SharePoint in your browser
 
 If you use Gmail, Yahoo, iCloud, or another personal email address, access committee documents only through the committee SharePoint site in your browser.
 
@@ -27,7 +83,13 @@ If you use Gmail, Yahoo, iCloud, or another personal email address, access commi
 
 This is the standard SHHA workflow for external committee members. It keeps everyone working from the same group-owned document library.
 
-## What Committee Members Can Do
+## Email and documents do different jobs
+
+<table id="bkmrk-tooluse-it-for-your-"><thead><tr><th>Tool</th><th>Use it for</th></tr></thead><tbody><tr><td>Your committee mailing list</td><td>Emailing everyone in the committee</td></tr><tr><td>Your committee SharePoint site</td><td>Storing and working on committee documents</td></tr></tbody></table>
+
+Use the direct site and mailing-list links supplied by office staff or listed in [Quick Links &amp; Directory](/books/shha-it-help-guide/page/quick-links-directory).
+
+## What committee members can do
 
 Committee members have read/write access to the **Documents** library. You may:
 
@@ -41,7 +103,7 @@ Committee members have read/write access to the **Documents** library. You may:
 
 Deleting or moving a file affects everyone, so ask before reorganizing material that may be part of the committee record.
 
-## What Office Staff Handle
+## What office staff handle
 
 Contact office staff for:
 
@@ -52,52 +114,23 @@ Contact office staff for:
 
 The committee chair does not need an `@sandiahomeowners.org` account or site-owner access to work with documents.
 
-## How To Open The Documents
-
-1. Open the committee's SharePoint link.
-2. Sign in using the same email address that received your SHHA Microsoft invitation.
-3. If Microsoft emails a one-time passcode, enter that code.
-4. Select **Documents**. Some sites show the Documents library directly on their home page.
-5. Open the folder you need.
-
-[![SharePoint Documents toolbar with Create or upload button](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/v4dDzlurDSp7rPSb-sharepoint-navigation-2026-11.png)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/v4dDzlurDSp7rPSb-sharepoint-navigation-2026-11.png)
-
-*Documents toolbar in Chrome, November 17, 2026. Open the correct folder before choosing Create or upload. Private files and names have been cropped out.*
-
-## How To Add A File
-
-1. Open **Documents** and the correct folder.
-2. Select **Create or upload** → **Files upload**. Some library layouts instead show **Upload** → **Files**.
-3. Choose the file from your computer.
-4. Wait for the upload to finish and confirm the file appears.
-
-To create a file directly in SharePoint, select **Create or upload** and choose Word document, Excel workbook, PowerPoint presentation, or Folder. Some layouts label this menu **New**.
-
-[![Create or upload menu showing Files upload, Folder upload and document choices](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/7c1ARBHHYjjOG1qo-sharepoint-upload-menu-2026-11.png)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/7c1ARBHHYjjOG1qo-sharepoint-upload-menu-2026-11.png)
-
-*Choose Files upload for a file on your computer. Folder upload adds a whole folder; review its contents first. No file was uploaded for this demonstration.*
-
-## How To Edit, Move, Or Delete A File
+## Edit or organize a file
 
 1. Select the file using the circle beside its name, or right-click it.
 2. Choose **Open**, **Rename**, **Move to**, or **Delete**.
 3. Use **Move to** when reorganizing files. Do not download and re-upload a file just to move it.
 
-## Documents Shared With Board
+## Documents Shared with Board
 
 Use **Documents Shared with Board** for enduring reference material Board members may need later, such as procedures, legal analyses, project background, charters, or other non-public reference documents.
 
 If future Board members may need it, do not let it disappear into an old email thread.
 
-## How To Share A File With The Committee
+**Office users:** choose the committee’s **- Sharepoint** folder for a file the committee needs. A file left in **- Office** is in the separate office workspace. See the [folder pictures and organization guide](/link/5).
 
-Put the file in the committee SharePoint Documents library, then email the committee mailing list with the committee site address, folder location and file name. For example: “Open the Board site from Quick Links, then Documents → Minutes → Draft meeting notes.docx.” The folder and filename in this example are illustrative.
+## If something does not work
 
-Do not use the Share button to grant the committee access. Group membership already provides document access, including for approved members using personal email addresses.
-
-## If Something Does Not Work
-
-Contact office staff or <ITHelp@sandiahomeowners.org>. Include:
+If you see **Access denied** or **Request access**, first check that you used your invited email address and accepted the invitation. If you still cannot get in, contact [office staff](mailto:office@sandiahomeowners.org) or [IT Help](mailto:ITHelp@sandiahomeowners.org). Include:
 
 - The email address used to sign in
 - The SharePoint site or folder being opened

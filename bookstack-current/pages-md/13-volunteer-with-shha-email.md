@@ -56,10 +56,12 @@ This is why SHHA keeps both addresses:
 
 For committee documents:
 
-1. Upload to SharePoint.
-2. Copy link.
-3. Send link to committee list.
- 
+1. Upload the file to the **correct committee SharePoint Documents library**.
+2. Use the committee’s **site address from [Quick Links](/link/3)**, then give the folder and exact file name.
+3. Email those details to the committee list or intended volunteer. They open the site using the email address already approved for committee access.
+
+**Do not use the file’s Share or Copy link button for external volunteers.** Those file-sharing links do not work for SHHA’s external-volunteer handoff. Follow the [SharePoint screenshot guide](/link/7).
+
 Avoid one-off attachments for files that should remain in committee records.
 
 ---

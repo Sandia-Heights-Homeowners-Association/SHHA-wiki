@@ -33,7 +33,7 @@ Board members can upload files to the Board SharePoint.
 1. Open the [Board SharePoint site](https://shha.sharepoint.com/sites/BOARD/).
 2. Open the document library or the folder Trish or the Board is using for that meeting/topic.
 3. Click **Upload**, then choose your file.
-4. After uploading, send the Board or Trish a SharePoint link instead of attaching a separate copy.
+4. After uploading, send the Board or Trish the **Board site address, folder and exact file name**. **Do not use the file’s Share or Copy link button for external members.** Follow the [SharePoint screenshot guide](/link/7).
 
 When in doubt, use a clear file name with the topic and date. Future-you and future-neighbors will appreciate it.
 
@@ -45,7 +45,7 @@ A helpful agenda request includes:
 
 - A short title.
 - Whether the item is for information, discussion, or a decision.
-- Any file or background material as a SharePoint link.
+- The Board site address, folder and exact file name for any background document.
 - Any timing concern, such as "needs a vote this month."
 
 ## Board Email Basics

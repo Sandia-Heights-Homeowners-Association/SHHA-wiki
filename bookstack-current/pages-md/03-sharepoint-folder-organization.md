@@ -1,6 +1,6 @@
 # SharePoint Folder Organization
 
-This page explains where committee materials belong, how committee members work with SharePoint files, and how internal office users keep group-owned document libraries convenient without sending external members into OneDrive.
+**For office staff and IT administrators keeping SHHA’s files organized.** Start in your work OneDrive’s **My files** view and read the full folder name before saving or moving anything. Volunteers using personal email should follow the [SharePoint screenshot guide](/link/7) and open their committee site in a browser.
 
 ## Short Version
 
@@ -9,9 +9,49 @@ Every committee has two official places for committee-related materials:
 - An **Office folder** for staff-facing committee work.
 - A **SharePoint folder/site** for committee, volunteer, Board, and shared working materials.
 
-Those folders provide a consistent structure so staff, volunteers, committee members, and Board members know where to find information. To make that system work, committee-related materials need to stay in those locations.
+**Keep this folder structure in place.** Committee SharePoint folders belong to their Microsoft 365 groups. The Office workspace belongs to **Anna’s user account** and has separately managed access for **the two office members and one administrator only**. Keep that Office access manually curated; do not extend it to committee members or change its ownership.
 
-If there are office-only working documents, separate issues, drafts that do not belong in the committee record, or staff-only administration files, those should have their own workspace outside the committee folders.
+Keep office-only notes, staff administration and work that is not ready for the committee in the Office workspace, organized under the appropriate existing topic. Do not put it in the committee’s SharePoint library simply because both folders appear in OneDrive.
+
+## Recognize the folder pairs in OneDrive
+
+**For office and admin users:** open your work OneDrive and select **My files**. The recent-file list is useful for yesterday’s work; My files shows where things belong.
+
+[![OneDrive navigation with My files selected](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/RhKJ1EAnQ1fzpijx-onedrive-my-files-navigation.jpg)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/RhKJ1EAnQ1fzpijx-onedrive-my-files-navigation.jpg)
+
+*Office and admin users: select My files to find the established folder structure. Select the picture to enlarge it.*
+
+Read the complete name. **Board - Office** and **Board - Sharepoint** serve different readers. The same pattern appears for other committees, such as **C&amp;P** and **CS&amp;M**.
+
+[![OneDrive folder pairs Board Office and Sharepoint, C and P Office and Sharepoint, CS and M Office and Sharepoint](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/4l8JD2yUBk2yP36A-onedrive-folder-pairs.jpg)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/4l8JD2yUBk2yP36A-onedrive-folder-pairs.jpg)
+
+*Read the whole folder name. Office and Sharepoint are separate locations for different readers. The small arrow on each icon marks a shortcut. Select the picture to enlarge it.*
+
+<table id="bkmrk-folderownership-and-"><thead><tr><th>Folder</th><th>Ownership and access</th><th>Put these files here</th></tr></thead><tbody><tr><td>**Committee - Sharepoint**</td><td>Owned by the committee’s Microsoft 365 group. Its OneDrive shortcut shows the same files as the committee’s SharePoint Documents library.</td><td>Committee-facing work: agendas, minutes, reports and reference material the committee should use.</td></tr><tr><td>**Committee - Office** and the Office workspace</td><td>Anna’s user-owned OneDrive storage. Access stays manually managed for the two office members and one administrator.</td><td>Office working files and internal committee-support work for those office/admin users.</td></tr></tbody></table>
+
+The little arrow on a folder icon marks a **shortcut**: it opens the original shared location. It is not a separate copy or backup. Files in the committee’s SharePoint shortcut stay in sync with SharePoint; changes and deletions affect the shared files.
+
+### Check the location after opening a folder
+
+The path across the top shows which folder you opened. This example is the **group’s SharePoint** location:
+
+[![OneDrive path My files followed by Board Sharepoint](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/Eucvc9RV22HPAwRu-onedrive-board-sharepoint.jpg)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/Eucvc9RV22HPAwRu-onedrive-board-sharepoint.jpg)
+
+*Board - Sharepoint opens the group’s shared document location. It shows the same files as the Board SharePoint Documents library. Select the picture to enlarge it.*
+
+This example is the separate **Office** location. Keep its existing office/admin access; do not share this workspace with the committee.
+
+[![OneDrive path My files followed by Board Office](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/QeCtDPhMslXAMYfL-onedrive-board-office.jpg)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/QeCtDPhMslXAMYfL-onedrive-board-office.jpg)
+
+*Board - Office is the separate Office workspace. Keep its manually managed office/admin access in place. Select the picture to enlarge it.*
+
+### Keep files in their proper places
+
+1. **Decide who needs the file.** Committee members need the SharePoint folder. Office-only work belongs in the Office workspace.
+2. **Open the existing committee and topic folder.** Check the name in the path at the top before saving or uploading.
+3. **Use a clear file name.** Include the topic and date when useful, for example **2026-11-20 Meeting notes**. Keep related files together.
+4. **Keep one current working file.** Avoid scattering copies across the desktop, email and unrelated OneDrive folders.
+5. **Ask before reorganizing shared records.** Do not casually rename or move the top-level folder pairs, replace shortcuts with copies, change ownership or broaden Office access. Contact [IT Help](mailto:ithelp@sandiahomeowners.org) if the structure looks wrong.
 
 ## Sharing A File With The Board Or A Committee
 
@@ -58,11 +98,11 @@ Use the committee Office folder or SharePoint folder for:
 - Photos or supporting materials for committee work
 - Files that future committee members should be able to find
 
-Do not keep committee materials only in a personal OneDrive folder, email attachment, desktop folder, or private side folder.
+Keep the committee’s shared record in its group-owned SharePoint folder. An Office draft may stay in the Office workspace until it is ready for committee use; the only copy of a committee document should not remain on a desktop or in an email attachment.
 
 ## What Should Live Somewhere Else
 
-Use a separate workspace outside the committee folders for:
+Use the restricted Office workspace, with appropriate internal folders, for:
 
 - Office-only working notes
 - Staff-only administration files
@@ -92,7 +132,7 @@ At launch, these folders may be empty. Committee chairs should add useful files 
 
 In general, use this space for enduring documents that Board members may need to reference months or years later. The goal is to keep important information from being buried in monthly meeting folders or old email threads.
 
-Committee members have full read/write access to their respective committee SharePoint sites and can add documents as needed.
+Committee members have read/write access to their committee’s **Documents library** and can add documents there. Office staff manage the home page, navigation and access.
 
 For the full list of direct links to committee SharePoint sites and document libraries, visit the [Quick Links &amp; Directory](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/quick-links-directory) page and scroll to **SharePoint Sites (Committee Document Libraries)**.
 
@@ -124,8 +164,12 @@ To edit, move, rename, or delete a file:
 
 1. Open the committee SharePoint site.
 2. Open the **Documents** library.
-3. Select **Add shortcut to OneDrive** or **Add shortcut to My files**.
+3. If the committee shortcut is missing, select **Add shortcut to OneDrive** or **Add shortcut to My files**. Do not add a duplicate shortcut.
 4. Confirm the library appears under **My files** in that user's OneDrive.
+
+[![Add shortcut to OneDrive button in the SharePoint Documents library](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/C3EsUSvBtxmQaM5u-sharepoint-office-shortcut.jpg)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/C3EsUSvBtxmQaM5u-sharepoint-office-shortcut.jpg)
+
+*Internal office users only: this button connects the existing group library to your own OneDrive view. It does not make a second copy. External volunteers use their committee site in the browser. Select the picture to enlarge it.*
 
 The shortcut points to the original group-owned SharePoint library. It does not create a copy. Each internal user must add the shortcut while signed in to their own account.
 
@@ -146,6 +190,8 @@ Changes to Microsoft 365 group membership automatically update access to the com
 
 Committee SharePoint Documents libraries are owned by the committee's Microsoft 365 group. They are not folders in Anna's personal OneDrive and should not be shared person-by-person.
 
+For IT administrators: [Microsoft’s explanation of group-connected site access](https://learn.microsoft.com/en-us/sharepoint/external-sharing-overview#how-do-i-share-microsoft-365-group-connected-team-sites).
+
 Office staff create or administer the group-connected site and manage membership. Committee members receive document access through group membership. Internal office users may add the Documents library as a OneDrive shortcut; external members use the SharePoint site directly.
 
 ## Important OneDrive Notes For Office Staff
@@ -158,11 +204,11 @@ Office staff create or administer the group-connected site and manage membership
 
 ## Office Folder Versus SharePoint Folder
 
-Use the **Office folder** for staff-centered committee support work that needs to stay coordinated among office/admin users.
+Use the **Office workspace in Anna’s user-owned OneDrive** for staff-centered committee support work. Keep its manually curated access limited to **two office members and one administrator**. This is separate from committee-group membership.
 
 Use the **SharePoint folder/site** for committee-facing materials and documents that volunteers, committee members, Board members, or future role holders need to access.
 
-Both matter. The main rule is not “everything goes everywhere.” The rule is “committee-related materials belong in the official committee structure, and unrelated/private work belongs somewhere else.”
+**Check the audience, then choose the folder.** Preserve the Office/SharePoint distinction and the existing ownership and access arrangement. Keeping the folders tidy helps the next person find the current file without asking who has the latest attachment.
 
 ## Related Guides
 

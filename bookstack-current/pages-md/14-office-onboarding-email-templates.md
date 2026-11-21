@@ -16,7 +16,7 @@ Choose the matching scenario, replace every item in square brackets, delete line
 - Test links before sending.
 - Do not include passwords in the same email as usernames or account instructions. Send a temporary password through a separate channel.
 - For external users, never include OneDrive instructions. External committee members use SharePoint in a browser.
-- Keep the direct SharePoint link in the message. Do not make recipients hunt for it.
+- Keep the committee site address from [Quick Links](/link/3) in the message. For a particular document, include its folder and exact file name. **Do not use the file’s Share or Copy link button for external volunteers.** See the [SharePoint screenshot guide](/link/7).
 
 ## Template 1: New licensed SHHA account
 
@@ -68,7 +68,7 @@ After accepting the invitation, you will receive committee email through:
 Your committee documents are available here:
 [SHAREPOINT LINK]
 
-Please bookmark the SharePoint link. External volunteers use SharePoint in a web browser and should not add committee files to OneDrive.
+Please bookmark the committee site address above. Open Documents, then the folder and file name supplied by the sender. Do not use a file-sharing link from Share or Copy link; these do not work for SHHA’s external-volunteer handoff. External volunteers use SharePoint in a web browser and should not add committee files to OneDrive.
 
 Step-by-step instructions are here:
 [WIKI LINK]
