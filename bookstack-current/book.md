@@ -479,9 +479,12 @@ To create a file directly in SharePoint, select **Create or upload** and choose 
 2. Write down the **folder and exact file name**. This saves the recipient from a treasure hunt.
 3. Email those details to the committee mailing list or the intended volunteer’s personal email. Ask them to open the site, choose Documents and follow the folder names.
 
-> The meeting notes are ready.  
-> Open the Board site: https://shha.sharepoint.com/sites/BOARD/  
-> Choose **Documents → Minutes → Draft meeting notes.docx**.  
+> The meeting notes are ready.
+> 
+> Open the Board site: https://shha.sharepoint.com/sites/BOARD/
+> 
+> Choose **Documents → Minutes → Draft meeting notes.docx**.
+> 
 > Sign in with the personal email address that received your SHHA invitation.
 
 *The folder and file name above are examples. Replace them with your file’s actual location.*
