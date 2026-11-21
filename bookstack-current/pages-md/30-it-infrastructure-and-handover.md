@@ -82,3 +82,5 @@ The retired reminders address does not establish whether every old hosting workl
 5. Update this overview with verified completion dates; keep passwords, tenant/resource identifiers, permissions inventories and recovery instructions in the approved private runbooks.
 
 See [Public Utilities and SHHA Toolbox](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/public-utilities-and-shha-toolbox) for the reader-facing guide and [Systems Inventory](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/systems-inventory) for the wider software/service list.
+
+For Google Forms surveys, polls and RSVPs owned through **sandiahomeowners@gmail.com**, follow [Create forms surveys and RSVPs](https://wiki.sandiahomeowners.org/link/48). Keep the form and linked response spreadsheet with SHHA; respondent, results-viewer and editor access are distinct.

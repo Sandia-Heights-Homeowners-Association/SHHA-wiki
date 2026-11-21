@@ -84,3 +84,7 @@ For multi-property membership questions and welcoming work, use the [Membership 
 - [Quick Reference](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/quick-reference)
 - [M365 Email Groups &amp; Roles](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/m365-email-groups-role-inboxes-responsibilities)
 - [Specialty Topics](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/systems-inventory)
+
+## Create a survey or RSVP
+
+Use the [forms and results-sharing guide](https://wiki.sandiahomeowners.org/link/48). Create SHHA Google forms using the designated service account, then share the responder link with participants and a separate Viewer results-sheet link with the requesting chair. Give form-editor access only to people administering it.

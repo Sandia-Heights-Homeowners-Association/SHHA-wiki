@@ -14,7 +14,7 @@ Each committee has its own SharePoint site for storing documents, meeting minute
 
 ## Login Links
 
-<table id="bkmrk-what-you-needwhere-t"><thead><tr><th>What you need</th><th>Where to go</th><th>Who uses it</th></tr></thead><tbody><tr><td>Email (anyone with a licensed SHHA mailbox)</td><td>[Outlook for SHHA email](https://outlook.office.com/)</td><td>Volunteers, officers and staff with SHHA mailboxes</td></tr><tr><td>OneDrive / personal files</td><td>[onedrive.com](https://onedrive.com)</td><td>Licensed users</td></tr><tr><td>Admin console (manage users &amp; groups)</td><td>[admin.microsoft.com](https://admin.microsoft.com)</td><td>IT admins only</td></tr><tr><td>Committee files (SharePoint)</td><td>See [SharePoint Sites](#bkmrk-sharepoint-sites-%28co) above</td><td>All volunteers</td></tr></tbody></table>
+<table id="bkmrk-what-you-needwhere-t"><thead><tr><th>What you need</th><th>Where to go</th><th>Who uses it</th></tr></thead><tbody><tr><td>Email (anyone with a licensed SHHA mailbox)</td><td>[Outlook for SHHA email](https://outlook.office.com/)</td><td>Volunteers, officers and staff with SHHA mailboxes</td></tr><tr><td>OneDrive / personal files</td><td>[onedrive.com](https://onedrive.com)</td><td>Licensed users</td></tr><tr><td>Admin console (manage users &amp; groups)</td><td>[admin.microsoft.com](https://admin.microsoft.com)</td><td>IT admins only</td></tr><tr><td>Committee files (SharePoint)</td><td>See [SharePoint Sites](#bkmrk-sharepoint-sites-%28co) above</td><td>All volunteers</td></tr><tr><td>Create surveys, RSVPs and polls</td><td>[Google Forms — preferred](https://forms.google.com); [Microsoft Forms — alternative](https://forms.microsoft.com)</td><td>Office and authorized form creators; see the [forms and results-sharing guide](https://wiki.sandiahomeowners.org/link/48)</td></tr></tbody></table>
 
 ## Public utilities
 
@@ -66,3 +66,7 @@ Need to explain how to use a temporary task-group address? Share this page: [Com
 Office staff: use the [Staff task guide](/link/13) for ownership, manual residents and website volunteers.
 
 Office and welcoming teams: start in [Membership and outreach](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/chapter/membership-and-outreach) for request handling, inherited membership definitions and Welcome Visits.
+
+## Forms surveys and RSVPs
+
+Use [Create forms surveys and RSVPs](https://wiki.sandiahomeowners.org/link/48) to build a Google form, share its responder link and give a requesting chair a separate read-only results-sheet link. Google Forms is preferred for SHHA’s external sharing workflow.

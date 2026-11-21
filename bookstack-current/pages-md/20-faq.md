@@ -366,3 +366,7 @@ For editorial questions or help submitting, email <griteditor@sandiahomeowners.o
 ## Where can I find IT systems and access information?
 
 [Systems Inventory](/books/shha-it-help-guide/page/systems-inventory) describes the services SHHA uses. [Controls &amp; Security](/books/shha-it-help-guide/page/controls-security) explains safe access and where to get help. IT maintainers should start with [IT Infrastructure and Handover](/books/shha-it-help-guide/page/it-infrastructure-and-handover) and obtain the relevant private operating guides through office staff.
+
+## How do I create a form for a survey RSVP or headcount?
+
+For a new SHHA form, start with [Google Forms](https://forms.google.com) and the [forms and results-sharing guide](https://wiki.sandiahomeowners.org/link/48). Google Forms is preferred because Microsoft’s external sharing choices can be awkward. The guide explains the respondent link, the separate read-only results spreadsheet, and the [Microsoft Forms](https://forms.microsoft.com) alternative. Ask [office staff](mailto:office@sandiahomeowners.org) to create or locate the SHHA-owned form.
