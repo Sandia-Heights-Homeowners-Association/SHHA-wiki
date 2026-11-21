@@ -16,22 +16,42 @@ Ask the office to create SHHA forms using **sandiahomeowners@gmail.com**, the de
 2. Name the file and form clearly, for example **Committee picnic RSVP**. In the description, explain the purpose, deadline and who to contact.
 3. Add each question. Use **Multiple choice** for one answer, **Checkboxes** for several choices, **Short answer** for a brief response, or **Paragraph** for comments. Turn on **Required** only for answers you need.
 4. For an RSVP, useful questions include whether the person will attend and the size of their party. Ask for a name or contact address only when the task needs it.
-5. Use **Preview** to check wording and choices.
+5. Use **Preview** to check wording and choices. The screenshots below use a documentation-only example, not an actual event.
+
+[![Example RSVP form editor with a multiple-choice question and Required switch](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/tRcZGolotN63BxLR-google-form-editor.jpg)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/tRcZGolotN63BxLR-google-form-editor.jpg)
+
+*A clearly named example form, one question and the Required switch. All answers in these screenshots are invented samples. Select a screenshot to enlarge it.*
 
 ## 2. Let the intended audience respond
 
 1. Open **Settings → Responses**. For an ordinary public survey that should work without a Google account, leave **Limit to 1 response** off. That option requires Google sign-in.
-2. If you need email addresses without requiring Google sign-in, choose manual responder entry rather than verified Google-account collection. Otherwise leave email collection off.
+2. If you need email addresses without requiring Google sign-in, set **Collect email addresses → Responder input**, which asks people to type their address, rather than **Verified**. Otherwise use **Do not collect**.
 3. Avoid a file-upload question for a simple public RSVP; uploads require Google sign-in.
 4. Review presentation settings. Leave **View results summary** off unless every respondent is meant to see the response summaries, including free-text answers. The chair’s results spreadsheet is a separate sharing choice.
+
+[![Google Forms response settings with Do not collect selected and Limit to 1 response off](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/zjGzFtr6tUiXAzK5-google-form-settings.jpg)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/zjGzFtr6tUiXAzK5-google-form-settings.jpg)
+
+*For this open example, Collect email addresses is Do not collect and Limit to 1 response is off. Select a screenshot to enlarge it.*
+
+[![Presentation settings with View results summary off](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/eb3QdcNvvhKuyYrd-google-presentation-settings.jpg)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/eb3QdcNvvhKuyYrd-google-presentation-settings.jpg)
+
+*View results summary is off. Sharing the chair’s results sheet is a separate step. Select a screenshot to enlarge it.*
 
 ## 3. Publish and share the responder link
 
 1. Select **Publish** in the form editor. Review **Responders** and use **Manage** if needed to set responder access to **Anyone with the link** for an open resident/volunteer survey.
 2. Finish publishing. Publishing makes the form available to its selected audience; it does not send an announcement for you unless you choose an invitation/notification option.
-3. Select **Published → Copy responder link**. The Share dialog may also offer **Copy responder link**. Copy that link, not the editor address.
+3. Select the chain-link icon labelled **Copy responder link** at the top of the editor, then select **Copy** in the popup. You can also open **Published → Copy responder link**. Use this responder link in the invitation.
 4. Paste it into the announcement email, calendar invitation or approved committee notice. Give it a clear label such as **Complete the picnic RSVP**, and include the closing date.
 5. Open the copied link in a signed-out or private browser window. Check that the intended respondent can reach the form without requesting editor access. Submit a clearly marked sample answer before launching the real survey, then confirm it appears under Responses.
+
+[![Published options showing Accepting responses and Anyone with the link](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/irvTgyE5ID6hUdG8-google-publish-responders.jpg)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/irvTgyE5ID6hUdG8-google-publish-responders.jpg)
+
+*After publishing, select Published to review the audience. This example accepts responses from Anyone with the link. Select a screenshot to enlarge it.*
+
+[![Copy responder link popup and Copy button in the form editor](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/svHImDBdf8hht4Xu-google-copy-responder-link.jpg)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/svHImDBdf8hht4Xu-google-copy-responder-link.jpg)
+
+*The chain-link icon opens Copy responder link. Select Copy in this popup, then paste the link into your invitation. Select a screenshot to enlarge it.*
 
 > Please complete the picnic RSVP by \[date\]: \[responder link\]. This link is for submitting your answer.
 
@@ -42,6 +62,14 @@ Ask the office to create SHHA forms using **sandiahomeowners@gmail.com**, the de
 3. Choose **Create a new spreadsheet** and select **Create**, or deliberately select an existing destination.
 4. Open the linked sheet. Confirm the sample answer appears as a row. Subsequent submissions feed this linked spreadsheet.
 5. Keep this spreadsheet as the continuing results destination. Sending an exported Excel/CSV file creates a snapshot; that attachment will not acquire later responses automatically.
+
+[![Responses tab showing the green Link to Sheets button](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/LDqdYHTZ0PlW18zx-google-responses-link-sheets.jpg)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/LDqdYHTZ0PlW18zx-google-responses-link-sheets.jpg)
+
+*Before a spreadsheet is connected, Responses offers Link to Sheets. After connecting it, this button becomes View in Sheets. Select a screenshot to enlarge it.*
+
+[![Linked response spreadsheet with Timestamp and the first sample RSVP answer](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/yaKLquFUnbqoPhxN-google-response-sheet.jpg)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/yaKLquFUnbqoPhxN-google-response-sheet.jpg)
+
+*The first sample submission appears as a row in the linked response spreadsheet. Select a screenshot to enlarge it.*
 
 ## 5. Share a read-only results link
 
@@ -54,6 +82,14 @@ Ask the office to create SHHA forms using **sandiahomeowners@gmail.com**, the de
 5. Send this second link to the chair with a label such as **View RSVP results — read only**. It is different from the link respondents use.
 6. Test the copied results link in a signed-out/private window. Confirm the rows are visible and you cannot edit them. Submit another sample answer through the responder link and verify that a new row arrives in the same results sheet.
 
+[![Google Sheets Share dialog showing Anyone with the link, Viewer, Copy link and Done](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/VQIPcTVHS4lNTFwG-google-sheet-sharing-viewer.jpg)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/VQIPcTVHS4lNTFwG-google-sheet-sharing-viewer.jpg)
+
+*For results suitable for link sharing, choose Anyone with the link and Viewer, then Copy link and Done. The account shown is SHHA’s designated service account. Select a screenshot to enlarge it.*
+
+[![Signed-out results sheet showing View only, Sign in and two sample responses](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/GBishgJT22zteI90-google-results-anonymous.jpg)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/GBishgJT22zteI90-google-results-anonymous.jpg)
+
+*Test the results link while signed out: View only appears beside the toolbar, and Sign in remains at the top right. A second sample submission has arrived in the same sheet. Select a screenshot to enlarge it.*
+
 If results contain private contact details or confidential answers, keep **General access → Restricted**, add the chair’s email address and choose **Viewer** instead. Sharing only selected results requires a separate suitable summary; hiding a column is not a way to make its data private from spreadsheet readers.
 
 Do not use **File → Share → Publish to web** for the ordinary read-only handoff. Use the Share dialog’s access setting. Form access and spreadsheet access are separate: test both links.
@@ -65,6 +101,10 @@ Do not use **File → Share → Publish to web** for the ordinary read-only hand
 1. At the deadline, open **Published**, switch **Accepting responses** off and save. Check the responder link shows that collection has closed.
 2. Keep the form and linked results sheet under SHHA ownership. Record the form editor location, responder link and results-sheet link in the committee’s approved workspace. Keep private results out of this public wiki.
 3. If an additional administrator needs edit access, grant it deliberately. Someone who only needs results can remain a spreadsheet Viewer.
+
+[![Published options with Not accepting responses switched off and the Save button](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/1dICmltbkQvTQWkb-google-close-form.jpg)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/1dICmltbkQvTQWkb-google-close-form.jpg)
+
+*At the deadline, turn Accepting responses off. It changes to Not accepting responses; select Save and test the responder link. Select a screenshot to enlarge it.*
 
 ## If you use Microsoft Forms
 
