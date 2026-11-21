@@ -53,7 +53,7 @@ For multi-property membership questions and welcoming work, use the [Membership 
 ## Add a New Volunteer
 
 1. Confirm the volunteer’s email choice. Arrange a requested SHHA mailbox through the account SOP, or send a Microsoft guest invitation to the personal email address.
-2. For a guest, confirm invitation acceptance. For an SHHA account, confirm first sign-in and mailbox setup.
+2. For a guest, follow the [illustrated invitation and committee setup steps](https://wiki.sandiahomeowners.org/link/27#bkmrk-sop-e%3A-add-an-extern), then confirm invitation acceptance. For an SHHA account, confirm first sign-in and mailbox setup.
 3. Add volunteer to committee mailing list.
 4. Provide direct committee SharePoint link.
 

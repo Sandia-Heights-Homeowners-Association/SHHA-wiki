@@ -51,7 +51,7 @@ Thank you,
 
 **Use for:** a volunteer using Gmail, Yahoo, iCloud, Outlook.com, or another personal address.
 
-**Suggested wiki link:** [Volunteer without SHHA Email](/books/shha-it-help-guide/page/volunteer-without-shha-email).
+Put [Welcome to SHHA](https://wiki.sandiahomeowners.org/link/49) in the invitation’s custom message. After adding the volunteer to the group, use the email below to give them the committee site address and confirm access. Follow the [illustrated office steps](https://wiki.sandiahomeowners.org/link/27#bkmrk-sop-e%3A-add-an-extern).
 
 ```
 Subject: Welcome to SHHA - Microsoft invitation and committee access
@@ -60,9 +60,10 @@ Hi [FIRST NAME],
 
 Welcome, and thank you for volunteering with SHHA.
 
-Microsoft will send an organization invitation to this email address. Please open that message and select Accept invitation. Sign in using the same email address that received the invitation. Microsoft may send you a one-time passcode.
+Your SHHA committee access is set up for this email address. If you still need help with Microsoft sign-in, open Welcome to SHHA:
+https://wiki.sandiahomeowners.org/link/49
 
-After accepting the invitation, you will receive committee email through:
+Your committee mailing list is:
 [MAILING LIST]
 
 Your committee documents are available here:
@@ -70,10 +71,7 @@ Your committee documents are available here:
 
 Please bookmark the committee site address above. Open Documents, then the folder and file name supplied by the sender. Do not use a file-sharing link from Share or Copy link; these do not work for SHHA’s external-volunteer handoff. External volunteers use SharePoint in a web browser and should not add committee files to OneDrive.
 
-Step-by-step instructions are here:
-[WIKI LINK]
-
-If you have trouble, please contact ITHelp@sandiahomeowners.org and include the email address you used, the link you opened, and a screenshot of the error.
+Please open Documents in your committee site and reply to this email to let us know whether you can see the files. If you have trouble, tell us the email address you used, the committee site you tried and the error you saw.
 
 Thank you,
 [OFFICE CONTACT]

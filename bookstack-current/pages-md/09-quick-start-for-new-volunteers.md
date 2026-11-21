@@ -2,6 +2,8 @@
 
 **Who this is for:** new SHHA volunteers. First choose which email address you want to use; office staff can help with either option.
 
+Already received an invitation? Start at [Welcome to SHHA](https://wiki.sandiahomeowners.org/link/49) for pictures of the email and first sign-in.
+
 ## Choose your email address
 
 **Any SHHA volunteer who wants their own SHHA email address may have one.** A personal address such as `first.last@sandiahomeowners.org` is available to volunteers as well as staff. Volunteers may also keep using personal email for committee messages and approved SharePoint guest access. Ask office staff for your preferred option; see [account setup and current license costs](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/sop-new-users-mailboxes-groups).

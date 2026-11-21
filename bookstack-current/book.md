@@ -856,6 +856,8 @@ Use the [public utilities guide](https://wiki.sandiahomeowners.org/books/shha-it
 
 **Who this is for:** new SHHA volunteers. First choose which email address you want to use; office staff can help with either option.
 
+Already received an invitation? Start at [Welcome to SHHA](https://wiki.sandiahomeowners.org/link/49) for pictures of the email and first sign-in.
+
 ## Choose your email address
 
 **Any SHHA volunteer who wants their own SHHA email address may have one.** A personal address such as `first.last@sandiahomeowners.org` is available to volunteers as well as staff. Volunteers may also keep using personal email for committee messages and approved SharePoint guest access. Ask office staff for your preferred option; see [account setup and current license costs](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/sop-new-users-mailboxes-groups).
@@ -955,6 +957,53 @@ If the address is not marked Member, a membership toggle appears in the Member A
 
 Need help? Contact <office@sandiahomeowners.org> for resident records and membership, or [IT Help](mailto:ithelp@sandiahomeowners.org) for technical access. Return to [the Staff guide](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/staff).
 
+# Welcome to SHHA
+
+Welcome to the Sandia Heights Homeowners Association. If you’re joining a committee or task group, start with the invitation sent to the email address you gave the office.
+
+**Using your personal email?** Follow the three steps below. **Received a new SHHA email account?** Start with the [SHHA email setup guide](/link/14).
+
+## 1. Accept your SHHA invitation
+
+1. Open the personal inbox you gave the office. Look for an email from **Microsoft Invitations** about collaborating with **SHHA**. If you don’t see it, check Spam or Junk.
+2. Check that you were expecting the invitation and that it identifies SHHA. In that email, select **Accept invitation**. A separate Teams or group welcome email may arrive. You can start as soon as the SHHA invitation arrives.
+
+[![Microsoft example invitation email with an Accept Invitation button](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/tAF05TzHrCWtOg0S-microsoft-invitation.jpg)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/tAF05TzHrCWtOg0S-microsoft-invitation.jpg)
+
+*Look for Accept invitation in the email. Microsoft’s sample uses Contoso. Your invitation should identify SHHA.* [Microsoft Learn example](https://learn.microsoft.com/en-us/entra/external-id/invitation-email-elements).
+
+## 2. Sign in with that same email
+
+1. Enter **the exact personal email address that received the invitation** and select **Next**. If the browser shows another account, choose **Use another account** if offered. You can also open the invitation in a private browser window to start with a fresh sign-in.
+2. Follow the prompt Microsoft gives you. If it recognizes an account for that email address, sign in as prompted. If you see **Send code**, select it, check that same inbox, and enter the new code in the Microsoft window. Leave that window open while you check your email.
+3. If Microsoft asks you to **Review permissions**, read the prompt and check that it names SHHA. Select **Accept** if it matches the invitation you expected. Microsoft may then open an app page. Continue to your committee site in step 3.
+
+[![Microsoft sign-in screen with a blank email field and Next button](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/NITDO3xUvMLSYeRe-personal-email-sign-in.jpg)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/NITDO3xUvMLSYeRe-personal-email-sign-in.jpg)
+
+*Enter the personal email address the office invited, then select Next.*
+
+[![Microsoft example sign-in with a Send code button](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/wndWdAT4aL56NZH0-microsoft-send-code.jpg)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/wndWdAT4aL56NZH0-microsoft-send-code.jpg)
+
+*If you see Send code, select it and check your invited inbox. This is a Microsoft sample.* [Microsoft Learn example](https://learn.microsoft.com/en-us/entra/external-id/one-time-passcode#user-experience-for-one-time-passcode-guest-users).
+
+[![Microsoft example Enter code screen with a Sign in button](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/Xu5URzhZruJhEPwM-microsoft-enter-code.jpg)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/Xu5URzhZruJhEPwM-microsoft-enter-code.jpg)
+
+*Use the new code from your own inbox, then select Sign in. The digits in this Microsoft example are sample digits.* [Microsoft Learn example](https://learn.microsoft.com/en-us/entra/external-id/one-time-passcode#user-experience-for-one-time-passcode-guest-users).
+
+## 3. Open your committee’s files
+
+1. Once the office confirms your group access, find your committee’s site in [Quick Links &amp; Directory](/link/3). Open it in your browser and use the same invited email if asked to sign in.
+2. Choose **Documents**. If the home page already shows Documents, open the folder there or select **See full library**. Bookmark the committee site for next time.
+3. When the office sends a test message to the committee list, check that it arrives at your personal address and confirm with the office.
+
+For pictures of Documents and how to find or share a file, follow the [Committee SharePoint Guide](/link/7). To use your committee mailing list, see the [Committee and Group Email Guide](/link/4).
+
+## If you get stuck
+
+**No invitation?** Ask [the office](mailto:office@sandiahomeowners.org) to confirm your email address and check the invitation. **Access denied after accepting?** Check which email you used. Ask the office to verify that the same address is in the correct committee group.
+
+For sign-in help, email [IT Help](mailto:ithelp@sandiahomeowners.org) with your invited email address, committee name and what you see on screen. Keep passwords, one-time codes and your invitation link private.
+
 # Role Guides
 
 # Staff
@@ -1012,7 +1061,7 @@ For multi-property membership questions and welcoming work, use the [Membership 
 ## Add a New Volunteer
 
 1. Confirm the volunteer’s email choice. Arrange a requested SHHA mailbox through the account SOP, or send a Microsoft guest invitation to the personal email address.
-2. For a guest, confirm invitation acceptance. For an SHHA account, confirm first sign-in and mailbox setup.
+2. For a guest, follow the [illustrated invitation and committee setup steps](https://wiki.sandiahomeowners.org/link/27#bkmrk-sop-e%3A-add-an-extern), then confirm invitation acceptance. For an SHHA account, confirm first sign-in and mailbox setup.
 3. Add volunteer to committee mailing list.
 4. Provide direct committee SharePoint link.
 
@@ -1181,7 +1230,7 @@ Thank you,
 
 **Use for:** a volunteer using Gmail, Yahoo, iCloud, Outlook.com, or another personal address.
 
-**Suggested wiki link:** [Volunteer without SHHA Email](/books/shha-it-help-guide/page/volunteer-without-shha-email).
+Put [Welcome to SHHA](https://wiki.sandiahomeowners.org/link/49) in the invitation’s custom message. After adding the volunteer to the group, use the email below to give them the committee site address and confirm access. Follow the [illustrated office steps](https://wiki.sandiahomeowners.org/link/27#bkmrk-sop-e%3A-add-an-extern).
 
 ```
 Subject: Welcome to SHHA - Microsoft invitation and committee access
@@ -1190,9 +1239,10 @@ Hi [FIRST NAME],
 
 Welcome, and thank you for volunteering with SHHA.
 
-Microsoft will send an organization invitation to this email address. Please open that message and select Accept invitation. Sign in using the same email address that received the invitation. Microsoft may send you a one-time passcode.
+Your SHHA committee access is set up for this email address. If you still need help with Microsoft sign-in, open Welcome to SHHA:
+https://wiki.sandiahomeowners.org/link/49
 
-After accepting the invitation, you will receive committee email through:
+Your committee mailing list is:
 [MAILING LIST]
 
 Your committee documents are available here:
@@ -1200,10 +1250,7 @@ Your committee documents are available here:
 
 Please bookmark the committee site address above. Open Documents, then the folder and file name supplied by the sender. Do not use a file-sharing link from Share or Copy link; these do not work for SHHA’s external-volunteer handoff. External volunteers use SharePoint in a web browser and should not add committee files to OneDrive.
 
-Step-by-step instructions are here:
-[WIKI LINK]
-
-If you have trouble, please contact ITHelp@sandiahomeowners.org and include the email address you used, the link you opened, and a screenshot of the error.
+Please open Documents in your committee site and reply to this email to let us know whether you can see the files. If you have trouble, tell us the email address you used, the committee site you tried and the error you saw.
 
 Thank you,
 [OFFICE CONTACT]
@@ -1325,6 +1372,8 @@ This page is for volunteers who participate using a personal email address. You 
 
 For an email-address request, contact [office staff](mailto:office@sandiahomeowners.org). For setup or access problems, contact [IT Help](mailto:ithelp@sandiahomeowners.org).
 
+**Just received an invitation?** [Welcome to SHHA](https://wiki.sandiahomeowners.org/link/49) shows the invitation, sign-in and email code screens step by step.
+
 ## First-Time Setup
 
 1. Look for the SHHA organization invitation. A separate group/Teams message may also arrive; you do not need to wait for two emails.
@@ -1342,13 +1391,13 @@ The subject is usually similar to **"Anna, SHHA invited you to collaborate with 
 The email usually includes:
 
 - A warning message telling you to proceed only if you trust the sender and organization
-- **Sender:** Anna, SHHA (anna.levchuk@sandiahomeowners.org)
+- **From:** Microsoft Invitations on behalf of the inviting organization. Look for SHHA and the name of the person who invited you in the message.
 - **Organization:** SHHA
 - **Domain:** sandiahomeowners.org
 
 This is the important one. Click **Accept invitation** to activate your access.
 
-After you click **Accept invitation**, Microsoft may bring you to a page that does not make much sense. This is normal and is just a Microsoft quirk. Use the direct links on the [Quick Links &amp; Directory](/books/shha-it-help-guide/page/quick-links-directory) page for useful pages and mailing lists.
+After you select **Accept invitation**, sign in and complete any permissions prompt for SHHA. Microsoft may then open an app page. Use the direct links on the [Quick Links &amp; Directory](/books/shha-it-help-guide/page/quick-links-directory) page for useful pages and mailing lists.
 
 ### 2) Optional group or Teams message
 
@@ -2959,17 +3008,59 @@ If you only need one address that emails the whole task force, do **SOP A** only
 
 ## SOP E: Add an External Guest (Volunteer)
 
-**Use this for:** volunteers who choose to keep using personal email; approved guest access avoids an SHHA mailbox license cost.
+**For office staff and IT setting up a volunteer who will use personal email.** The Microsoft invitation lets the person sign in as an SHHA guest. The committee group gives that guest access to its documents and mailing list. Complete both steps.
 
-**Menu path:** [admin.microsoft.com](https://admin.microsoft.com) → **Users** → **Guest users** (or Entra invite flow)
+Confirm the volunteer’s exact personal email address and approved committee. Use the [committee mailing address in Quick Links](/link/3) to identify the right group.
 
-### Step-by-step
+### 1. Invite the personal email address
 
-1. Invite external user with personal email address.
-2. Ask them to accept Microsoft invitation email.
-3. After acceptance, add them to needed Microsoft Groups.
-4. Verify they receive a test group email and can open the committee SharePoint Documents library using the invited account.
-5. Send the [New External Volunteer](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/office-onboarding-email-templates) email after testing access.
+1. Open the [Microsoft Entra admin center](https://entra.microsoft.com/) with an authorized SHHA account. Go to **Entra ID → Users → All users**. Search for the person first. If they already have an SHHA guest record for this email, reuse it and check the invitation status.
+2. For a new guest, select **New user → Invite external user**.
+
+[![New user menu with Invite external user](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/2U73BDRnIkk6pJpY-invite-menu.jpg)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/2U73BDRnIkk6pJpY-invite-menu.jpg)
+
+*Choose Invite external user to send an invitation to the volunteer’s personal email.*
+
+3. On **Basics**, enter the personal email address and the name the office will recognize. Keep **Send invite message** selected. In **Message**, identify SHHA and include the Welcome page address. Use the example below.
+4. Select **Review + invite**. Check the email spelling and confirm **User type** is **Guest**, then select **Invite**. Microsoft sends the invitation to that inbox.
+
+[![Invite external user form filled with a fictional name and personal email](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/08sVx0rhLKGMkTqx-invite-basics.jpg)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/08sVx0rhLKGMkTqx-invite-basics.jpg)
+
+*Enter the personal email and display name. The example address is for illustration. Keep Send invite message selected and include the welcome page in Message.*
+
+> Welcome to SHHA! Choose Accept invitation and sign in using this email address. First steps: https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/welcome-to-shha
+
+### 2. Confirm the invitation was accepted
+
+Ask the volunteer to follow [Welcome to SHHA](https://wiki.sandiahomeowners.org/link/49). In **Entra ID → Users**, open their guest record and check the invitation status. If it still shows pending, confirm the address and ask them to check Spam or Junk. Use the guest record’s **Resend invitation** action if needed.
+
+### 3. Add the guest to the approved committee group
+
+1. Go to **Entra ID → Groups → All groups**. Search for the committee by name. Verify the group type is **Microsoft 365** and match its email to the mailing address in [Quick Links](/link/3). For example, the Environment &amp; Safety Committee uses **ESC@sandiahomeowners.org**. Select the committee group for ordinary committee access.
+
+[![Group search showing the Environment and Safety Committee and its Chair group](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/U8pnUqQn6mmU9Tap-committee-group-search.jpg)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/U8pnUqQn6mmU9Tap-committee-group-search.jpg)
+
+*Check the full name and address. The first result is the committee group in this example.*
+
+2. In the selected group, open **Members**, then **Add members**.
+
+[![Committee Members page with Add members and Direct members controls](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/QKWC3CN3n5lnMjNQ-committee-members.jpg)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/QKWC3CN3n5lnMjNQ-committee-members.jpg)
+
+*Open the selected committee’s Members page. Choose Add members.*
+
+3. Search by the guest’s display name. Match the result to the guest record for the invited email, especially if two people have similar names. Select the guest, then choose **Select** at the bottom to add them as a group member.
+4. Return to **Direct members** and check that the guest appears in the list.
+
+[![Add members picker with a name search, Selected count and Select button](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/hdqLandb3fKs7Kfp-committee-add-members.jpg)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/hdqLandb3fKs7Kfp-committee-add-members.jpg)
+
+*Search for the volunteer, choose the matching guest and select Select. The fictional name in this picture has no result.*
+
+### 4. Check the volunteer’s access
+
+1. Send the committee site address and the [Welcome to SHHA](https://wiki.sandiahomeowners.org/link/49) page. Ask the volunteer to sign in with the invited address and open **Documents**.
+2. Confirm the volunteer can open the intended library and receives a test message sent to the committee list. If either fails, check the accepted invitation and the group membership for the same email. Use [the external volunteer email template](/link/15) for your handoff.
+
+For provider details, see [Microsoft’s guest invitation instructions](https://learn.microsoft.com/en-us/entra/fundamentals/how-to-create-delete-users#invite-an-external-user) and [group membership instructions](https://learn.microsoft.com/en-us/entra/fundamentals/how-to-manage-groups#add-members-or-owners-of-a-group).
 
 ---
 

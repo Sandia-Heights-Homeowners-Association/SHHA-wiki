@@ -154,17 +154,59 @@ If you only need one address that emails the whole task force, do **SOP A** only
 
 ## SOP E: Add an External Guest (Volunteer)
 
-**Use this for:** volunteers who choose to keep using personal email; approved guest access avoids an SHHA mailbox license cost.
+**For office staff and IT setting up a volunteer who will use personal email.** The Microsoft invitation lets the person sign in as an SHHA guest. The committee group gives that guest access to its documents and mailing list. Complete both steps.
 
-**Menu path:** [admin.microsoft.com](https://admin.microsoft.com) → **Users** → **Guest users** (or Entra invite flow)
+Confirm the volunteer’s exact personal email address and approved committee. Use the [committee mailing address in Quick Links](/link/3) to identify the right group.
 
-### Step-by-step
+### 1. Invite the personal email address
 
-1. Invite external user with personal email address.
-2. Ask them to accept Microsoft invitation email.
-3. After acceptance, add them to needed Microsoft Groups.
-4. Verify they receive a test group email and can open the committee SharePoint Documents library using the invited account.
-5. Send the [New External Volunteer](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/office-onboarding-email-templates) email after testing access.
+1. Open the [Microsoft Entra admin center](https://entra.microsoft.com/) with an authorized SHHA account. Go to **Entra ID → Users → All users**. Search for the person first. If they already have an SHHA guest record for this email, reuse it and check the invitation status.
+2. For a new guest, select **New user → Invite external user**.
+
+[![New user menu with Invite external user](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/2U73BDRnIkk6pJpY-invite-menu.jpg)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/2U73BDRnIkk6pJpY-invite-menu.jpg)
+
+*Choose Invite external user to send an invitation to the volunteer’s personal email.*
+
+3. On **Basics**, enter the personal email address and the name the office will recognize. Keep **Send invite message** selected. In **Message**, identify SHHA and include the Welcome page address. Use the example below.
+4. Select **Review + invite**. Check the email spelling and confirm **User type** is **Guest**, then select **Invite**. Microsoft sends the invitation to that inbox.
+
+[![Invite external user form filled with a fictional name and personal email](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/08sVx0rhLKGMkTqx-invite-basics.jpg)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/08sVx0rhLKGMkTqx-invite-basics.jpg)
+
+*Enter the personal email and display name. The example address is for illustration. Keep Send invite message selected and include the welcome page in Message.*
+
+> Welcome to SHHA! Choose Accept invitation and sign in using this email address. First steps: https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/welcome-to-shha
+
+### 2. Confirm the invitation was accepted
+
+Ask the volunteer to follow [Welcome to SHHA](https://wiki.sandiahomeowners.org/link/49). In **Entra ID → Users**, open their guest record and check the invitation status. If it still shows pending, confirm the address and ask them to check Spam or Junk. Use the guest record’s **Resend invitation** action if needed.
+
+### 3. Add the guest to the approved committee group
+
+1. Go to **Entra ID → Groups → All groups**. Search for the committee by name. Verify the group type is **Microsoft 365** and match its email to the mailing address in [Quick Links](/link/3). For example, the Environment &amp; Safety Committee uses **ESC@sandiahomeowners.org**. Select the committee group for ordinary committee access.
+
+[![Group search showing the Environment and Safety Committee and its Chair group](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/U8pnUqQn6mmU9Tap-committee-group-search.jpg)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/U8pnUqQn6mmU9Tap-committee-group-search.jpg)
+
+*Check the full name and address. The first result is the committee group in this example.*
+
+2. In the selected group, open **Members**, then **Add members**.
+
+[![Committee Members page with Add members and Direct members controls](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/QKWC3CN3n5lnMjNQ-committee-members.jpg)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/QKWC3CN3n5lnMjNQ-committee-members.jpg)
+
+*Open the selected committee’s Members page. Choose Add members.*
+
+3. Search by the guest’s display name. Match the result to the guest record for the invited email, especially if two people have similar names. Select the guest, then choose **Select** at the bottom to add them as a group member.
+4. Return to **Direct members** and check that the guest appears in the list.
+
+[![Add members picker with a name search, Selected count and Select button](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/hdqLandb3fKs7Kfp-committee-add-members.jpg)](https://wiki.sandiahomeowners.org/uploads/images/gallery/2026-11/hdqLandb3fKs7Kfp-committee-add-members.jpg)
+
+*Search for the volunteer, choose the matching guest and select Select. The fictional name in this picture has no result.*
+
+### 4. Check the volunteer’s access
+
+1. Send the committee site address and the [Welcome to SHHA](https://wiki.sandiahomeowners.org/link/49) page. Ask the volunteer to sign in with the invited address and open **Documents**.
+2. Confirm the volunteer can open the intended library and receives a test message sent to the committee list. If either fails, check the accepted invitation and the group membership for the same email. Use [the external volunteer email template](/link/15) for your handoff.
+
+For provider details, see [Microsoft’s guest invitation instructions](https://learn.microsoft.com/en-us/entra/fundamentals/how-to-create-delete-users#invite-an-external-user) and [group membership instructions](https://learn.microsoft.com/en-us/entra/fundamentals/how-to-manage-groups#add-members-or-owners-of-a-group).
 
 ---
 

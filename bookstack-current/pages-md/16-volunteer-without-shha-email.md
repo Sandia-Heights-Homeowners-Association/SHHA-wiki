@@ -6,6 +6,8 @@ This page is for volunteers who participate using a personal email address. You 
 
 For an email-address request, contact [office staff](mailto:office@sandiahomeowners.org). For setup or access problems, contact [IT Help](mailto:ithelp@sandiahomeowners.org).
 
+**Just received an invitation?** [Welcome to SHHA](https://wiki.sandiahomeowners.org/link/49) shows the invitation, sign-in and email code screens step by step.
+
 ## First-Time Setup
 
 1. Look for the SHHA organization invitation. A separate group/Teams message may also arrive; you do not need to wait for two emails.
@@ -23,13 +25,13 @@ The subject is usually similar to **"Anna, SHHA invited you to collaborate with 
 The email usually includes:
 
 - A warning message telling you to proceed only if you trust the sender and organization
-- **Sender:** Anna, SHHA (anna.levchuk@sandiahomeowners.org)
+- **From:** Microsoft Invitations on behalf of the inviting organization. Look for SHHA and the name of the person who invited you in the message.
 - **Organization:** SHHA
 - **Domain:** sandiahomeowners.org
 
 This is the important one. Click **Accept invitation** to activate your access.
 
-After you click **Accept invitation**, Microsoft may bring you to a page that does not make much sense. This is normal and is just a Microsoft quirk. Use the direct links on the [Quick Links &amp; Directory](/books/shha-it-help-guide/page/quick-links-directory) page for useful pages and mailing lists.
+After you select **Accept invitation**, sign in and complete any permissions prompt for SHHA. Microsoft may then open an app page. Use the direct links on the [Quick Links &amp; Directory](/books/shha-it-help-guide/page/quick-links-directory) page for useful pages and mailing lists.
 
 ### 2) Optional group or Teams message
 
