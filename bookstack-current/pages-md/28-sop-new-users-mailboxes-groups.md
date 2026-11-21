@@ -14,7 +14,7 @@ For an email-address request, contact [office staff](mailto:office@sandiahomeown
 
 ## Quick Start: What Are You Trying to Set Up?
 
-<table id="bkmrk-if-you-need...go-to-"><thead><tr><th>If you need...</th><th>Go to this section</th></tr></thead><tbody><tr><td>A new task-force or committee mailing address that sends to all members</td><td>[SOP A: Create a Microsoft 365 Group (Mailing List)](#bkmrk-sop-a%3A-create-a-micr)</td></tr><tr><td>A SharePoint document site for a new committee or task force</td><td>[SOP: Create a Committee SharePoint Site](/books/shha-it-help-guide/page/sop-create-a-committee-sharepoint-site)</td></tr><tr><td>A shared mailbox for one of the six officer roles</td><td>[SOP B: Create a Shared Mailbox](#bkmrk-sop-b%3A-create-a-shar)</td></tr><tr><td>A friendly one-off address like wildfire@sandiahomeowners.org</td><td>[SOP C: Add an Alias](#bkmrk-sop-c%3A-add-an-alias-)</td></tr><tr><td>A personal SHHA email account for a volunteer or staff member, such as first.last@sandiahomeowners.org</td><td>[SOP D: Add a Licensed User](#bkmrk-sop-d%3A-add-a-new-lic)</td></tr><tr><td>An external volunteer using Gmail/Yahoo/etc.</td><td>[SOP E: Add an External Guest](#bkmrk-sop-e%3A-add-an-extern)</td></tr></tbody></table>
+<table id="bkmrk-if-you-need...go-to-"><thead><tr><th>If you need...</th><th>Go to this section</th></tr></thead><tbody><tr><td>A new task-force or committee mailing address that sends to all members</td><td>[SOP A: Create a Microsoft 365 Group (Mailing List)](#bkmrk-sop-a%3A-create-a-micr)</td></tr><tr><td>A SharePoint document site for a new committee or task force</td><td>[SOP: Create a Committee SharePoint Site](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/sop-create-a-committee-sharepoint-site)</td></tr><tr><td>A shared mailbox for one of the six officer roles</td><td>[SOP B: Create a Shared Mailbox](#bkmrk-sop-b%3A-create-a-shar)</td></tr><tr><td>A friendly one-off address like wildfire@sandiahomeowners.org</td><td>[SOP C: Add an Alias](#bkmrk-sop-c%3A-add-an-alias-)</td></tr><tr><td>A personal SHHA email account for a volunteer or staff member, such as first.last@sandiahomeowners.org</td><td>[SOP D: Add a Licensed User](#bkmrk-sop-d%3A-add-a-new-lic)</td></tr><tr><td>An external volunteer using Gmail/Yahoo/etc.</td><td>[SOP E: Add an External Guest](#bkmrk-sop-e%3A-add-an-extern)</td></tr></tbody></table>
 
 ---
 
@@ -27,8 +27,8 @@ For a new short-term task force, the normal pattern is:
 3. If the request is for one of the six officer roles, use **SOP B** for the role mailbox. Ordinary committee chairs and task-force leads do not get shared mailboxes.
 4. Add an optional **Alias** (for example, `wildfire@sandiahomeowners.org`) if a friendlier address is useful.
 5. Confirm the Microsoft 365 group-connected **SharePoint site** exists; do not create a duplicate.
-6. Configure document permissions using [SOP: Create a Committee SharePoint Site](/books/shha-it-help-guide/page/sop-create-a-committee-sharepoint-site) and send members the [Committee SharePoint Guide](/books/shha-it-help-guide/page/committee-sharepoint-guide).
-7. Test email delivery, update the Quick Links directory, and send the [New Committee Or Task Force](/books/shha-it-help-guide/page/office-onboarding-email-templates) email if this is a new group.
+6. Configure document permissions using [SOP: Create a Committee SharePoint Site](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/sop-create-a-committee-sharepoint-site) and send members the [Committee SharePoint Guide](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/committee-sharepoint-guide).
+7. Test email delivery, update the Quick Links directory, and send the [New Committee Or Task Force](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/office-onboarding-email-templates) email if this is a new group.
 
 If you only need one address that emails the whole task force, do **SOP A** only.
 
@@ -66,7 +66,7 @@ If you only need one address that emails the whole task force, do **SOP A** only
 13. Add all task-force members (internal and external as available).
 14. **Required:** Add `admin@sandiahomeowners.org` as a member for archive continuity.
 15. Send a test email to the new group address and confirm delivery.
-16. Send the [New Committee Or Task Force](/books/shha-it-help-guide/page/office-onboarding-email-templates) email after the group, membership, and any SharePoint site are tested.
+16. Send the [New Committee Or Task Force](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/office-onboarding-email-templates) email after the group, membership, and any SharePoint site are tested.
 
 **Test after every change:** whenever membership or a group setting changes, test the group again. You can add yourself temporarily, send a test message, and remove yourself afterward. If external delivery matters, you can also add a personal Gmail account temporarily, test it, and remove it when finished.
 
@@ -98,7 +98,7 @@ If you only need one address that emails the whole task force, do **SOP A** only
 4. Save the mailbox, then open its details and choose **Members** → **Edit** → **Add members**.
 5. Add the incoming officer's licensed `@sandiahomeowners.org` account.
 6. Grant that account both **Full Access** and **Send As**. These are separate permissions; grant both.
-7. Send the [Officer Shared Mailbox Access](/books/shha-it-help-guide/page/office-onboarding-email-templates) email with the direct role address and the wiki link.
+7. Send the [Officer Shared Mailbox Access](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/office-onboarding-email-templates) email with the direct role address and the wiki link.
 8. Ask the officer to sign in to [Outlook](https://outlook.office.com) with their own account and manually add the shared mailbox. It will not appear automatically in every Outlook setup.
 9. Test that the officer can open the mailbox, read an incoming test message, and send with the role address in the **From** field.
 10. Tell the officer to send official role correspondence from the role mailbox or copy it. The shared mailbox is the role's archive; a personal inbox is not.
@@ -164,13 +164,13 @@ If you only need one address that emails the whole task force, do **SOP A** only
 2. Ask them to accept Microsoft invitation email.
 3. After acceptance, add them to needed Microsoft Groups.
 4. Verify they receive a test group email and can open the committee SharePoint Documents library using the invited account.
-5. Send the [New External Volunteer](/books/shha-it-help-guide/page/office-onboarding-email-templates) email after testing access.
+5. Send the [New External Volunteer](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/office-onboarding-email-templates) email after testing access.
 
 ---
 
 ## Send The Onboarding Email
 
-After setup and testing are complete, choose the matching message from [Office Onboarding Email Templates](/books/shha-it-help-guide/page/office-onboarding-email-templates). Replace every placeholder and test every link before sending.
+After setup and testing are complete, choose the matching message from [Office Onboarding Email Templates](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/office-onboarding-email-templates). Replace every placeholder and test every link before sending.
 
 ## Final Validation (Do This Before You Tell the Office Contact Setup Is Complete)
 
@@ -183,9 +183,34 @@ After setup and testing are complete, choose the matching message from [Office O
 
 ---
 
+## Reset a forgotten Microsoft 365 password
+
+These steps are for an authorized Microsoft administrator handling a request for an SHHA-managed work account. Verify the request and the user’s identity through a known contact method before resetting anything. Confirm the account in Microsoft. A personal Microsoft account or an account managed by a guest’s home organization must be recovered through that provider or organization. For a guest who signs in with an email code, help them use the invited address and request a fresh code. If you do not have the required Microsoft role, forward the request to [IT Help](mailto:ithelp@sandiahomeowners.org).
+
+1. Open the [Microsoft 365 admin center](https://admin.cloud.microsoft/) and go to **Users → Active users**.
+2. Select the verified SHHA account, choose **Reset password**, and generate a temporary password. Keep the option to require a new password at the next sign-in selected if it is shown. Select **Reset password** to finish.
+3. Send the sign-in instructions to the requester’s verified alternate contact. Give them the temporary password through a separate approved channel. If using an approved encrypted message for the password, replace `[TEMPORARY PASSWORD]` in that message only. Keep the password out of ordinary email, the wiki, and Ask the Wiki.
+
+### Copy after completing the reset
+
+**Subject:** Your SHHA Microsoft password was reset
+
+Hi \[FIRST NAME\],
+
+I reset the password for your SHHA Microsoft account (\[SHHA SIGN-IN EMAIL\]). I’ll share your temporary password separately via \[APPROVED CHANNEL\]. Go to https://www.microsoft365.com/ and sign in with your SHHA email and the temporary password. Microsoft will prompt you to choose a new password.
+
+If you still can’t sign in, reply with the error message. Please leave out passwords and verification codes.
+
+Thanks,  
+\[YOUR NAME\]
+
+**Separate secure message:** Your temporary Microsoft password is \[TEMPORARY PASSWORD\]. Microsoft will ask you to choose a new password when you sign in.
+
+See Microsoft’s [password reset instructions](https://learn.microsoft.com/en-us/microsoft-365/admin/add-users/reset-passwords) and [account ownership and administrator role requirements](https://learn.microsoft.com/en-us/entra/fundamentals/users-reset-password-azure-portal).
+
 ## Where To Go Next
 
-- [M365 Email Building Blocks](/books/shha-it-help-guide/page/m365-email-building-blocks) for choosing the right pattern first
-- [M365 Email Groups, Role Inboxes &amp; Responsibilities](/books/shha-it-help-guide/page/m365-email-groups-role-inboxes-responsibilities) for governance and handoff rules
-- [SOP: Create a Committee SharePoint Site](/books/shha-it-help-guide/page/sop-create-a-committee-sharepoint-site) for document-library setup and permissions
-- [Quick Links &amp; Directory](/books/shha-it-help-guide/page/quick-links-directory) to keep the address list current
+- [M365 Email Building Blocks](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/m365-email-building-blocks) for choosing the right pattern first
+- [M365 Email Groups, Role Inboxes &amp; Responsibilities](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/m365-email-groups-role-inboxes-responsibilities) for governance and handoff rules
+- [SOP: Create a Committee SharePoint Site](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/sop-create-a-committee-sharepoint-site) for document-library setup and permissions
+- [Quick Links &amp; Directory](https://wiki.sandiahomeowners.org/books/shha-it-help-guide/page/quick-links-directory) to keep the address list current
